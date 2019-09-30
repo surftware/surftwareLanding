@@ -9,9 +9,9 @@
 						<li>
 							<ul>
 								<li><a href="mailto:exampleemail@gmail.com"><i
-											class="fa fa-envelope"></i>exampleemail@gmail.com</a></li>
-								<li><a href="tel:1-677-124-44227"><i class="fa fa-phone"></i>1-677-124-44227</a></li>
-								<li><span><i class="fa fa-map-marker"></i>437 S Olive St, Los Angeles</span></li>
+											class="fa fa-envelope"></i>surftware@gmail.com</a></li>
+								<li><a href="tel:1-677-124-44227"><i class="fa fa-phone"></i>55-11-89-46-21</a></li>
+								<li><span><i class="fa fa-map-marker"></i>Oriente 85 3406 Col La joya</span></li>
 							</ul>
 						</li>
 					</ul>
