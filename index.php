@@ -864,27 +864,11 @@
 		</div>
 	</div>
 
-	<div class="block subscription" id="subscription">
-		<div class="center">
-			<div class="title wow fadeInDown">
-				Get free marketing recommendations
-			</div>
-			<p class="wow fadeInDown" data-wow-delay="0.2s">
-				Want to receive the latest news, updates, and free marketing stuff right to your inbox? Subscribe to our
-				newsletter.
-			</p>
-			<form class="wow fadeInDown" data-wow-delay="0.3s">
-				<input type="text" class="input" placeholder="Email*" required>
-				<input type="submit" class="submit btn btn__large btn__white_transparent" value="Subscribe">
-			</form>
-		</div>
-	</div>
-
-
 
 </div>
 
 </div>
+
 <?php
 define('BASE_PATH','/var/www/surftwarelanding.local/');
   include (BASE_PATH."includes/footer.php");
