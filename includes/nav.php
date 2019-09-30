@@ -8,25 +8,18 @@
 					<ul class="info">
 						<li>
 							<ul>
-								<li><a href="mailto:exampleemail@gmail.com"><i
-											class="fa fa-envelope"></i>surftware@gmail.com</a></li>
-								<li><a href="tel:1-677-124-44227"><i class="fa fa-phone"></i>55-11-89-46-21</a></li>
-								<li><span><i class="fa fa-map-marker"></i>Oriente 85 3406 Col La joya</span></li>
+								<li><a href="email:surftware@gmail.com"><i
+											class="fa fa-envelope"></i> surftware@gmail.com</a></li>
+								<li><a href="tel:1-677-124-44227"><i class="fa fa-phone"></i> 55-11-89-46-21</a></li>
+								<li><span><i class="fa fa-map-marker"></i> Oriente 85 3406 Col La joya</span></li>
 							</ul>
 						</li>
 					</ul>
 					<div class="soc clearfix">
-						<a href="#">
-							<i class="fa fa-twitter"></i>
+						
+						<a href="facebook"><i class="fab fa-facebook-f"></i></i>
 						</a>
-						<a href="#">
-							<i class="fa fa-linkedin"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-google-plus"></i>
-						</a>
-						<a href="#">
-							<i class="fa fa-facebook"></i>
+						<a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></a>
 						</a>
 					</div>
 				</div>
