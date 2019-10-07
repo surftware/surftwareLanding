@@ -827,7 +827,7 @@
 						<li><a href="mailto:exampleemail@gmail.com"><i class="fa fa-envelope"></i>
 								surftware@gmail.com</a></li>
 						<li><a href="tel: 55-11-89-46-21"><i class="fa fa-phone"></i> 55-11-89-46-21</a></li>
-						<li><a href="https://goo.gl/maps/X8ZRwoqS8MvsVzP39" target="_blank"><i
+						<li><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank"><i
 									class="fa fa-map-marker"></i> Oriente S85 #3406 Col. La Joya</a></li>
 						<li><a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></i>
 								surftware@gmail.com</a></li>
