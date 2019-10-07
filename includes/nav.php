@@ -17,7 +17,7 @@
 						</li>
 					</ul>
 					<div class="soc clearfix">
-
+						<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
 						<a href="facebook"><i class="fab fa-facebook-f"></i></i>
 						</a>
 						<a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></a>

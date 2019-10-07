@@ -824,7 +824,7 @@
 			<div class="contacts__block">
 				<div class="left_side  wow bounceInLeft">
 					<ul>
-						<li><a href="mailto:exampleemail@gmail.com"><i class="fa fa-envelope"></i>
+						<li><a href="mailto:surftware@gmail.com"><i class="fa fa-envelope"></i>
 								surftware@gmail.com</a></li>
 						<li><a href="tel: 55-11-89-46-21"><i class="fa fa-phone"></i> 55-11-89-46-21</a></li>
 						<li><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank"><i
@@ -838,9 +838,9 @@
 							Redes Sociales
 						</div>
 						<div class="links mt-2 text-center">
-							<a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></a>
-							<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
+							<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
 							<a href=""><i class="fab fa-facebook"></i></a>
+							<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
 						</div>
 						</div>
 					</div>
