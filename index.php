@@ -830,7 +830,7 @@
 						<li><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank"><i
 									class="fa fa-map-marker"></i> Oriente 85 #3406 Col. La Joya</a></li>
 						<li><a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></i>
-								surftware@gmail.com</a></li>
+								surftware@outlook.com</a></li>
 					</ul>
 					<div class="soc">
 						<div class="title">
