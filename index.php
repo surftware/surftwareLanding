@@ -834,15 +834,17 @@
 					</ul>
 					<div class="soc">
 						<div class="title">
-							Social Networks
+						<div class="text-center">
+							Redes Sociales
 						</div>
-						<div class="links">
-
+						<div class="links mt-2 text-center">
 							<a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></a>
 							<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
 							<a href=""><i class="fab fa-facebook"></i></a>
 						</div>
+						</div>
 					</div>
+					
 				</div>
 				<div class="right_side  wow bounceInRight">
 					<form action="index.php" method="post">
@@ -856,7 +858,7 @@
 							<input name="correo" type="text" class="input" placeholder="Email*" required>
 						</div>
 						<div class="row">
-							<textarea name="mensaje" placeholder="Mensage" class="textarea" rows="5"
+							<textarea name="mensaje" placeholder="Mensaje" class="textarea" rows="5"
 								required></textarea>
 						</div>
 						<div class="row">
