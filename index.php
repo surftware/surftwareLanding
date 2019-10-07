@@ -816,7 +816,7 @@
 		<div class="center">
 			<div class="block__title  wow bounceInLeft">
 				<span>Ponte en contacto</span>
-				Contactanos
+				Contáctanos
 				<p>Envíenos un mensaje para contactarlo y brindarle más información sobre nosotros
 
 					<strong>Surftware </strong></p>
