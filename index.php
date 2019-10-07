@@ -847,16 +847,16 @@
 				<div class="right_side  wow bounceInRight">
 					<form action="index.php" method="post">
 						<div class="row">
-							<input name="nombre" type="text" class="input" placeholder="Name*" required>
+							<input name="nombre" type="text" class="input" placeholder="Nombre*" required>
 						</div>
 						<div class="row">
-							<input name="telefono" type="text" class="input" placeholder="Telephone">
+							<input name="telefono" type="text" class="input" placeholder="Telefono*">
 						</div>
 						<div class="row">
 							<input name="correo" type="text" class="input" placeholder="Email*" required>
 						</div>
 						<div class="row">
-							<textarea name="mensaje" placeholder="Message" class="textarea" rows="5"
+							<textarea name="mensaje" placeholder="Mensage" class="textarea" rows="5"
 								required></textarea>
 						</div>
 						<div class="row">
