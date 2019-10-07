@@ -829,8 +829,8 @@
 						<li><a href="tel: 55-11-89-46-21"><i class="fa fa-phone"></i> 55-11-89-46-21</a></li>
 						<li><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank"><i
 									class="fa fa-map-marker"></i> Oriente 85 #3406 Col. La Joya</a></li>
-						<li><a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></i>
-								surftware@outlook.com</a></li>
+						<li><a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></i>
+								surftware@outlook.es</a></li>
 					</ul>
 					<div class="soc">
 						<div class="title">
@@ -852,7 +852,7 @@
 							<input name="nombre" type="text" class="input" placeholder="Nombre*" required>
 						</div>
 						<div class="row">
-							<input name="telefono" type="text" class="input" placeholder="Telefono*">
+							<input name="teléfono" type="text" class="input" placeholder="Teléfono*">
 						</div>
 						<div class="row">
 							<input name="correo" type="text" class="input" placeholder="Email*" required>
@@ -864,7 +864,7 @@
 						<div class="row">
 							<div class="btn__wrap__right">
 								<input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold"
-									value="Send">
+									value="Contáctame">
 							</div>
 						</div>
 					</form>

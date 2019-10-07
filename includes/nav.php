@@ -12,16 +12,14 @@
 										&nbsp;surftware@gmail.com</a></li>
 								<li><a href="tel:1-677-124-44227"><i class="fa fa-phone"></i> &nbsp;55-11-89-46-21</a>
 								</li>
-								<li><span><i class="fa fa-map-marker"></i> &nbsp;Oriente 85 3406 Col La joya</span></li>
+								<li><span><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank"><i class="fa fa-map-marker"></i> &nbsp;Oriente 85 3406 Col La joya</span></li>
 							</ul>
 						</li>
 					</ul>
 					<div class="soc clearfix">
 						<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
-						<a href="facebook"><i class="fab fa-facebook-f"></i></i>
-						</a>
-						<a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></a>
-						</a>
+						<a href="facebook"><i class="fab fa-facebook-f"></i></i></a>
+						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
 					</div>
 				</div>
 			</div>
