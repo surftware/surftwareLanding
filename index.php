@@ -1,6 +1,6 @@
 <?php
 	 
-	define('BASE_PATH','/var/www/surftwarelanding.local/');
+	define('BASE_PATH','/var/www/surftwareLanding/');
 	 
 	include (BASE_PATH."includes/head.php"); 
 	 
@@ -821,18 +821,21 @@
 			<div class="contacts__block">
 				<div class="left_side  wow bounceInRight">
 					<ul>
-						<li><a href="email:surftware@gmail.com"><i
-									class="fa fa-envelope"></i> surftware@gmail.com</a></li>
+						<li><a href="email:surftware@gmail.com"><i class="fa fa-envelope"></i> surftware@gmail.com</a>
+						</li>
 						<li><a href="tel:+52 5511894621"><i class="fa fa-phone"></i> 55-11-89-46-21</a></li>
 						<li><span><i class="fa fa-map-marker"></i> Oriente 85 3406 Col La joya</span></li>
-						<li><a href="skype:surftware@outlook.es"><i class="fa fa-skype"></i><surftware@outlook.es class="es"></surftware@outlok></a></li>
+						<li><a href="skype:surftware@outlook.es"><i class="fa fa-skype"></i>
+								<surftware@outlook.es class="es">
+									</surftware@outlok>
+							</a></li>
 					</ul>
 					<div class="soc">
 						<div class="title">
 							Social Networks
 						</div>
 						<div class="links">
-						
+
 							<a href="skype:surftware@outlook.com?chat"><i class="fab fa-skype"></i></a>
 							<a href="facebook"><i class="fab fa-facebook-f"></i></i>
 						</div>
@@ -858,8 +861,9 @@
 				</div>
 			</div>
 			<div class="map">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.959767755553!2d-99.11320868567685!3d19.457301344933587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f95d684f2c37%3A0x9e71c1b1e2cc2d52!2sOte.%2085%203406%2C%20Cuchilla%20de%20la%20Joya%2C%2007890%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1569870135360!5m2!1ses-419!2smx" 
-			width="1024" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+				<iframe
+					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.959767755553!2d-99.11320868567685!3d19.457301344933587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f95d684f2c37%3A0x9e71c1b1e2cc2d52!2sOte.%2085%203406%2C%20Cuchilla%20de%20la%20Joya%2C%2007890%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1569870135360!5m2!1ses-419!2smx"
+					width="1024" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 			</div>
 		</div>
 	</div>
@@ -870,7 +874,7 @@
 </div>
 
 <?php
-define('BASE_PATH','/var/www/surftwarelanding.local/');
+  define('BASE_PATH','/var/www/surftwarelanding.local/');
   include (BASE_PATH."includes/footer.php");
   include (BASE_PATH."includes/js.php");
 ?>
