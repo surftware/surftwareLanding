@@ -16,10 +16,10 @@
 							</ul>
 						</li>
 					</ul>
-					<div class="soc clearfix">
-						<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
-						<a href="facebook"><i class="fab fa-facebook-f"></i></i></a>
-						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
+					<div class= "">
+					<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
+							<a href=""><i class="fab fa-facebook"></i></a>
+							<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
 					</div>
 				</div>
 			</div>
