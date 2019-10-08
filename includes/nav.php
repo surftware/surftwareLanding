@@ -12,20 +12,22 @@
 										&nbsp;surftware@gmail.com</a></li>
 								<li><a href="tel:1-677-124-44227"><i class="fa fa-phone"></i> &nbsp;55-11-89-46-21</a>
 								</li>
-								<li><span><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank"><i class="fa fa-map-marker"></i> &nbsp;Oriente 85 3406 Col La joya</span></li>
+								<li><span><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank"><i
+												class="fa fa-map-marker"></i> &nbsp;Oriente 85 3406 Col La joya</span>
+								</li>
 							</ul>
 						</li>
 					</ul>
-					<div class= "">
-					<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
-							<a href=""><i class="fab fa-facebook"></i></a>
-							<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
+					<div class="">
+						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
+						<a href=""><i class="fab fa-facebook"></i></a>
+						<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
 					</div>
 				</div>
 			</div>
 			<div class="header__bottom">
 				<div class="center pr">
-					<a href="#" class="logo">
+					<a href="index.php" class="logo">
 						<img src="images/header_logo.png" alt="">
 					</a>
 					<div class="nav clearfix">
@@ -55,14 +57,18 @@
 					</div>
 					<div class="phone_nav">
 						<ul>
+
 							<li>
-								<a href="#services">Services</a>
+								<a href="index.php">Acerca de Surftware</a>
 							</li>
 							<li>
-								<a href="#pricing">Pricing</a>
+								<a href="servicios.php">Servicios</a>
 							</li>
 							<li>
-								<a href="#contacts">Contacts</a>
+								<a href="tienda.php">Tienda Online</a>
+							</li>
+							<li>
+								<a href="blog.php">Blog</a>
 							</li>
 
 						</ul>

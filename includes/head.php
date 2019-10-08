@@ -1,35 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <title>Surftware | Servicio de diseño web</title>
     <!-- Required meta tags -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport"       content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="utf-8">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <meta name="description" content="El servicio web que siempre has soñado!" />
-    <link rel="canonical" href="https://www.surftware.com.mx">
-    <meta name="author" content="surftware" />
-    <meta name="copyright" content="Surftware" />
+    <link rel="shortcut icon"   href="favicon.ico" type="image/x-icon">
+    <meta name="description"    content="El servicio web que siempre has soñado!" />
+    <link rel="canonical"       href="https://surftware.me">
+    <meta name="author"         content="Surftware" />
+    <meta name="copyright"      content="Surftware" />
 
-    <meta name="keywords" content="Como hacer una pagina?" />
-    <meta name="keywords" content="Empresa que haga paginas" />
-    <meta name="keywords" content="paginas propias" />
-    <meta name="keywords" content="pagina para mi empresa" />
-    <meta name="keywords" content="Pagina para ventas" />
+    <meta name="keywords"       content="Como hacer una pagina?" />
+    <meta name="keywords"       content="Empresa que haga paginas" />    
     
     <!--Open Graphs Facebook Meta  -->
     
-    <meta property="og:locale" content="en_MX" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="El servicio web que siempre has soñado" />
-    <meta property="og:description"
-        content="El servicio web que siempre has soñado!" />
-    <meta property="og:url" content="https://www.surftware.com.mx">
-    <meta property="og:site_name" content="Surftware">
-    <meta property="og:image" content="Reparacion-computadoras1.png" />
-    <meta property="og:image"
-        content="Reparacion-computadoras2.png" />
+    <meta property="og:locale"                  content="es_MX" />
+    <meta property="og:type"                    content="website" />
+    <meta property="og:title"                   content="Surftware, emprendedores mexicanos" />
+    <meta property="og:description"             content="Surftware, desarrollo de páginas web y soporte integral en sistemas computacionales" />
+    <meta property="og:url"                     content="https://www.surftware.me">
+    <meta property="og:site_name"               content="Surftware">
+    <meta property="og:image"                   content="reparacion-computadoras1.png" />
+    <meta property="og:image"                   content="Reparacion-computadoras2.png" />
 
 	<!--Twitter Meta  -->
 	<meta name="twitter:card" content="summary_large_image">
@@ -37,8 +32,7 @@
 	<meta name="twitter:description"
 		content="El servicio web que siempre has soñado" />
 	<meta name="twitter:image" content="Reparacion-computadoras1.png" />
-	<meta name="twitter:image"
-		content="Reparacion-computadoras2.png" />
+	<meta name="twitter:image" content="Reparacion-computadoras2.png" />
 
 
 
