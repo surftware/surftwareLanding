@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="200"
+   viewBox="0 0 132.29167 52.916666"
+   version="1.1"
+   id="svg1966"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logoSurftware.svg"
+   inkscape:export-filename="/var/www/surftwareLanding/assets/logoSurftware"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <defs
+     id="defs1960" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="270.69985"
+     inkscape:cy="57.069409"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1360"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1963">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Fondo"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Letras"
+     style="display:inline">
+    <g
+       id="g4179"
+       inkscape:export-filename="/var/www/surftwareLanding/images/creacion-paginas-web.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         inkscape:export-ydpi="200"
+         inkscape:export-xdpi="200"
+         style="display:inline;fill:#fc440f;fill-opacity:0.35294119;stroke:none;stroke-width:77693140886093824;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.9799998"
+         id="path6302"
+         sodipodi:type="arc"
+         sodipodi:cx="66.311798"
+         sodipodi:cy="25.594536"
+         sodipodi:rx="57.906765"
+         sodipodi:ry="19.45718"
+         sodipodi:start="6.2606531"
+         sodipodi:end="6.2341939"
+         sodipodi:open="true"
+         d="M 124.20386,25.15616 A 57.906765,19.45718 0 0 1 67.999368,45.043452 57.906765,19.45718 0 0 1 8.4420578,26.290211 57.906765,19.45718 0 0 1 63.85864,6.1548236 57.906765,19.45718 0 0 1 124.14908,24.641682" />
+      <g
+         transform="matrix(3.3840869,0,0,3.3503578,-17.88291,-863.30522)"
+         id="g6347"
+         style="display:inline">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9.33653069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.23341326"
+           x="7.9608731"
+           y="243.9095"
+           id="text6294-5"
+           transform="scale(0.90735358,1.1021062)"><tspan
+             sodipodi:role="line"
+             id="tspan6292-3"
+             x="7.9608731"
+             y="243.9095"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.82214069px;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#ffffff;stroke-width:0.23341326">#!</tspan></text>
+      </g>
+      <text
+         transform="scale(0.86623871,1.1544162)"
+         id="text6288"
+         y="30.962841"
+         x="37.88509"
+         style="font-style:normal;font-weight:normal;font-size:11.00093365px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1684428"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.76562691px;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, Italic';fill:#ffffff;stroke-width:0.1684428"
+           y="30.962841"
+           x="37.88509"
+           id="tspan6286"
+           sodipodi:role="line">Surftware</tspan></text>
+    </g>
+  </g>
+</svg>
