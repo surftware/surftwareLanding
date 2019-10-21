@@ -403,17 +403,17 @@
 								 
 							</div>
 							<ul>
-								<li>Respuesta inmedianta vía TeamViewer</li>
+								<li>Respuesta inmediata vía Team Viewer</li>
 								<li>Limpieza general del sistema Windows</li>
 								<li>Optimización</li>
 								<li>Instalación de programas (máx. 3)</li>
 								<li>Instalación antivirus</li>
-								<li>Consultoría ,configuraciones sistema y software</li>
+								<li>Consultoría, configuraciones, sistema y software</li>
 							</ul>
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicitalo ahora!</a>
+								<a href="#" class="btn btn__orange btn__large">Solicítalo ahora!</a>
 							</div>
 						</div>
 					</div>
@@ -434,12 +434,12 @@
 								<li>Optimización </li>
 								<li>Instalación de programas (máx. 3)</li>
 								<li>Instalación antivirus</li>
-								<li>Consultoría, configuraciones sistema y software</li>
+								<li>Consultoría, configuraciones, sistema y software</li>
 							</ul>
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicitalo ahora!</a>
+								<a href="#" class="btn btn__orange btn__large">Solicítalo ahora!</a>
 							</div>
 						</div>
 					</div>
@@ -464,7 +464,7 @@
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicitalo ahora!</a>
+								<a href="#" class="btn btn__orange btn__large"><li>Solicítalo ahora!</li></a>
 							</div>
 						</div>
 					</div>
