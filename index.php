@@ -477,12 +477,12 @@
 		<div class="center">
 			<div class="block__title wow bounceIn">
 				<span>Companies that Grow with Us</span>
-				Our Clients
+				Clientes
 			</div>
 
 			<div class="owl-carousel owl_sponsors">
 				<div>
-					<a href="#"><img src="images/sponsors_icon_1.png" alt=""></a>
+					<a href="#"><img src="images/conversational.png" alt=""></a>
 				</div>
 				<div>
 					<a href="#"><img src="images/sponsors_icon_2.png" alt=""></a>
