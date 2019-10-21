@@ -482,25 +482,25 @@
 
 			<div class="owl-carousel owl_sponsors">
 				<div>
-					<a href="#"><img src="images/conversational.png" alt=""></a>
+					<a href="http://conversationalspanishmx.com/" target="_blank"><img src="images/conversational.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"><img src="images/aldazy.png" alt=""></a>
+					<a href="https://aldazy.com/index.html" target="_blank"><img src="images/aldazy.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"><img src="images/uvmyass.png" alt=""></a>
+					<a href="http://www.vmyasc.com.mx/" target="_blank"><img src="images/uvmyass.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"><img src="images/sponsors_icon_4.png" alt=""></a>
+					<a href="#"target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"><img src="images/sponsors_icon_5.png" alt=""></a>
+					<a href="#"target="_blank"><img src="images/sponsors_icon_5.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"><img src="images/sponsors_icon_6.png" alt=""></a>
+					<a href="#"target="_blank"><img src="images/sponsors_icon_6.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"><img src="images/sponsors_icon_4.png" alt=""></a>
+					<a href="#"target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
 				</div>
 			</div>
 		</div>
