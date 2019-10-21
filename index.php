@@ -464,7 +464,7 @@
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large"><li>Solicítalo ahora!</li></a>
+								<a href="#" class="btn btn__orange btn__large">Solicítalo ahora!</a>
 							</div>
 						</div>
 					</div>
