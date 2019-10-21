@@ -403,17 +403,17 @@
 								 
 							</div>
 							<ul>
-								<li>Respuesta inmedianta vía TeammViwer</li>
+								<li>Respuesta inmedianta vía TeamViewer</li>
 								<li>Limpieza general del sistema Windows</li>
 								<li>Optimización</li>
-								<li>Instalacion de programas (máx. 3)</li>
-								<li>Instalacion Antiviruz</li>
-								<li>Consultoría ,configuraciones sistema y sorftware</li>
+								<li>Instalación de programas (máx. 3)</li>
+								<li>Instalación antivirus</li>
+								<li>Consultoría ,configuraciones sistema y software</li>
 							</ul>
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicitalo Ahora</a>
+								<a href="#" class="btn btn__orange btn__large">Solicitalo ahora!</a>
 							</div>
 						</div>
 					</div>
@@ -433,13 +433,13 @@
 								<li>Limpieza general del sistema Windows</li>
 								<li>Optimización </li>
 								<li>Instalación de programas (máx. 3)</li>
-								<li>Instalación Antiviruz</li>
-								<li>Consultoria ,configuraciones sistema y sorftware</li>
+								<li>Instalación antivirus</li>
+								<li>Consultoría, configuraciones sistema y software</li>
 							</ul>
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicitalo Ahora</a>
+								<a href="#" class="btn btn__orange btn__large">Solicitalo ahora!</a>
 							</div>
 						</div>
 					</div>
@@ -458,13 +458,13 @@
 								<li>Instalación de Windows</li>
 								<li>Optimización</li>
 								<li>Instalación de Programas</li>
-								<li>Antiviruz</li>
-								<li>premium support</li>
+								<li>Antivirus</li>
+								
 							</ul>
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicitalo Ahora</a>
+								<a href="#" class="btn btn__orange btn__large">Solicitalo ahora!</a>
 							</div>
 						</div>
 					</div>
