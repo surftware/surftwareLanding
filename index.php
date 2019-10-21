@@ -403,12 +403,12 @@
 								 
 							</div>
 							<ul>
-								<li>Respuesta Imedianta via TiemViwer</li>
-								<li>Limpieza General del Sistema Windows</li>
-								<li>Optimizacion</li>
-								<li>Instalacion de programas (max 3)</li>
+								<li>Respuesta inmedianta vía TeammViwer</li>
+								<li>Limpieza general del sistema Windows</li>
+								<li>Optimización</li>
+								<li>Instalacion de programas (máx. 3)</li>
 								<li>Instalacion Antiviruz</li>
-								<li>Consultoria ,Configuraciones Sistema y Sorftware</li>
+								<li>Consultoría ,configuraciones sistema y sorftware</li>
 							</ul>
 						</div>
 						<div class="item__part">
@@ -422,19 +422,19 @@
 					<div class="item__part__wrap">
 						<div class="item__part">
 							<div class="top">
-								Optimizacion   Limpieza
+								Optimización   Limpieza
 							</div>
 							<div class="price">
 								<span>$300</span>
 								
 							</div>
 							<ul>
-								<li>Soporte Personalizado</li>
-								<li>Limpieza General del Sistema Windows</li>
-								<li>Optimizacion </li>
-								<li>Instalacion de programas (max 3)</li>
-								<li>Instalacion Antiviruz</li>
-								<li>Consultoria ,Configuraciones Sistema y Sorftware</li>
+								<li>Soporte personalizado</li>
+								<li>Limpieza general del sistema Windows</li>
+								<li>Optimización </li>
+								<li>Instalación de programas (máx. 3)</li>
+								<li>Instalación Antiviruz</li>
+								<li>Consultoria ,configuraciones sistema y sorftware</li>
 							</ul>
 						</div>
 						<div class="item__part">
@@ -452,12 +452,12 @@
 							</div>
 							<div class="price">
 								<span>$450</span>
-								per month
+								
 							</div>
 							<ul>
-								<li>Instalacion de Windows</li>
-								<li>Optimizacion</li>
-								<li>Instalacion de Programas</li>
+								<li>Instalación de Windows</li>
+								<li>Optimización</li>
+								<li>Instalación de Programas</li>
 								<li>Antiviruz</li>
 								<li>premium support</li>
 							</ul>
