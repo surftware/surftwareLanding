@@ -388,7 +388,7 @@
 	<div class="block pricing" id="pricing">
 		<div class="center">
 			<div class="block__title wow bounceIn">
-				Our Prices
+				Soporte / Limpieza / Windows
 			</div>
 
 			<div class="item__list">
@@ -396,23 +396,24 @@
 					<div class="item__part__wrap">
 						<div class="item__part">
 							<div class="top">
-								Basic
+								Remoto
 							</div>
 							<div class="price">
-								<span>Free</span>
-								per month
+								<span> $200 </span>
+								 
 							</div>
 							<ul>
-								<li>low-end SMM</li>
-								<li>basic website audit</li>
-								<li>PPC recommendations</li>
-								<li>demo lead generation</li>
-								<li>free consultation</li>
+								<li>Respuesta Imedianta via TiemViwer</li>
+								<li>Limpieza General del Sistema Windows</li>
+								<li>Optimizacion</li>
+								<li>Instalacion de programas (max 3)</li>
+								<li>Instalacion Antiviruz</li>
+								<li>Consultoria ,Configuraciones Sistema y Sorftware</li>
 							</ul>
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Subscribe</a>
+								<a href="#" class="btn btn__orange btn__large">Solicitalo Ahora</a>
 							</div>
 						</div>
 					</div>
@@ -421,23 +422,24 @@
 					<div class="item__part__wrap">
 						<div class="item__part">
 							<div class="top">
-								Advanced
+								Optimizacion   Limpieza
 							</div>
 							<div class="price">
-								<span>$69</span>
-								per month
+								<span>$300</span>
+								
 							</div>
 							<ul>
-								<li>mid-range SMM</li>
-								<li>standard website audit</li>
-								<li>2 PPC campaigns</li>
-								<li>100-150 leads</li>
-								<li>targeted support</li>
+								<li>Soporte Personalizado</li>
+								<li>Limpieza General del Sistema Windows</li>
+								<li>Optimizacion </li>
+								<li>Instalacion de programas (max 3)</li>
+								<li>Instalacion Antiviruz</li>
+								<li>Consultoria ,Configuraciones Sistema y Sorftware</li>
 							</ul>
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Subscribe</a>
+								<a href="#" class="btn btn__orange btn__large">Solicitalo Ahora</a>
 							</div>
 						</div>
 					</div>
@@ -446,23 +448,23 @@
 					<div class="item__part__wrap">
 						<div class="item__part">
 							<div class="top">
-								Premium
+								Formateo
 							</div>
 							<div class="price">
-								<span>$99</span>
+								<span>$450</span>
 								per month
 							</div>
 							<ul>
-								<li>high-end SMM</li>
-								<li>advanced website audit</li>
-								<li>10 PPC campaigns</li>
-								<li>up to 500 leads</li>
+								<li>Instalacion de Windows</li>
+								<li>Optimizacion</li>
+								<li>Instalacion de Programas</li>
+								<li>Antiviruz</li>
 								<li>premium support</li>
 							</ul>
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Subscribe</a>
+								<a href="#" class="btn btn__orange btn__large">Solicitalo Ahora</a>
 							</div>
 						</div>
 					</div>
