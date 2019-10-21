@@ -488,7 +488,7 @@
 					<a href="#"><img src="images/aldazy.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"><img src="images/sponsors_icon_3.png" alt=""></a>
+					<a href="#"><img src="images/uvmyass.png" alt=""></a>
 				</div>
 				<div>
 					<a href="#"><img src="images/sponsors_icon_4.png" alt=""></a>
