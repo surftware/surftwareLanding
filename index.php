@@ -472,6 +472,170 @@
 			</div>
 		</div>
 	</div>
+	<div class="block faq" id="faq">
+		<div class="center">
+			<div class="item__list  wow fadeInUp" data-wow-delay="0.2s">
+				<div class="item">
+					<div class="item__title">
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+							<g>
+								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
+									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
+							</g>
+						</svg>
+						Why do I need a marketing plan?
+					</div>
+					<div class="item__descr">
+						<div class="article">
+							<div class="descr">
+								<p>
+									Is the science of adjusting a website’s code, content and structure to make it
+									visible on a search engine result page for particular keywords or combinations of
+									keywords.
+								</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="item__title">
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+							<g>
+								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
+									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
+							</g>
+						</svg>
+						Why do I need to market my business online?
+					</div>
+					<div class="item__descr">
+						<div class="article">
+							<div class="descr">
+								<p>
+									Is the science of adjusting a website’s code, content and structure to make it
+									visible on a search engine result page for particular keywords or combinations of
+									keywords.
+								</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="item__title">
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+							<g>
+								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
+									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
+							</g>
+						</svg>
+						How long does it take to see the results?
+					</div>
+					<div class="item__descr">
+						<div class="article">
+							<div class="descr">
+								<p>
+									Is the science of adjusting a website’s code, content and structure to make it
+									visible on a search engine result page for particular keywords or combinations of
+									keywords.
+								</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item__list  wow fadeInUp" data-wow-delay="0.2s">
+				<div class="item">
+					<div class="item__title">
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+							<g>
+								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
+									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
+							</g>
+						</svg>
+						What is PPC?
+					</div>
+					<div class="item__descr">
+						<div class="article">
+							<div class="descr">
+								<p>
+									Is the science of adjusting a website’s code, content and structure to make it
+									visible on a search engine result page for particular keywords or combinations of
+									keywords.
+								</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="item__title">
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+							<g>
+								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
+									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
+							</g>
+						</svg>
+						What is SMM?
+					</div>
+					<div class="item__descr">
+						<div class="article">
+							<div class="descr">
+								<p>
+									Is the science of adjusting a website’s code, content and structure to make it
+									visible on a search engine result page for particular keywords or combinations of
+									keywords.
+								</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="item">
+					<div class="item__title">
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+							<g>
+								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
+									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
+							</g>
+						</svg>
+						I’ve heard PPC is a waste of money. Should I use it?
+					</div>
+					<div class="item__descr">
+						<div class="article">
+							<div class="descr">
+								<p>
+									Is the science of adjusting a website’s code, content and structure to make it
+									visible on a search engine result page for particular keywords or combinations of
+									keywords.
+								</p>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<div class="block sponsors" id="sponsors">
 		<div class="center">
@@ -648,170 +812,7 @@
 		</div>
 	</div>
 
-	<div class="block faq" id="faq">
-		<div class="center">
-			<div class="item__list  wow fadeInUp" data-wow-delay="0.2s">
-				<div class="item">
-					<div class="item__title">
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-							<g>
-								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
-									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
-									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-							</g>
-						</svg>
-						Why do I need a marketing plan?
-					</div>
-					<div class="item__descr">
-						<div class="article">
-							<div class="descr">
-								<p>
-									Is the science of adjusting a website’s code, content and structure to make it
-									visible on a search engine result page for particular keywords or combinations of
-									keywords.
-								</p>
-
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="item__title">
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-							<g>
-								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
-									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
-									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-							</g>
-						</svg>
-						Why do I need to market my business online?
-					</div>
-					<div class="item__descr">
-						<div class="article">
-							<div class="descr">
-								<p>
-									Is the science of adjusting a website’s code, content and structure to make it
-									visible on a search engine result page for particular keywords or combinations of
-									keywords.
-								</p>
-
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="item__title">
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-							<g>
-								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
-									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
-									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-							</g>
-						</svg>
-						How long does it take to see the results?
-					</div>
-					<div class="item__descr">
-						<div class="article">
-							<div class="descr">
-								<p>
-									Is the science of adjusting a website’s code, content and structure to make it
-									visible on a search engine result page for particular keywords or combinations of
-									keywords.
-								</p>
-
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="item__list  wow fadeInUp" data-wow-delay="0.2s">
-				<div class="item">
-					<div class="item__title">
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-							<g>
-								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
-									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
-									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-							</g>
-						</svg>
-						What is PPC?
-					</div>
-					<div class="item__descr">
-						<div class="article">
-							<div class="descr">
-								<p>
-									Is the science of adjusting a website’s code, content and structure to make it
-									visible on a search engine result page for particular keywords or combinations of
-									keywords.
-								</p>
-
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="item__title">
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-							<g>
-								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
-									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
-									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-							</g>
-						</svg>
-						What is SMM?
-					</div>
-					<div class="item__descr">
-						<div class="article">
-							<div class="descr">
-								<p>
-									Is the science of adjusting a website’s code, content and structure to make it
-									visible on a search engine result page for particular keywords or combinations of
-									keywords.
-								</p>
-
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="item">
-					<div class="item__title">
-						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-							x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-							style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-							<g>
-								<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
-									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
-									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-							</g>
-						</svg>
-						I’ve heard PPC is a waste of money. Should I use it?
-					</div>
-					<div class="item__descr">
-						<div class="article">
-							<div class="descr">
-								<p>
-									Is the science of adjusting a website’s code, content and structure to make it
-									visible on a search engine result page for particular keywords or combinations of
-									keywords.
-								</p>
-
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 
 
 
