@@ -40,17 +40,17 @@
 			<div class="about__wrap">
 				<div class="left_side  wow slideInLeft">
 					<div class="block__title">
-						<span>What We Do</span>
-						Marketon Digital Marketing
+						<span>¿Quienes Somos?</span>
+						Surftware
 					</div>
 					<p>
-						Are you looking for ways to increase conversions but having a hard time turning visits into
-						sales?<br /><br />
-						Our PPC, AdWords, and lead generation services were developed with YOU in mind. By cooperating
-						with us, our clients can concentrate on running their businesses instead of marketing.
+						Somos un grupo de emprendedores, interesados en la Ingeniería y nuevas formas de hacer las
+						cosas, creando metodologías, actividades y actidudes que impacten en la sociedad mexicana
+						primero y después en el mundo, poniendo de manifiesto que en México también puede existir
+						desarrollo tecnológico e innovación.
 					</p>
 					<div class="btn__wrap__left">
-						<a href="#" class="btn btn__large btn__blue">details</a>
+						<a href="#" class="btn btn__large btn__blue">Detalles</a>
 					</div>
 				</div>
 				<figure class=" wow slideInRight">
@@ -400,7 +400,7 @@
 							</div>
 							<div class="price">
 								<span> $200 </span>
-								 
+
 							</div>
 							<ul>
 								<li>Respuesta inmediata vía Team Viewer</li>
@@ -422,11 +422,11 @@
 					<div class="item__part__wrap">
 						<div class="item__part">
 							<div class="top">
-								Optimización   Limpieza
+								Optimización Limpieza
 							</div>
 							<div class="price">
 								<span>$300</span>
-								
+
 							</div>
 							<ul>
 								<li>Soporte personalizado</li>
@@ -452,14 +452,14 @@
 							</div>
 							<div class="price">
 								<span>$450</span>
-								
+
 							</div>
 							<ul>
 								<li>Instalación de Windows</li>
 								<li>Optimización</li>
 								<li>Instalación de Programas</li>
 								<li>Antivirus</li>
-								
+
 							</ul>
 						</div>
 						<div class="item__part">
@@ -641,12 +641,13 @@
 		<div class="center">
 			<div class="block__title wow bounceIn">
 				<span>Companies that Grow with Us</span>
-				 Nuestros clientes
+				Nuestros clientes
 			</div>
 
 			<div class="owl-carousel owl_sponsors">
 				<div>
-					<a href="http://conversationalspanishmx.com/" target="_blank"><img src="images/conversational.png" alt=""></a>
+					<a href="http://conversationalspanishmx.com/" target="_blank"><img src="images/conversational.png"
+							alt=""></a>
 				</div>
 				<div>
 					<a href="https://aldazy.com/index.html" target="_blank"><img src="images/aldazy.png" alt=""></a>
@@ -655,16 +656,16 @@
 					<a href="http://www.vmyasc.com.mx/" target="_blank"><img src="images/uvmyass.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
+					<a href="#" target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"target="_blank"><img src="images/sponsors_icon_5.png" alt=""></a>
+					<a href="#" target="_blank"><img src="images/sponsors_icon_5.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"target="_blank"><img src="images/sponsors_icon_6.png" alt=""></a>
+					<a href="#" target="_blank"><img src="images/sponsors_icon_6.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#"target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
+					<a href="#" target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
 				</div>
 			</div>
 		</div>
@@ -812,7 +813,7 @@
 		</div>
 	</div>
 
-	
+
 
 
 
