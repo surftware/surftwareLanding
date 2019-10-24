@@ -15,9 +15,9 @@
 						</li>
 
 					</ul>
-					<div class="">
-						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
-						<a href=""><i class="fab fa-facebook"></i></a>
+					<div class="icono__facebook">
+						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype "></i></a>
+						<a href=""><i class="fab fa-facebook icono__facebook"></i></a>
 						<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
 					</div>
 				</div>
