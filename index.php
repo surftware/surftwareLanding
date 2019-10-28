@@ -8,8 +8,6 @@
 	  
  ?>
 
-
-
 <div class="welcome">
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
@@ -30,6 +28,7 @@
 		</div>
 	</div>
 </div>
+
 </div>
 
 </header>
@@ -44,10 +43,10 @@
 						Surftware
 					</div>
 					<p>
-						Somos un grupo de emprendedores, interesados en la Ingeniería y nuevas formas de hacer las
-						cosas, creando metodologías, actividades y actidudes que impacten en la sociedad mexicana
-						primero y después en el mundo, poniendo de manifiesto que en México también puede existir
-						desarrollo tecnológico e innovación.
+						Somos un grupo de emprendedores interesados en la Ingeniería y nuevas formas de hacer las
+						cosas; implementamos metodologías, actividades y actitudes que impacten de manera positiva
+						en la sociedad mexicana primero y después en el mundo, poniendo de manifiesto que en México
+						también puede existir desarrollo tecnológico e innovación.
 					</p>
 					<div class="btn__wrap__left">
 						<a href="#" class="btn btn__large btn__blue">Detalles</a>
@@ -60,83 +59,7 @@
 		</div>
 	</div>
 
-	<div class="block services" id="services">
-		<div class="center">
-			<div class="block__title">
-				<span>Digital marketing services for your businesses</span>
-				Our Most Popular Services
-			</div>
-
-			<div class="item__list">
-				<div class="item wow flipInY">
-					<figure>
-						<img src="images/services_icon_1.png" alt="">
-					</figure>
-					<div class="title">
-						Pay Per Click Management
-					</div>
-					<p>
-						Build a steady flow of leads or online sales with ROI based online advertising.
-					</p>
-				</div>
-				<div class="item wow flipInY" data-wow-delay="0.1s">
-					<figure>
-						<img src="images/services_icon_2.png" alt="">
-					</figure>
-					<div class="title">
-						Content marketing
-					</div>
-					<p>
-						We work together with our clients to come up with effective content strategies.
-					</p>
-				</div>
-				<div class="item wow flipInY" data-wow-delay="0.2s">
-					<figure>
-						<img src="images/services_icon_3.png" alt="">
-					</figure>
-					<div class="title">
-						Adwords
-					</div>
-					<p>
-						We diligently search for all keywords that are relevant to our client’s business.
-					</p>
-				</div>
-				<div class="item wow flipInY" data-wow-delay="0.3s">
-					<figure>
-						<img src="images/services_icon_4.png" alt="">
-					</figure>
-					<div class="title">
-						Social Media Marketing
-					</div>
-					<p>
-						Grow the followers to increase brand awareness, sales and marketing potential.
-					</p>
-				</div>
-				<div class="item wow flipInY" data-wow-delay="0.4s">
-					<figure>
-						<img src="images/services_icon_5.png" alt="">
-					</figure>
-					<div class="title">
-						Lead Generation
-					</div>
-					<p>
-						Attract more visitors and deliver the message you want clients to hear.
-					</p>
-				</div>
-				<div class="item wow flipInY" data-wow-delay="0.5s">
-					<figure>
-						<img src="images/services_icon_6.png" alt="">
-					</figure>
-					<div class="title">
-						Reporting & Analytics
-					</div>
-					<p>
-						We carefully study Google analytics data and create comprehensive reports.
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 
 	<div class="block featured_product" id="featured_product">
 		<div class="center">
@@ -413,7 +336,8 @@
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicítalo ahora!</a>
+								<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solicítalo
+									ahora!</a>
 							</div>
 						</div>
 					</div>
@@ -439,7 +363,8 @@
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicítalo ahora!</a>
+								<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solicítalo
+									ahora!</a>
 							</div>
 						</div>
 					</div>
@@ -464,7 +389,8 @@
 						</div>
 						<div class="item__part">
 							<div class="btn__wrap__center">
-								<a href="#" class="btn btn__orange btn__large">Solicítalo ahora!</a>
+								<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solicítalo
+									ahora!</a>
 							</div>
 						</div>
 					</div>

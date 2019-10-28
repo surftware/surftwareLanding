@@ -7,25 +7,26 @@
 				<div class="center">
 					<ul class="info">
 						<li><a href="email:surftware@gmail.com">
-							<i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a></li>
+								<i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a></li>
 						<li><a href="tel:1-677-124-44227">
-							<i class="fa fa-phone"></i> &nbsp;55-11-89-46-21</a></li>
+								<i class="fa fa-phone"></i> &nbsp;55-11-89-46-21</a></li>
 						<li><span><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank">
-							<i class="fa fa-map-marker"></i> &nbsp;Oriente 85 #3406 Col. La joya</span>
+									<i class="fa fa-map-marker"></i> &nbsp;Oriente 85 #3406 Col. La joya</span>
 						</li>
 
 					</ul>
-					<div class="icono__facebook">
-						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype "></i></a>
-						<a href=""><i class="fab fa-facebook icono__facebook"></i></a>
-						<a href="https://github.com/surftware"><i class="fab fa-github"></i></a>
+					<div class="">
+						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype "> </i></a>
+						<a href=""> <i class="fab fa-facebook"> </i></a>
+						<a href="https://github.com/surftware"> <i class="fab fa-github"> </i></a>
 					</div>
 				</div>
 			</div>
 			<div class="header__bottom">
 				<div class="center pr">
 					<a href="index.php" class="logo">
-						<img src="images/creacion-paginas-web.png" class="logoSurftware" alt="Surftware: creación de páginas web y soporte técnivo integral equipo de cómputo">
+						<img src="images/creacion-paginas-web.png" class="logoSurftware"
+							alt="Surftware: creación de páginas web y soporte técnivo integral equipo de cómputo">
 					</a>
 					<div class="nav clearfix">
 						<ul>
