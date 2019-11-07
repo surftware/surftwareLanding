@@ -66,7 +66,9 @@
 			<div class="">
 				<div class="text">
 					
-				</div>				
+				</div>
+				<a href="#" class="featured_product_play">
+				</a>
 			</div>
 		</div>
 	</div>
