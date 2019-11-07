@@ -63,19 +63,10 @@
 
 	<div class="block featured_product" id="featured_product">
 		<div class="center">
-			<div class="featured_product__wrap">
+			<div class="">
 				<div class="text">
-					<div class="title">
-						Watch Our Video Presentation
-					</div>
-					<p>
-						Watch a short video to know more about our company and services, and to choose the best
-						marketing solution for your business.
-					</p>
-				</div>
-				<a href="#" class="featured_product_play">
-					<img src="images/featured_product_play.png" alt="">
-				</a>
+					
+				</div>				
 			</div>
 		</div>
 	</div>
