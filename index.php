@@ -15,15 +15,14 @@
 				Surftware
 			</div>
 			<div class="text_2">
-				Lead Generation, AdWords, and PPC
-			</div>
+				Lead Generation, AdWords, and PPC </div>
 			<div class="text_3">
 				As a one-stop digital marketing company, we will help you boost sales, bring new customers and optimize
 				your advertising budget.
 			</div>
 			<div class="btn__wrap__left">
 				<a href="#contacts" class="btn btn__large btn__orange">Contact us</a>
-				<a href="#featured_product" class="btn btn__large btn__white_transparent">watch video</a>
+				file:///home/and/Escritorio/Marietta%20-%20summer%20death
 			</div>
 		</div>
 	</div>
@@ -59,7 +58,7 @@
 		</div>
 	</div>
 
-	
+
 
 	<div class="block featured_product" id="featured_product">
 		<div class="center">
@@ -353,14 +352,14 @@
 			<div class="owl-carousel owl_testimonials">
 				<div>
 					<p>
-						Marketon allows me to not worry about the whole section of marketing things that otherwise would
-						need a team of employees
+						ayuda me explotan!
+
 					</p>
 					<figure>
 						<img src="images/team_ava_1.jpg" alt="">
 					</figure>
 					<div class="name">
-						Joe Martin
+						Cesi Gomez
 					</div>
 				</div>
 				<div>
