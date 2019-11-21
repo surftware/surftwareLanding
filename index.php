@@ -1,10 +1,9 @@
 <?php
 	 
-	define('BASE_PATH','/var/www/surftwareLanding/');
 	 
-	include (BASE_PATH."includes/head.php"); 
+	include ("includes/head.php"); 
 	 
-	include (BASE_PATH."includes/nav.php");
+	include ("includes/nav.php");
 	  
  ?>
 
@@ -494,9 +493,9 @@
 </div>
 
 <?php
-  define('BASE_PATH','/var/www/surftwarelanding.local/');
-  include (BASE_PATH."includes/footer.php");
-  include (BASE_PATH."includes/js.php");
+  
+  include ("includes/footer.php");
+  include ("includes/js.php");
 ?>
 
 
