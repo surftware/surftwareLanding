@@ -12,8 +12,8 @@
 				<li><a href="mailto:surftware@gmail.com"><i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a>
 				</li>
 				<li><a href="tel:+52 5511894621"><i class="fa fa-phone"></i>&nbsp;55-11-89-46-21</a></li>
-				<li><a href="https://goo.gl/maps/Xy2MZ7MhMSFZe9Jx9" target="_blank"><i
-							class="fa fa-map-marker"></i>&nbsp;Nte 84-A 6515</a></li>
+				<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i
+							class="fa fa-map-marker"></i>&nbsp;Nte 84-A 6515 San Pedro el Chico</a></li>
 			</ul>
 		</div>
 	</div>
