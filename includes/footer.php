@@ -13,7 +13,7 @@
 				</li>
 				<li><a href="tel:+52 5511894621"><i class="fa fa-phone"></i>&nbsp;55-11-89-46-21</a></li>
 				<li><a href="https://goo.gl/maps/Xy2MZ7MhMSFZe9Jx9" target="_blank"><i
-							class="fa fa-map-marker"></i>&nbsp;Oriente 85 #3406 Col La joya</a></li>
+							class="fa fa-map-marker"></i>&nbsp;Nte 84-A 6515</a></li>
 			</ul>
 		</div>
 	</div>
