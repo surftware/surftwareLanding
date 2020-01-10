@@ -21,7 +21,6 @@
 			</div>
 			<div class="btn__wrap__left">
 				<a href="#contacts" class="btn btn__large btn__orange">Contact us</a>
-				file:///home/and/Escritorio/Marietta%20-%20summer%20death
 			</div>
 		</div>
 	</div>
