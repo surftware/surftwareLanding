@@ -1,8 +1,8 @@
 <footer class="footer">
 	<div class="footer__top">
-		<div class="center">
-			<a href="#" class="logo">
-				<img src="images/footer_logo.png" alt="">
+		<div class="center ">
+			<a href="#" class="">
+				<img src="images/creacion-paginas-web.png" alt="" class="lf">
 			</a>
 			<div class="text">
 				We develop custom PPC, AdWords, and Lead generation strategies to help you boost sales, bring new
