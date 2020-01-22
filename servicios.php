@@ -409,12 +409,12 @@
 		<div class="contacts__block">
 			<div class="left_side  wow bounceInLeft">
 				<ul>
-					<li> <a href="mailto:surftware@gmail.com"> <i class="fa fa-envelope"></i>surftware@gmail.com</a>
+					<li> <a href="mailto:surftware@gmail.com"> <i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a>
 					</li>
 					<li> <a href="tel: 55-11-89-46-21"><i class="fa fa-phone"> </i> 55-11-89-46-21 </a></li>
 					<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i class="fa fa-map-marker"></i>
 					&nbsp;Nte 84-A 6515 San Pedro el Chico</a></li>
-					<li><a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i>surftware@outlook.es</a>
+					<li><a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
 					</li>
 				</ul>
 				<div class="soc">
