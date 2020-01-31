@@ -10,8 +10,8 @@
 								<i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a></li>
 						<li><a href="tel:1-677-124-44227">
 								<i class="fa fa-phone"></i> &nbsp;55-11-89-46-21</a></li>
-						<li><span><a href="https://goo.gl/maps/sShpShKmJD8nRzWJ6" target="_blank">
-									<i class="fa fa-map-marker"></i> &nbsp;Oriente 85 #3406 Col. La joya</span>
+						<li><span><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
+									<i class="fa fa-map-marker"></i> &nbsp;Nte 84-A 6515 San Pedro el Chico</span>
 						</li>
 
 					</ul>

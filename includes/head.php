@@ -52,7 +52,7 @@
     <link rel="stylesheet" href="fontawesome/css/all.min.css" />
 
     <!-- theme styles -->
-    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/design.css" />
 
     <link rel="stylesheet" href="css/owl.carousel.css" />
 
