@@ -14,10 +14,11 @@
 				Surfware
 			</div>
 			<div class="text_2">
-				Servicios de TI a tu medida. </div>
+				Servicios TI a tu medida </div>
 			<div class="text_3">
-				Somos un grupo de emprendedores, dedicados a ofrecerte soluciones en Tecnologías de la Informació
-				para tu negocio.
+				Nos dedicamos a ofrecerte soluciones en Tecnologías de la Información
+				para tu negocio y tu hogar.
+				Porque la tecnología debe estar al alcance de todos
 			</div>
 			<div class="btn__wrap__left">
 				<a href="#contacts" class="btn btn__large btn__orange">Contáctanos</a>
