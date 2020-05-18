@@ -14,14 +14,13 @@
 				Surfware
 			</div>
 			<div class="text_2">
-				Desarrollo Web a tu medida </div>
+				Servicios de TI a tu medida. </div>
 			<div class="text_3">
-				As a one-stop digital marketing company, we will help you boost sales, bring new customers and optimize
-				your advertising budget.
+				Somos un grupo de emprendedores, dedicados a ofrecerte soluciones en Tecnologías de la Informació
+				para tu negocio.
 			</div>
 			<div class="btn__wrap__left">
-				<a href="#contacts" class="btn btn__large btn__orange">Contact us</a>
-				file:///home/and/Escritorio/Marietta%20-%20summer%20death
+				<a href="#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 			</div>
 		</div>
 	</div>
