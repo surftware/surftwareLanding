@@ -11,10 +11,10 @@
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
 			<div class="text_1">
-				Surftware
+				Surfware
 			</div>
 			<div class="text_2">
-				Lead Generation, AdWords, and PPC </div>
+				Desarrollo Web a tu medida </div>
 			<div class="text_3">
 				As a one-stop digital marketing company, we will help you boost sales, bring new customers and optimize
 				your advertising budget.
