@@ -121,82 +121,7 @@
 		</div>
 	</div>
 
-	<div class="block statistic" id="statistics">
-		<div class="center">
-			<div class="block__title">
-				<span>Statistic</span>
-				Marketing Techniques Tailored to Your Business
-			</div>
-			<p>
-				Here are some of our average statistics for you to see the potential growth of your business we can
-				guarantee. Our team of digital marketing specialists develops and implements an individual marketing and
-				PR plan, tailored specifically to your business.
-			</p>
-			<div class="counter">
-				<div class="row wow bounceInRight">
-					<div class="title">
-						<span>PPC campaigns</span>
-						<span>93%</span>
-					</div>
-					<div class="line line__blue">
-						<span style="width:93%;"></span>
-					</div>
-				</div>
-				<div class="row wow bounceInRight" data-wow-delay="0.1s">
-					<div class="title">
-						<span>Adword campaigns</span>
-						<span>93%</span>
-					</div>
-					<div class="line line__orange">
-						<span style="width:93%;"></span>
-					</div>
-				</div>
-				<div class="row wow bounceInRight" data-wow-delay="0.2s">
-					<div class="title">
-						<span>Lead generation</span>
-						<span>93%</span>
-					</div>
-					<div class="line line__blue">
-						<span style="width:93%;"></span>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="block counters" id="counters">
-		<div class="center">
-			<div class="block__title wow bounceIn">
-				Our Achievements
-			</div>
-			<div class="item__list">
-				<div class="item wow flipInX">
-					<div class="title">
-						<span>136</span><span>k</span>
-					</div>
-					<p>Analyzed Websites</p>
-				</div>
-				<div class="item wow flipInX" data-wow-delay="0.1s">
-					<div class="title">
-						<span>2590</span>
-					</div>
-					<p>Happy Clients</p>
-				</div>
-				<div class="item wow flipInX" data-wow-delay="0.2s">
-					<div class="title">
-						<span>250%</span>
-					</div>
-					<p>Guaranteed Conversion<br />Growth</p>
-				</div>
-				<div class="item wow flipInX" data-wow-delay="0.3s">
-					<div class="title">
-						<span>15</span>
-					</div>
-					<p>Years on the Market</p>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 
 	<div class="ads_bar" id="ads_bar">
 		<div class="center clearfix">
@@ -333,43 +258,6 @@
 			</div>
 		</div>
 	</div>
-
-	<div class="block testimonials" id="testimonials">
-		<div class="center">
-			<div class="block__title wow bounceIn">
-				<span>What People Say</span>
-				Client Reviews
-			</div>
-
-			<div class="owl-carousel owl_testimonials">
-				<div>
-					<p>
-						ayuda me explotan!
-
-					</p>
-					<figure>
-						<img src="images/team_ava_1.jpg" alt="">
-					</figure>
-					<div class="name">
-						Cesi Gomez
-					</div>
-				</div>
-				<div>
-					<p>
-						Marketon allows me to not worry about the whole section of marketing things that otherwise would
-						need a team of employees
-					</p>
-					<figure>
-						<img src="images/team_ava_1.jpg" alt="">
-					</figure>
-					<div class="name">
-						Joe Martin
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
 
 
 </div>
