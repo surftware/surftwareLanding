@@ -17,7 +17,7 @@
     <meta charset="utf-8">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <meta name="description" content="El servicio web que siempre has soñado!" />
-    <link rel="canonical" href="https://surftware.me">
+    <link rel="canonical" href="http://surftware.company">
     <meta name="author" content="Surftware" />
     <meta name="copyright" content="Surftware" />
 
@@ -31,7 +31,7 @@
     <meta property="og:title" content="Surftware, emprendedores mexicanos" />
     <meta property="og:description"
         content="Surftware, desarrollo de páginas web y soporte integral en sistemas computacionales" />
-    <meta property="og:url" content="https://www.surftware.me">
+    <meta property="og:url" content="http://www.surftware.company">
     <meta property="og:site_name" content="Surftware">
     <meta property="og:image" content="reparacion-computadoras1.png" />
     <meta property="og:image" content="Reparacion-computadoras2.png" />

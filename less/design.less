@@ -1860,7 +1860,7 @@ p {
 /* footer */
 .footer {
 	&__top {
-		background: #1f2531;
+		background:@blue ;
 		color: @white;
 		text-align: center;
 		padding-top: 70px;
@@ -1875,9 +1875,9 @@ p {
 		}
 
 		.text {
-			max-width: 710px;
+			max-width: 800px;
 			margin: 0 auto;
-			.lato;
+			.ubuntu;
 			font-size: 15px;
 			line-height: 22px;
 			margin-bottom: 38px;
@@ -1887,7 +1887,7 @@ p {
 			max-width: 930px;
 			margin: 0px auto 0px auto;
 			padding: 58px 0px 50px 0px;
-			border-top: 1px solid rgba(198, 135, 143, 1);
+			border-top: 1px solid @color2;
 
 			@media screen and (max-width: 767px) {
 				padding: 30px 0px;
@@ -1896,7 +1896,7 @@ p {
 			li {
 				display: inline-block;
 				margin-right: 40px;
-				.lato;
+				.ubuntu;
 				font-size: 13px;
 
 				span {
@@ -1908,13 +1908,14 @@ p {
 					display: inline-block;
 					position: relative;
 					padding-left: 25px;
-					.lato;
+					.ubuntu;
 					font-size: 13px;
-					color: @color5;
+					color: @color2;
 					text-decoration: none;
 
 					&:hover {
 						text-decoration: none;
+						color: @color2;
 					}
 				}
 
@@ -1948,7 +1949,7 @@ p {
 		padding: 12px 0px 12px 0px;
 		color: @color5;
 		text-align: center;
-		.lato;
+		.ubuntu;
 		font-size: 14px;
 		line-height: 18px;
 	}
