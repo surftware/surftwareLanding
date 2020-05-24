@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,400');
 
 .lato {
 	font-family: 'Lato', sans-serif;
@@ -17,6 +18,12 @@
 .montserrat {
 	font-family: 'Montserrat', sans-serif;
 }
+
+.ubuntu{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
 
 .light {
 	font-weight: 300;
@@ -256,19 +263,18 @@ p {
 
 				a {
 					display: inline-block;
-					color: @color5;
+					color: @pink;
 					font-size: 13px;
-					.lato;
-					text-decoration: none;
-
+					.ubuntu;
+					
 					&:hover {
-						text-decoration: underline;
+						color:@color2;
 					}
 				}
 
 				color:@white;
 				font-size:13px;
-				.lato;
+				.ubuntu;
 
 				i {
 					color: @orange;
@@ -1948,38 +1954,9 @@ p {
 	}
 }
 
-.pr {
-	position: relative;
-}
+.iconSocial{
+	color:@white;
 
-.tac {
-	text-align: center;
-}
-
-.tal {
-	text-align: left;
-}
-
-.tar {
-	text-align: right;
-}
-
-.left {
-	float: left;
-}
-
-.right {
-	float: right;
-}
-
-.clear {
-	clear: both;
-}
-
-.clearfix:after {
-	content: '';
-	display: block;
-	clear: both;
 }
 
 

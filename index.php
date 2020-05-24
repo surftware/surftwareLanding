@@ -21,7 +21,7 @@
 				Porque la tecnología debe estar al alcance de todos
 			</div>
 			<div class="btn__wrap__left">
-				<a href="#contacts" class="btn btn__large btn__orange">Contáctanos</a>
+				<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 			</div>
 		</div>
 	</div>
@@ -369,115 +369,6 @@
 			</div>
 		</div>
 	</div>
-
-	<div class="block projects" id="projects">
-		<div class="center">
-			<div class="block__title wow bounceIn">
-				<span>CCheck our Recent Projects and Case Studies</span>
-				Our Projects
-			</div>
-
-			<div class="tabs">
-				<div class="tabs__nav">
-					<ul class="clearfix">
-						<li class="act">Business</li>
-						<li>Restaurant</li>
-						<li>Art</li>
-						<li>Technologies</li>
-					</ul>
-				</div>
-				<div class="tabs__content">
-					<div class="article act">
-						<p>
-							1Is the science of adjusting a website’s code, content and structure to make it visible on a
-							search engine result page for particular keywords or combinations of keywords.<br />
-							The end-goal in any marketing venture is to generate a return on your investment, and SEO is
-							capable. Content and structure to make it visible on a search engine result page for
-							particular keywords or combinations of keywords. The end-goal in any marketing venture is to
-							generate a return on your investment, and SEO is capable.
-						</p>
-						<div class="item__list clearfix">
-							<div class="item">
-								<img src="images/tabs_img_1.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_2.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_3.jpg" alt="">
-							</div>
-						</div>
-					</div>
-					<div class="article">
-						<p>
-							2Is the science of adjusting a website’s code, content and structure to make it visible on a
-							search engine result page for particular keywords or combinations of keywords.<br />
-							The end-goal in any marketing venture is to generate a return on your investment, and SEO is
-							capable. Content and structure to make it visible on a search engine result page for
-							particular keywords or combinations of keywords. The end-goal in any marketing venture is to
-							generate a return on your investment, and SEO is capable.
-						</p>
-						<div class="item__list clearfix">
-							<div class="item">
-								<img src="images/tabs_img_1.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_2.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_3.jpg" alt="">
-							</div>
-						</div>
-					</div>
-					<div class="article">
-						<p>
-							3Is the science of adjusting a website’s code, content and structure to make it visible on a
-							search engine result page for particular keywords or combinations of keywords.<br />
-							The end-goal in any marketing venture is to generate a return on your investment, and SEO is
-							capable. Content and structure to make it visible on a search engine result page for
-							particular keywords or combinations of keywords. The end-goal in any marketing venture is to
-							generate a return on your investment, and SEO is capable.
-						</p>
-						<div class="item__list clearfix">
-							<div class="item">
-								<img src="images/tabs_img_1.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_2.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_3.jpg" alt="">
-							</div>
-						</div>
-					</div>
-					<div class="article">
-						<p>
-							4Is the science of adjusting a website’s code, content and structure to make it visible on a
-							search engine result page for particular keywords or combinations of keywords.<br />
-							The end-goal in any marketing venture is to generate a return on your investment, and SEO is
-							capable. Content and structure to make it visible on a search engine result page for
-							particular keywords or combinations of keywords. The end-goal in any marketing venture is to
-							generate a return on your investment, and SEO is capable.
-						</p>
-						<div class="item__list clearfix">
-							<div class="item">
-								<img src="images/tabs_img_1.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_2.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_3.jpg" alt="">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-
 
 
 
