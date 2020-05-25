@@ -399,22 +399,20 @@
 <div class="block contacts" id="contacts">
 	<div class="center">
 		<div class="block__title  wow bounceInLeft">
-			<span>Get in touch</span>
-			Contact Us
-			<p>Send us a message to contact you and give you more information about the <strong>Spanish
-					School in
-					Mexico City </strong></p>
+			<span>Datos de contacto</span>
+			Comunicate con nosotros
+			<p>Envianos un mensaje, hablamos por Skype,<strong>whatsapp que en breve le contestaremos </strong></p>
 		</div>
-
+		
 		<div class="contacts__block">
 			<div class="left_side  wow bounceInLeft">
 				<ul>
 					<li> <a href="mailto:surftware@gmail.com"> <i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a>
 					</li>
-					<li> <a href="tel: 55-11-89-46-21"><i class="fa fa-phone"> </i> 55-11-89-46-21 </a></li>
+					<li> <a href="tel: 55-11-89-46-21"><i class="fab fa-whatsapp"></i> 55-11-89-46-21 </a></li>
 					<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i class="fa fa-map-marker"></i>
 					&nbsp;Nte 84-A 6515 San Pedro el Chico</a></li>
-					<li><a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
+					<li><a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
 					</li>
 				</ul>
 				<div class="soc">
@@ -422,9 +420,9 @@
 						Social Networks
 					</div>
 					<div class="links">
-						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
-						<a href=""><i class="fab fa-facebook"></i></a>
-						<a href="https://github.com/surftware"><i class="fab fa-github"></i></a> </div>
+						<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
+						<a href="" class="icono"><i class="fab fa-facebook" ></i></a>
+						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> </div>
 				</div>
 			</div>
 			<div class="right_side  wow bounceInRight">
