@@ -402,8 +402,13 @@
 	<div class="center">
 		<div class="block__title  wow bounceInLeft">
 			<span>Datos de contacto</span>
+<<<<<<< HEAD
 			Comunícate con nosotros
 			<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong></p>
+=======
+			Comunicate con nosotros:
+			<p>Envianos un mensaje y hablamos por<strong> Skype ó WhatsApp</strong> que en breve le contestaremos!.  </p>
+>>>>>>> front
 		</div>
 
 		<div class="contacts__block">
