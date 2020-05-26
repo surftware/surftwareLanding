@@ -429,15 +429,15 @@
 
 							</div>
 						</div>
-						<div class="input-group-prepend">
 						<div class="row">
-						<div class="input-group mb-3">
-											<span class="input-group-text" id="inputGroup-sizing-default">Email*:</span>
-								</div>
-									<input type="text" name="correo" class="form-control" name="nombre" aria-label="Default" name="telefono" aria-describedby="inputGroup-sizing-default">
+							<div class="input-group mb-3">
+									<div class="input-group-prepend">
+										<span class="input-group-text" id="inputGroup-sizing-default">Email:</span>
+									</div>
+									<input type="text" class="form-control" name="email" aria-label="Default" name="telefono" aria-describedby="inputGroup-sizing-default">
 
-								</div>
 							</div>
+						</div>
 						<div class="row ">
 						<div class="input-group ">
 							<span class="input-group-text">Mensaje:</span>
@@ -475,12 +475,15 @@
 					</div>
 					<div class="links">
 						<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
-						<a href="" class="icono"><i class="fab fa-facebook"></i></a>
 						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> </div>
+						<a href="" class="icono"><i class="fab fa-facebook"></i></a>
 				</div>
 			</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-4" class="block contacts" id="contacts">
+				<div class="text-center">
+					<img src="./images/jose.jpg" class="rounded" alt="...">
+				</div>
 			</div>
 		</div>
 	</div>
