@@ -394,25 +394,29 @@
 	</div>
 </div>
 
+<
+
 
 
 <div class="block contacts" id="contacts">
 	<div class="center">
 		<div class="block__title  wow bounceInLeft">
 			<span>Datos de contacto</span>
-			Comunicate con nosotros
-			<p>Envianos un mensaje, hablamos por Skype,<strong>whatsapp que en breve le contestaremos </strong></p>
+			Comunícate con nosotros
+			<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong></p>
 		</div>
-		
+
 		<div class="contacts__block">
 			<div class="left_side  wow bounceInLeft">
 				<ul>
-					<li> <a href="mailto:surftware@gmail.com"> <i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a>
+					<li> <a href="mailto:surftware@gmail.com"> <i
+								class="fas fa-envelope"></i>&nbsp;surftware@gmail.com</a>
 					</li>
 					<li> <a href="tel: 55-11-89-46-21"><i class="fab fa-whatsapp"></i> 55-11-89-46-21 </a></li>
 					<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i class="fa fa-map-marker"></i>
-					&nbsp;Nte 84-A 6515 San Pedro el Chico</a></li>
-					<li><a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
+							&nbsp;Nte 84-A 6515. San Pedro el Chico</a></li>
+					<li><a href="skype:surftware@outlook.es?chat" class="icono"><i
+								class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
 					</li>
 				</ul>
 				<div class="soc">
@@ -421,7 +425,7 @@
 					</div>
 					<div class="links">
 						<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
-						<a href="" class="icono"><i class="fab fa-facebook" ></i></a>
+						<a href="" class="icono"><i class="fab fa-facebook"></i></a>
 						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> </div>
 				</div>
 			</div>
