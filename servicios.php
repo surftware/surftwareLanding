@@ -313,92 +313,91 @@
 		</div>
 		<div class="item__list  wow fadeInUp" data-wow-delay="0.2s">
 			<div class="item">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-				<div class="item__title">
-						x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-						style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-						<g>
-							<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" <div
+					class="item__title">
+					x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+					style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+					<g>
+						<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
 									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
 									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-						</g>
-					</svg>
-					What is PPC?
-				</div>
-				<div class="item__descr">
-					<div class="article">
-						<div class="descr">
-							<p>
-								Is the science of adjusting a website’s code, content and structure to make it
-								visible on a search engine result page for particular keywords or combinations of
-								keywords.
-							</p>
+					</g>
+				</svg>
+				What is PPC?
+			</div>
+			<div class="item__descr">
+				<div class="article">
+					<div class="descr">
+						<p>
+							Is the science of adjusting a website’s code, content and structure to make it
+							visible on a search engine result page for particular keywords or combinations of
+							keywords.
+						</p>
 
-						</div>
 					</div>
 				</div>
 			</div>
-			<div class="item">
-				<div class="item__title">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-						x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-						style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-						<g>
-							<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+		</div>
+		<div class="item">
+			<div class="item__title">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+					y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+					style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+					<g>
+						<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
 									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
 									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-						</g>
-					</svg>
-					What is SMM?
-				</div>
-				<div class="item__descr">
-					<div class="article">
-						<div class="descr">
-							<p>
-								Is the science of adjusting a website’s code, content and structure to make it
-								visible on a search engine result page for particular keywords or combinations of
-								keywords.
-							</p>
+					</g>
+				</svg>
+				What is SMM?
+			</div>
+			<div class="item__descr">
+				<div class="article">
+					<div class="descr">
+						<p>
+							Is the science of adjusting a website’s code, content and structure to make it
+							visible on a search engine result page for particular keywords or combinations of
+							keywords.
+						</p>
 
-						</div>
 					</div>
 				</div>
 			</div>
-			<div class="item">
-				<div class="item__title">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-						x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-						style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-						<g>
-							<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+		</div>
+		<div class="item">
+			<div class="item__title">
+				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+					y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+					style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+					<g>
+						<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
 									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
 									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-						</g>
-					</svg>
-					I’ve heard PPC is a waste of money. Should I use it?
-				</div>
-				<div class="item__descr">
-					<div class="article">
-						<div class="descr">
-							<p>
-								Is the science of adjusting a website’s code, content and structure to make it
-								visible on a search engine result page for particular keywords or combinations of
-								keywords.
-							</p>
+					</g>
+				</svg>
+				I’ve heard PPC is a waste of money. Should I use it?
+			</div>
+			<div class="item__descr">
+				<div class="article">
+					<div class="descr">
+						<p>
+							Is the science of adjusting a website’s code, content and structure to make it
+							visible on a search engine result page for particular keywords or combinations of
+							keywords.
+						</p>
 
-						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+</div>
 <br><br>
 <div class="section">
 	<div class="container" class="block contacts" id="contacts">
 		<div class="row ">
 			<div class="col-md-12 block__title  wow bounceInLeft">
-			
 				<span>Datos de contacto</span>
 				Comunícate con nosotros
 				<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong>
@@ -412,38 +411,52 @@
 				<div class="right_side  wow bounceInRight">
 					<form action="index.php" method="post">
 						<div class="row">
-								<div class="input-group mb-3">
-									<div class="input-group-prepend">
-										<span class="input-group-text" id="inputGroup-sizing-default">Nombre completo*:</span>
-									</div>
-									<input type="text" class="form-control" name="nombre" aria-label="Default" aria-describedby="inputGroup-sizing-default">
-
-								</div>
-						</div>
-						<div class="row">
 							<div class="input-group mb-3">
-									<div class="input-group-prepend">
-										<span class="input-group-text" id="inputGroup-sizing-default">Teléfono:</span>
-									</div>
-									<input type="text" class="form-control" name="nombre" aria-label="Default" name="telefono" aria-describedby="inputGroup-sizing-default">
+								<div class="input-group-prepend">
+									<span class="input-group-text" id="inputGroup-sizing-default">Nombre
+										completo*:</span>
+								</div>
+								<input type="text" class="form-control" name="nombre" aria-label="Default"
+									aria-describedby="inputGroup-sizing-default">
 
 							</div>
 						</div>
+						<div class="row">
+							<div class="input-group mb-3">
+								<div class="input-group-prepend">
+									<span class="input-group-text" id="inputGroup-sizing-default">Teléfono:</span>
+								</div>
+								<input type="text" class="form-control" name="nombre" aria-label="Default"
+									name="telefono" aria-describedby="inputGroup-sizing-default">
+
+							</div>
+						</div>
+<<<<<<< HEAD
 						<div class="row">
 							<div class="input-group mb-3">
 									<div class="input-group-prepend">
 										<span class="input-group-text" id="inputGroup-sizing-default">Email:</span>
 									</div>
 									<input type="text" class="form-control" name="email" aria-label="Default" name="telefono" aria-describedby="inputGroup-sizing-default">
+=======
+						<div class="input-group-prepend">
+							<div class="row">
+								<div class="input-group mb-3">
+									<span class="input-group-text" id="inputGroup-sizing-default">Email*:</span>
+								</div>
+								<input type="text" name="correo" class="form-control" name="nombre" aria-label="Default"
+									name="telefono" aria-describedby="inputGroup-sizing-default">
+>>>>>>> dbab3f5252a8cb746a68ef6110669c666a5adedd
 
 							</div>
 						</div>
 						<div class="row ">
-						<div class="input-group ">
-							<span class="input-group-text">Mensaje:</span>
+							<div class="input-group ">
+								<span class="input-group-text">Mensaje:</span>
 								<div class="input-group-prepend">
-							</div>
-								<textarea class="form-control" aria-label="With textarea" name="mensaje" class="textarea"></textarea>
+								</div>
+								<textarea class="form-control" aria-label="With textarea" name="mensaje"
+									class="textarea"></textarea>
 							</div>
 						</div>
 						<div class="row">
@@ -457,22 +470,30 @@
 				</div>
 			</div>
 			<div class="col-md-4" class="block contacts" id="contacts">
-			<div class="left_side  wow bounceInLeft">
-				<ul>
-					<li> <a href="mailto:surftware@gmail.com"> <i
-								class="fas fa-envelope"></i>&nbsp;surftware@gmail.com</a>
-					</li>
-					<li> <a href="tel: 55-11-89-46-21"><i class="fab fa-whatsapp"></i> 55-11-89-46-21 </a></li>
-					<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i class="fa fa-map-marker"></i>
-							&nbsp;Nte 84-A 6515. San Pedro el Chico</a></li>
-					<li><a href="skype:surftware@outlook.es?chat" class="icono"><i
-								class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
-					</li>
-				</ul>
-				<div class="soc">
-					<div class="title">
-						Social Networks
+				<div class="left_side  wow bounceInLeft">
+					<ul>
+						<li> <a href="mailto:surftware@gmail.com"> <i
+									class="fas fa-envelope"></i>&nbsp;surftware@gmail.com</a>
+						</li>
+						<li> <a href="tel: 55-11-89-46-21"><i class="fab fa-whatsapp"></i> 55-11-89-46-21 </a></li>
+						<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i
+									class="fa fa-map-marker"></i>
+								&nbsp;Nte 84-A 6515. San Pedro el Chico</a></li>
+						<li><a href="skype:surftware@outlook.es?chat" class="icono"><i
+									class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
+						</li>
+					</ul>
+					<div class="soc">
+						<div class="title">
+							Social Networks
+						</div>
+						<div class="links">
+							<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
+							<a href="" class="icono"><i class="fab fa-facebook"></i></a>
+							<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a>
+						</div>
 					</div>
+<<<<<<< HEAD
 					<div class="links">
 						<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
 						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> </div>
@@ -484,6 +505,11 @@
 				<div class="text-center">
 					<img src="./images/jose.jpg" class="rounded" alt="...">
 				</div>
+=======
+				</div>
+			</div>
+			<div class="col-md-4">
+>>>>>>> dbab3f5252a8cb746a68ef6110669c666a5adedd
 			</div>
 		</div>
 	</div>
@@ -497,7 +523,8 @@
 			<span>Datos de contacto</span>
 
 			Comun&iacute;cate con nosotros
-			<p>Env&iacute;anos un mensaje, h&aacute;blanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong></p>
+			<p>Env&iacute;anos un mensaje, h&aacute;blanos por Skype o Whatsapp que<strong> en breve le contestaremos
+				</strong></p>
 
 		</div>
 
