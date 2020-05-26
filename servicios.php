@@ -421,18 +421,10 @@
 	<div class="center">
 		<div class="block__title  wow bounceInLeft">
 			<span>Datos de contacto</span>
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-			Comunícate con nosotros
-			<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong></p>
-=======
-			Comunicate con nosotros:
-			<p>Envianos un mensaje y hablamos por<strong> Skype ó WhatsApp</strong> que en breve le contestaremos!.  </p>
->>>>>>> front
-=======
+
 			Comun&iacute;cate con nosotros
 			<p>Env&iacute;anos un mensaje, h&aacute;blanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong></p>
->>>>>>> Stashed changes
+
 		</div>
 
 		<div class="contacts__block">
