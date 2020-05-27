@@ -19,7 +19,7 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
-.ubuntu{
+.ubuntu {
 	font-family: 'Ubuntu', sans-serif;
 }
 
@@ -52,12 +52,18 @@
 /* color iconoco */
 .icono {
 
-	&__facebook{color:@pink !important;} 
-	
-	&__github{color:@pink;} 
-	
-	&__skype{color:@pink;} 
-	
+	&__facebook {
+		color: @pink  !important;
+	}
+
+	&__github {
+		color: @pink;
+	}
+
+	&__skype {
+		color: @pink;
+	}
+
 
 
 }
@@ -266,9 +272,9 @@ p {
 					color: @pink;
 					font-size: 13px;
 					.ubuntu;
-					
+
 					&:hover {
-						color:@color2;
+						color: @color2;
 					}
 				}
 
@@ -1603,30 +1609,24 @@ p {
 				}
 			}
 		}
-
 		&.act {
-			.item__title {
-				svg {
+			svg {
+				.item__title {
 					.rotation(@deg: 0deg);
 				}
 			}
 		}
-
 		&__descr {
 			display: none;
 			padding-top: 20px;
-
 			.article {
 				padding: 0px 25px;
-
 				@media screen and (max-width: 767px) {
 					padding: 0px;
 				}
-
 				.descr {
 					p {
 						color: @white;
-
 						@media screen and (max-width: 767px) {
 							text-align: center;
 						}
@@ -1636,7 +1636,6 @@ p {
 		}
 	}
 }
-
 /* subscription */
 .subscription {
 	padding: 50px 0px 37px 0px;
@@ -1857,10 +1856,33 @@ p {
 	}
 }
 
+
+.tituloRedesSociales {
+
+	font-family: 'Varela Round', sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	color: #1f2531;
+
+}
+
+.linkRedesSociales
+{
+	font-size:50px;
+	color: @color2;
+}
+
+.linkContacto
+{
+	font-size:15px;
+	color: @color2;
+
+}
+
 /* footer */
 .footer {
 	&__top {
-		background:@blue ;
+		background: @blue ;
 		color: @white;
 		text-align: center;
 		padding-top: 70px;
@@ -1955,10 +1977,11 @@ p {
 	}
 }
 
-.iconSocial{
-	color:@white;
+.iconSocial {
+	color: @white;
+
 	&:hover {
-		color:@color2;
+		color: @color2;
 	}
 
 }
@@ -1967,111 +1990,18 @@ p {
 .logoSurftware {
 	height: 60px;
 }
-.lf{
+
+.lf {
 	max-width: 20%;
 }
-.letraubicacion{
+
+.letraubicacion {
 	color: @color3;
 }
-.letrasub{
+
+.letrasub {
 	color: @color2;
 }
 
 
 /**cambios de jose**/
-.block__title span {
-
-    color: @pink;
-
-}
-.contacts__block .left_side .soc .links a {
-
-    background: @pink;
-
-}
-.contacts__block .left_sidee .soc .links a {
-    background:@pink;
-}
-a.icono{
-    color: @white;
-}
-.input {
-    border: 3px solid #f1f1f1;
-    height: 55px;
-    line-height: normal;
-    border-radius: 55px;
-    width: 100%;
-    font-size: 16px;
-    font-family: 'Lato',sans-serif;
-    padding: 0px 15px;
-    color: #aaaaaa;
-}
-
-ul li a {
-    display: inline-block;
-    position: relative;
-    padding-left: 60px;
-    font-family: 'Lato',sans-serif;
-    font-size: 16px;
-    color: #e91835;
-	text-decoration: none;} 
-	
-.links {
-		a {
-			display: inline-block;
-			width: 33px;
-			height: 33px;
-			text-align: center;
-			line-height: 33px;
-			.rounded(50%);
-			margin-right: 4px;
-
-			&:last-child {
-				margin-right: 0px;
-			}
-
-			background:@color1;
-			.transition(0.2s);
-
-			i {
-				font-size: 16px;
-				color: @white;
-			}
-
-			&:hover {
-				background: @darkblue;
-			}
-		}
-}
-
-.left_side {
-	.flex-basis(@width: 48%);
-
-	.block__title {
-		text-align: left;
-
-		@media screen and (max-width: 767px) {
-			text-align: center;
-		}
-	}
-
-	p {
-		margin-bottom: 70px;
-	}
-
-	@media screen and (max-width: 767px) {
-		margin-bottom: 30px;
-
-		p {
-			margin-bottom: 30px;
-		}
-
-		.btn__wrap__left {
-			text-align: center;
-		}
-	}
-}
-
-
-
-	
