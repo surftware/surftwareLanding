@@ -398,7 +398,7 @@
 <div class="section">
 	<div class="container">
 		<div class="row">
-			<div class="col-md-12 block__title  wow bounceInLeft" style="background-color: #04B431;">
+			<div class="col-md-12 block__title  wow bounceInLeft" >
 				<span>Datos de contacto</span>
 				Comunícate con nosotros
 				<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong>
@@ -406,7 +406,7 @@
 			</div>
 		</div>
 		<div class="row" >
-			<div class="col-md-4 right_side  wow bounceInRight " style="background-color: #00BFFF;" >
+			<div class="col-md-4 right_side  wow bounceInRight " >
 			<form action="index.php" method="post">
 						<div class="row">
 							<div class="input-group mb-3">
@@ -455,7 +455,7 @@
 						</div>
 					</form>
 			</div>
-			<div class="col-md-4 right_side  wow bounceInRight " style="background-color: #8A084B;">
+			<div class="col-md-4 right_side  wow bounceInRight " style="background-color: #DF0174;">
 				<ul>
 					<li> <a href="mailto:surftware@gmail.com"> <i
 								class="fas fa-envelope"></i>&nbsp;surftware@gmail.com</a>
@@ -475,9 +475,9 @@
 						<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
 						<a href="" class="icono"><i class="fab fa-facebook"></i></a>
 						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> </div>
-				</div>
+					</div>
 			</div>
-			<div class="col-md-4 right_side  wow bounceInRight " style="background-color: #DF0174;">
+			<div class="col-md-4 right_side  wow bounceInRight " >
 				<div class="text-center">
 					<img src="./images/jose.jpg" class="rounded" alt="...">
 				</div>
