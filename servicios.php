@@ -394,6 +394,99 @@
 </div>
 </div>
 <br><br>
+<hr>
+<div class="section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 block__title  wow bounceInLeft" style="background-color: #04B431;">
+				<span>Datos de contacto</span>
+				Comunícate con nosotros
+				<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong>
+				</p>
+			</div>
+		</div>
+		<div class="row" >
+			<div class="col-md-4 right_side  wow bounceInRight " style="background-color: #00BFFF;" >
+			<form action="index.php" method="post">
+						<div class="row">
+							<div class="input-group mb-3">
+								<div class="input-group-prepend">
+									<span class="input-group-text" id="inputGroup-sizing-default">Nombre
+										completo*:</span>
+								</div>
+								<input type="text" class="form-control" name="nombre" aria-label="Default"
+									aria-describedby="inputGroup-sizing-default">
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="input-group mb-3">
+								<div class="input-group-prepend">
+									<span class="input-group-text" id="inputGroup-sizing-default">Teléfono:</span>
+								</div>
+								<input type="text" class="form-control" name="nombre" aria-label="Default"
+									name="telefono" aria-describedby="inputGroup-sizing-default">
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="input-group mb-3">
+									<div class="input-group-prepend">
+										<span class="input-group-text" id="inputGroup-sizing-default">Email:</span>
+									</div>
+									<input type="text" class="form-control" name="email" aria-label="Default" name="telefono" aria-describedby="inputGroup-sizing-default">
+
+							</div>
+						</div>
+						<div class="row ">
+							<div class="input-group ">
+								<span class="input-group-text">Mensaje:</span>
+								<div class="input-group-prepend">
+								</div>
+								<textarea class="form-control" aria-label="With textarea" name="mensaje"
+									class="textarea"></textarea>
+							</div>
+						</div>
+						<div class="row">
+							<div class="btn__wrap__right"><br><br>
+								<input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold"
+									value="enviar">
+							</div>
+						</div>
+					</form>
+			</div>
+			<div class="col-md-4 right_side  wow bounceInRight " style="background-color: #8A084B;">
+				<ul>
+					<li> <a href="mailto:surftware@gmail.com"> <i
+								class="fas fa-envelope"></i>&nbsp;surftware@gmail.com</a>
+					</li>
+					<li> <a href="tel: 55-11-89-46-21"><i class="fab fa-whatsapp"></i> 55-11-89-46-21 </a></li>
+					<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i class="fa fa-map-marker"></i>
+							&nbsp;Nte 84-A 6515. San Pedro el Chico</a></li>
+					<li><a href="skype:surftware@outlook.es?chat" class="icono"><i
+								class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
+					</li>
+				</ul>
+				<div class="soc">
+					<div class="title">
+						Social Networks
+					</div>
+					<div class="links">
+						<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
+						<a href="" class="icono"><i class="fab fa-facebook"></i></a>
+						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> </div>
+				</div>
+			</div>
+			<div class="col-md-4 right_side  wow bounceInRight " style="background-color: #DF0174;">
+				<div class="text-center">
+					<img src="./images/jose.jpg" class="rounded" alt="...">
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</div>
+<hr>
 <div class="section">
 	<div class="container" class="block contacts" id="contacts">
 		<div class="row ">
