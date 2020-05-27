@@ -570,13 +570,13 @@
 						<div class="title">
 							Social Networks
 						</div>
-						<center>
+						<div class="text-center">
 						<div class="links">
 							<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
 							<a href="" class="icono"><i class="fab fa-facebook"></i></a>
 							<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a>
 						</div>
-						</center>
+						</div>
 					</div>
 					<!--					
 					<div class="links">
