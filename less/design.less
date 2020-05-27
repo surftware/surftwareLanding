@@ -2016,6 +2016,63 @@ ul li a {
     color: #e91835;
 	text-decoration: none;} 
 	
+.links {
+		a {
+			display: inline-block;
+			width: 33px;
+			height: 33px;
+			text-align: center;
+			line-height: 33px;
+			.rounded(50%);
+			margin-right: 4px;
+
+			&:last-child {
+				margin-right: 0px;
+			}
+
+			background:@color1;
+			.transition(0.2s);
+
+			i {
+				font-size: 16px;
+				color: @white;
+			}
+
+			&:hover {
+				background: @darkblue;
+			}
+		}
+}
+
+
+
+.left_side {
+	.flex-basis(@width: 48%);
+
+	.block__title {
+		text-align: left;
+
+		@media screen and (max-width: 767px) {
+			text-align: center;
+		}
+	}
+
+	p {
+		margin-bottom: 70px;
+	}
+
+	@media screen and (max-width: 767px) {
+		margin-bottom: 30px;
+
+		p {
+			margin-bottom: 30px;
+		}
+
+		.btn__wrap__left {
+			text-align: center;
+		}
+	}
+}
 
 
 
