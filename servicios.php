@@ -394,7 +394,8 @@
 </div>
 </div>
 <br><br>
-<hr>
+<!-------------------------------------------------------------->
+<!--
 <div class="section">
 	<div class="container">
 		<div class="row">
@@ -482,23 +483,23 @@
 					<img src="./images/jose.jpg" class="rounded" alt="...">
 				</div>
 			</div>
-		</div>
-		
+		</div>	
 	</div>
 </div>
+-->
+<!-------------------------------------------------------------->
+
 <hr>
 <div class="section">
 	<div class="container" class="block contacts" id="contacts">
 		<div class="row ">
-
 			<div class="col-md-12 block__title  wow bounceInLeft">
 				<span>Datos de contacto</span>
-				Comunícate con nosotros
+				Comunícate con nosotros.
 				<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve le contestaremos </strong>
 				</p>
 			</div>
 		</div>
-
 		<div class="row">
 			<div class="col-md-4 right_side  wow bounceInRight ">
 				<div class="right_side  wow bounceInRight">
@@ -506,12 +507,12 @@
 						<div class="row">
 							<div class="input-group mb-3">
 								<div class="input-group-prepend">
-									<span class="input-group-text" id="inputGroup-sizing-default">Nombre
-										completo*:</span>
+									<span class="input-group-text" id="inputGroup-sizing-default">
+										Nombre completo*:
+									</span>
 								</div>
 								<input type="text" class="form-control" name="nombre" aria-label="Default"
 									aria-describedby="inputGroup-sizing-default">
-
 							</div>
 						</div>
 						<div class="row">
@@ -521,7 +522,6 @@
 								</div>
 								<input type="text" class="form-control" name="nombre" aria-label="Default"
 									name="telefono" aria-describedby="inputGroup-sizing-default">
-
 							</div>
 						</div>
 						<div class="row">
@@ -531,7 +531,6 @@
 								</div>
 								<input type="text" class="form-control" name="email" aria-label="Default"
 									name="telefono" aria-describedby="inputGroup-sizing-default">
-
 							</div>
 						</div>
 						<div class="row ">
@@ -571,28 +570,36 @@
 						<div class="title">
 							Social Networks
 						</div>
+						<center>
 						<div class="links">
 							<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
 							<a href="" class="icono"><i class="fab fa-facebook"></i></a>
 							<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a>
 						</div>
+						</center>
 					</div>
+					<!--					
 					<div class="links">
 						<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
-						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> </div>
-					<a href="" class="icono"><i class="fab fa-facebook"></i></a>
+						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> 
+					</div>
+					<a href="" class="icono"><i class="fab fa-facebook"></i></a>-->
 				</div>
 			</div>
-			<div class="col-md-4" class="block contacts" id="contacts">
+
+			<div class="col-md-4 right_side  wow bounceInRight " >
+				<div class="text-center">
 				<img src="images/contacto-reparacion-computadoras.jpg" class="rounded" alt="...">
+					<!--<img src="./images/jose.jpg" class="rounded" alt="...">-->
+				</div>
 			</div>
 		</div>
 	</div>
-
 </div>
 </div>
 </div>
-
+<!-------------------------------------------------------------->
+<!--
 <div class="block contacts" id="contacts">
 	<div class="center">
 		<div class="block__title  wow bounceInLeft">
@@ -654,7 +661,7 @@
 
 	</div>
 </div>
-
+-->
 <?php
 			$remitente = $_POST['correo'];
 			$destinatario = 'surftware@gmail.com'; // en esta línea va el mail del destinatario.
