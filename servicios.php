@@ -485,16 +485,12 @@
 						<div class="mb-4 tituloRedesSociales">
 							Redes Sociales
 						</div>
-						<div class="">
-							<a href="skype:surftware@outlook.es?chat" class="" target="_blank">
-								<i class="fab fa-skype linkRedesSociales"></i>
-							</a>
-							<a href="" class="" target="_blank">
-								<i class="fab fa-facebook linkRedesSociales"></i>
-							</a>
-							<a href="https://github.com/surftware" class="" target="_blank">
-								<i class="fab fa-github linkRedesSociales"></i>
-							</a>
+						<div class="text-center">
+						<div class="links">
+							<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
+							<a href="" class="icono"><i class="fab fa-facebook"></i></a>
+							<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a>
+						</div>
 						</div>
 					</div>
 				</div>
