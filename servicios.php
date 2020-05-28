@@ -458,7 +458,7 @@
 				</div>
 			</div>
 			<div class="col-md-4 right_side  wow bounceInRight">
-				<div class="">
+				<div class="ml-5">
 					<ul>
 						<li class="mb-4">
 							<a href="mailto:surftware@gmail.com" class="linkContacto">
