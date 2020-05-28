@@ -511,40 +511,36 @@
 			}
 			?>
 <!-- Ubicacion  -->
-<div class="section ptb-50" id="ubicacion">
-	<div class="container justify-content-center">
-
-		<div class="row">
-			<div class="col-sm-12 col-md-12 col-lg-12 text-center">
-				<div class="center">
-					<div class="block__title wow bounceIn letraubicacion">
-						Ubicaci&oacute;n
-					</div>
-
-					<p class="mb-0 letrasub">
-						Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute;
-						brindada personalmente .
-					</p>
-					<p class="mb-3 letrasub">Lunes a Viernes de: 10:00 am a 5:00 pm </p>
-				</div>
-			</div>
-
-			<div class="row text-center mb-5 ml-5">
-				<div class="col-sm-12 col-md-12 col-lg-12 center">
-					<iframe class="border rounded d-block mx-auto"
-						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1880.8370982857255!2d-99.0994121419443!3d19.469608896715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fbd9cc350993%3A0x3ab1a5e23ff69f36!2sNte%2084-A%206515%2C%20San%20Pedro%20el%20Chico%2C%20Gustavo%20A.%20Madero%2C%2007480%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1579113392698!5m2!1ses-419!2smx"
-						width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="">
-					</iframe>
-				</div>
+<div class="section block">
+	<div class="container" id="ubicacion">
+		<div class="row ">
+			<div class="col-md-12 block__title  wow bounceInLeft">
+				<span>Datos de contacto</span>
+				Mapa de ubicación.
+				<p> Visítanos por primera vez, toda la información que necesites será brindada personalmente .
+				</p>
+				<p><strong> Lunes a Sábado de: 10:00 am a 5:00 pm </strong>
+				</p>
 			</div>
 		</div>
 	</div>
-	<!-- Termina Mapa  -->
+
+	<div class="row text-center mb-5 ml-5">
+		<div class="col-sm-12 col-md-12 col-lg-12 center">
+			<iframe class="border rounded d-block mx-auto"
+				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1880.8370982857255!2d-99.0994121419443!3d19.469608896715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fbd9cc350993%3A0x3ab1a5e23ff69f36!2sNte%2084-A%206515%2C%20San%20Pedro%20el%20Chico%2C%20Gustavo%20A.%20Madero%2C%2007480%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1579113392698!5m2!1ses-419!2smx"
+				width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="">
+			</iframe>
+		</div>
+	</div>
+</div>
+</div>
+<!-- Termina Mapa  -->
 
 
 
 
-	<?php
+<?php
 	
 	include ("includes/footer.php");
 	include ("includes/js.php");
