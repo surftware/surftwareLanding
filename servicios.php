@@ -406,61 +406,54 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-4 right_side  wow bounceInRight ">
-				<div class="right_side  wow bounceInRight">
-					<form action="index.php" method="post">
-						<div class="row">
-							<div class="input-group mb-3">
-								<div class="input-group-prepend">
-									<span class="input-group-text" id="inputGroup-sizing-default">
-										Nombre completo*:
-									</span>
-								</div>
-								<input type="text" class="form-control" name="nombre" aria-label="Default"
-									aria-describedby="inputGroup-sizing-default">
-							</div>
-						</div>
-						<div class="row">
-							<div class="input-group mb-3">
-								<div class="input-group-prepend">
-									<span class="input-group-text" id="inputGroup-sizing-default">Teléfono:</span>
-								</div>
-								<input type="text" class="form-control" name="nombre" aria-label="Default"
-									name="telefono" aria-describedby="inputGroup-sizing-default">
-							</div>
-						</div>
-						<div class="row">
-							<div class="input-group mb-3">
-								<div class="input-group-prepend">
-									<span class="input-group-text" id="inputGroup-sizing-default">Email:</span>
-								</div>
-								<input type="text" class="form-control" name="email" aria-label="Default"
-									name="telefono" aria-describedby="inputGroup-sizing-default">
-							</div>
-						</div>
-						<div class="row ">
-							<div class="input-group ">
-								<span class="input-group-text">Mensaje:</span>
-								<div class="input-group-prepend">
-								</div>
-								<textarea class="form-control" aria-label="With textarea" name="mensaje"
-									class="textarea"></textarea>
-							</div>
-						</div>
-						<div class="row">
-							<div class="btn__wrap__right"><br><br>
-								<input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold"
-									value="enviar">
-							</div>
-						</div>
-					</form>
 
+			<div class="col-md-4 wow bounceInRight ">
+				<div class="mb-4 tituloRedesSociales text-center">
+					Solicitar servicio
 				</div>
+				<form action="index.php" method="post">
+
+					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Nombre completo"
+						name="nombre">
+
+					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tel. contacto"
+						name="telefono">
+
+					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Email" name="email">
+
+					<input type="text" class="form-control bordesInputContacto m-3" placeholder="Dirección"
+						name="direccion">
+
+					<textarea class="form-control bordesInputContacto m-3" placeholder="Deje su mensaje adicional"
+						name="mensaje" class="textarea"></textarea>
+
+
+					<div class="row">
+						<div class="btn__wrap__right"><br><br>
+							<input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold"
+								value="enviar">
+						</div>
+					</div>
+				</form>
 			</div>
 			<div class="col-md-4 right_side  wow bounceInRight">
 				<div class="ml-5">
+					<div class="text-center">
+						<div class="mb-4 tituloRedesSociales">
+							Redes Sociales
+						</div>
+						<div class="text-center">
+							<div class="">
+								<a href="skype:surftware@outlook.es?chat" class="icono"><i
+										class="fab fa-skype linkRedesSociales"></i></a>
+								<a href="" class="icono"><i class="fab fa-facebook linkRedesSociales"></i></a>
+								<a href="https://github.com/surftware" class="icono"><i
+										class="fab fa-github linkRedesSociales"></i></a>
+							</div>
+						</div>
+					</div>
 					<ul>
-						<li class="mb-4">
+						<li class="my-5">
 							<a href="mailto:surftware@gmail.com" class="linkContacto">
 								<i class="fas fa-envelope"></i>&nbsp;surftware@gmail.com
 							</a>
@@ -481,90 +474,18 @@
 							</a>
 						</li>
 					</ul>
-					<div class="text-center">
-						<div class="mb-4 tituloRedesSociales">
-							Redes Sociales
-						</div>
-						<div class="text-center">
-						<div class="links">
-							<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
-							<a href="" class="icono"><i class="fab fa-facebook"></i></a>
-							<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a>
-						</div>
-						</div>
-					</div>
+
 				</div>
 			</div>
 			<div class="col-md-4 right_side  wow bounceInRight ">
 				<div class="text-center">
-					<img src="images/contacto-reparacion-computadoras.jpg" class="rounded" alt="">					
+					<img src="images/contacto-reparacion-computadoras.jpg" class="rounded" alt="">
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="block contacts" id="contacts">
-	<div class="center">
-		<div class="block__title  wow bounceInLeft">
-			<span>Datos de contacto</span>
-
-			Comun&iacute;cate con nosotros
-			<p>Env&iacute;anos un mensaje, h&aacute;blanos por Skype o Whatsapp que<strong> en breve le contestaremos
-				</strong></p>
-
-		</div>
-
-		<div class="contacts__block">
-			<div class="left_side  wow bounceInLeft">
-				<ul>
-					<li> <a href="mailto:surftware@gmail.com"> <i
-								class="fas fa-envelope"></i>&nbsp;surftware@gmail.com</a>
-					</li>
-					<li> <a href="tel: 55-11-89-46-21"><i class="fab fa-whatsapp"></i> 55-11-89-46-21 </a></li>
-					<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i class="fa fa-map-marker"></i>
-							&nbsp;Nte 84-A 6515. San Pedro el Chico</a></li>
-					<li><a href="skype:surftware@outlook.es?chat" class="icono"><i
-								class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
-					</li>
-				</ul>
-				<div class="soc">
-					<div class="title">
-						Social Networks
-					</div>
-					<div class="links">
-						<a href="skype:surftware@outlook.es?chat" class="icono"><i class="fab fa-skype"></i></a>
-						<a href="" class="icono"><i class="fab fa-facebook"></i></a>
-						<a href="https://github.com/surftware" class="icono"><i class="fab fa-github"></i></a> </div>
-				</div>
-			</div>
-			<div class="right_side  wow bounceInRight">
-				<form action="index.php" method="post">
-					<div class="row">
-						<input name="nombre" type="text" class="input" placeholder="Nombre completo*" required>
-					</div>
-					<div class="row">
-						<input name="telefono" type="text" class="input" placeholder="Teléfono">
-					</div>
-					<div class="row">
-						<input name="correo" type="text" class="input" placeholder="Email*" required>
-					</div>
-					<div class="row">
-						<textarea name="mensaje" placeholder="Mensaje" class="textarea" rows="5" required></textarea>
-					</div>
-					<div class="row">
-						<div class="btn__wrap__right">
-							<input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold"
-								value="enviar">
-						</div>
-					</div>
-				</form>
-
-			</div>
-		</div>
-
-	</div>
-</div>
 
 <?php
 			$remitente = $_POST['correo'];
