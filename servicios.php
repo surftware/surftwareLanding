@@ -9,10 +9,9 @@
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
 			<div class="text_1">
-				Surftware
+				Servicios
 			</div>
-			<div class="text_2">
-				Lead Generation, AdWords, and PPC
+			<div class="text_2">Surftware provee productos y servicios profesionales de alta calidad.
 			</div>
 			<div class="text_3">
 				As a one-stop digital marketing company, we will help you boost sales, bring new customers and optimize
@@ -400,7 +399,7 @@
 	<div class="container" id="contacts">
 		<div class="row ">
 			<div class="col-md-12 block__title  wow bounceInLeft">
-				<span>Datos de contacto</span>
+				<span >Datos de contacto</span>
 				Comunícate con nosotros.
 				<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve te contestaremos </strong>
 				</p>
@@ -516,7 +515,7 @@
 	<div class="container" id="ubicacion">
 		<div class="row ">
 			<div class="col-md-12 block__title  wow bounceInLeft">
-				<span>Datos de contacto</span>
+				<span>Ubicación Surftware</span>
 				Mapa de ubicación.
 				<p> Visítanos por primera vez, toda la información que necesites será brindada personalmente .
 				</p>

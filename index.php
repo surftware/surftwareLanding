@@ -62,8 +62,8 @@
 	<div class="block featured_product" id="featured_product">
 		<div class="center">
 			<div class="">
-				<div class="text">
-					
+				<div class="textPromo">
+					!!Promociones Espéralas Pronto!!
 				</div>
 				<a href="#" class="featured_product_play">
 				</a>
@@ -74,8 +74,8 @@
 	<div class="block benefits" id="benefits">
 		<div class="center">
 			<div class="block__title wow bounceIn">
-				<span>Why Choose Us</span>
-				Guaranteed PR and Reputation Growth
+				<span>Nuestras Garantías</span>
+				Motivos por los que nuestros clientes nos prefieren por sobre la competencia:
 			</div>
 			<div class="item__list">
 				<div class="item wow fadeInUp">
@@ -140,10 +140,10 @@
 		</div>
 	</div>
 
-	<div class="block team" id="team">
+	<!--<div class="block team" id="team">
 		<div class="center">
 			<div class="block__title">
-				<span>The Team That You Need</span>
+				<span>El equipo que  </span>
 				Our Team
 			</div>
 
@@ -222,38 +222,29 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 
 
 	<div class="block sponsors" id="sponsors">
 		<div class="center">
 			<div class="block__title wow bounceIn">
-				<span>Companies that Grow with Us</span>
+				<span>Páginas Web hechas por nosotros</span>
 				Nuestros clientes
 			</div>
 
 			<div class="owl-carousel owl_sponsors">
 				<div>
-					<a href="http://conversationalspanishmx.com/" target="_blank"><img src="images/conversational.png"
+					<a href="http://dd-scrubs.com.mx" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-1.png"
 							alt=""></a>
 				</div>
 				<div>
-					<a href="https://aldazy.com/index.html" target="_blank"><img src="images/aldazy.png" alt=""></a>
+					<a href="https://aldazy.com/index.html" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-2.png" alt=""></a>
 				</div>
 				<div>
-					<a href="http://www.vmyasc.com.mx/" target="_blank"><img src="images/uvmyass.png" alt=""></a>
+					<a href="http://www.conversationalspanishmx.com/" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-3.png" alt=""></a>
 				</div>
 				<div>
-					<a href="#" target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
-				</div>
-				<div>
-					<a href="#" target="_blank"><img src="images/sponsors_icon_5.png" alt=""></a>
-				</div>
-				<div>
-					<a href="#" target="_blank"><img src="images/sponsors_icon_6.png" alt=""></a>
-				</div>
-				<div>
-					<a href="#" target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
+					<a href="http://www.vmyasc.com.mx/" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-4.png" alt=""></a>
 				</div>
 			</div>
 		</div>
