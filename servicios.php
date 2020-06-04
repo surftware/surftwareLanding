@@ -392,7 +392,6 @@
 		</div>
 	</div>
 </div>
-</div>
 
 
 <div class="section block">
@@ -509,7 +508,7 @@
 				$headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
 				mail($destinatario, $asunto, $cuerpo, $headers);
 			}
-			?>
+		?>
 <!-- Ubicacion  -->
 <div class="section block">
 	<div class="container" id="ubicacion">
