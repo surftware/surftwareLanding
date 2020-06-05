@@ -48,12 +48,12 @@
 							<li>
 								<a href="servicios.php">Servicios</a>
 							</li>
-							<li>
+							<!-- <li>
 								<a href="tienda.php">Tienda Online</a>
 							</li>
 							<li>
 								<a href="blog.php">Blog</a>
-							</li>
+							</li> -->
 
 
 						</ul>
