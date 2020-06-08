@@ -121,7 +121,7 @@
 		</div>
 	</div>
 
-	
+
 
 	<div class="ads_bar" id="ads_bar">
 		<div class="center clearfix">
@@ -234,21 +234,35 @@
 
 			<div class="owl-carousel owl_sponsors">
 				<div>
-					<a href="http://dd-scrubs.com.mx" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-1.png"
-							alt=""></a>
+					<a href="http://surftware.company//" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-5.png" alt="">
+							<p>Constructora y Equipos Hidráhulicos Mexicanos</p></a>
+				</div>
+				
+				<div>
+					<a href="http://www.conversationalspanishmx.com/" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-3.png" alt=""></a>
 				</div>
 				<div>
-					<a href="https://aldazy.com/index.html" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-2.png" alt=""></a>
+					<a href="http://www.vmyasc.com.mx/" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-4.png" alt="">
+						<p class="mt-3">Víctor Montes y ASociados</p>
+					</a>
 				</div>
+
 				<div>
-					<a href="http://www.conversationalspanishmx.com/" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-3.png" alt=""></a>
+					<a href="https://aldazy.com/index.html" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-2.png" alt=""></a>
 				</div>
+
 				<div>
-					<a href="http://www.vmyasc.com.mx/" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-4.png" alt=""></a>
+					<a href="http://dd-scrubs.com.mx" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-1.png" alt="">
+						<p>Dd-Scrubs</p>
+					</a>
 				</div>
-				<div>
-					<a href="http://surftware.company//" target="_blank"><img src="images/clientes/cliente-creacion-sitio-web-5.png" alt=""></a>
-				</div>
+
+
 			</div>
 		</div>
 	</div>
