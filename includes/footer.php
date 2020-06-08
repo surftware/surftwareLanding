@@ -4,7 +4,7 @@
 			<a href="#" class="">
 				<img src="images/creacion-paginas-web.png" alt="" class="lf">
 			</a>
-			<div class="text">
+			<div class="text mt-5">
 				Desarrollo de páginas web, soporte técnico integral en redes y equipo de cómputo
 				para tu empresa y hogar.
 			</div>
