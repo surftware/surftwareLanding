@@ -14,11 +14,10 @@
 			<div class="text_2">Surftware provee productos y servicios profesionales de alta calidad.
 			</div>
 			<div class="text_3">
-				As a one-stop digital marketing company, we will help you boost sales, bring new customers and optimize
-				your advertising budget.
+			Más de 8 años ayudando a las personas y empresas a hacer más productivos sus recursos tecnológicos.
 			</div>
 			<div class="btn__wrap__left">
-				<a href="#contacts" class="btn btn__large btn__orange">Contact us</a>
+				<a href="#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 				<a href="#featured_product" class="btn btn__large btn__white_transparent">watch video</a>
 			</div>
 		</div>

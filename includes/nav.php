@@ -48,7 +48,12 @@
 							<li>
 								<a href="servicios.php">Servicios</a>
 							</li>
+<<<<<<< Updated upstream
 							<!-- <li>
+=======
+							
+							<li>
+>>>>>>> Stashed changes
 								<a href="tienda.php">Tienda Online</a>
 							</li>
 							<li>
