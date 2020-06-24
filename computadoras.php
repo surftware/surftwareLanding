@@ -9,15 +9,17 @@
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
 			<div class="text_1">
-				Servicios
+				Surftware
 			</div>
-			<div class="text_2">Surftware provee productos y servicios profesionales de alta calidad.
+			<div class="text_2">
+				Lead Generation, AdWords, and PPC
 			</div>
 			<div class="text_3">
-			Más de 8 años ayudando a las personas y empresas a hacer más productivos sus recursos tecnológicos.
+				As a one-stop digital marketing company, we will help you boost sales, bring new customers and optimize
+				your advertising budget.
 			</div>
 			<div class="btn__wrap__left">
-				<a href="#contacts" class="btn btn__large btn__orange">Contáctanos</a>
+				<a href="#contacts" class="btn btn__large btn__orange">Contact us</a>
 				<a href="#featured_product" class="btn btn__large btn__white_transparent">watch video</a>
 			</div>
 		</div>
@@ -227,7 +229,6 @@
 		</div>
 	</div>
 </div>
-
 <div class="block faq" id="faq">
 	<div class="center">
 		<div class="item__list  wow fadeInUp" data-wow-delay="0.2s">
@@ -394,97 +395,67 @@
 </div>
 
 
-<div class="section block">
-	<div class="container" id="contacts">
-		<div class="row ">
-			<div class="col-md-12 block__title  wow bounceInLeft">
-				<span>Datos de contacto</span>
-				Comunícate con nosotros.
-				<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve te contestaremos </strong>
-				</p>
-			</div>
+
+<div class="block contacts" id="contacts">
+	<div class="center">
+		<div class="block__title  wow bounceInLeft">
+			<span>Get in touch</span>
+			Contact Us
+			<p>Send us a message to contact you and give you more information about the <strong>Spanish
+					School in
+					Mexico City </strong></p>
 		</div>
-		<div class="row">
 
-			<div class="col-md-4 wow bounceInRight ">
-				<div class="mb-4 tituloRedesSociales text-center">
-					Solicitar servicio
+		<div class="contacts__block">
+			<div class="left_side  wow bounceInLeft">
+				<ul>
+					<li> <a href="mailto:surftware@gmail.com"> <i
+								class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a>
+					</li>
+					<li> <a href="tel: 55-11-89-46-21"><i class="fa fa-phone"> </i> 55-11-89-46-21 </a></li>
+					<li><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i class="fa fa-map-marker"></i>
+							&nbsp;Nte 84-A 6515 San Pedro el Chico</a></li>
+					<li><a href="skype:surftware@outlook.es?chat"><i
+								class="fab fa-skype"></i>&nbsp;surftware@outlook.es</a>
+					</li>
+				</ul>
+				<div class="soc">
+					<div class="title">
+						Social Networks
+					</div>
+					<div class="links">
+						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype"></i></a>
+						<a href=""><i class="fab fa-facebook"></i></a>
+						<a href="https://github.com/surftware"><i class="fab fa-github"></i></a> </div>
 				</div>
+			</div>
+			<div class="right_side  wow bounceInRight">
 				<form action="index.php" method="post">
-
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Nombre completo"
-						name="nombre">
-
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tel. contacto"
-						name="telefono">
-
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Email" name="email">
-
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="Dirección"
-						name="direccion">
-
-					<textarea class="form-control bordesInputContacto m-3" placeholder="Deje su mensaje adicional"
-						name="mensaje" class="textarea"></textarea>
-
-
 					<div class="row">
-						<div class="btn__wrap__right"><br><br>
+						<input name="nombre" type="text" class="input" placeholder="Nombre completo*" required>
+					</div>
+					<div class="row">
+						<input name="telefono" type="text" class="input" placeholder="Teléfono">
+					</div>
+					<div class="row">
+						<input name="correo" type="text" class="input" placeholder="Email*" required>
+					</div>
+					<div class="row">
+						<textarea name="mensaje" placeholder="Mensaje" class="textarea" rows="5" required></textarea>
+					</div>
+					<div class="row">
+						<div class="btn__wrap__right">
 							<input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold"
 								value="enviar">
 						</div>
 					</div>
 				</form>
-			</div>
-			<div class="col-md-4 right_side  wow bounceInRight">
-				<div class="ml-5">
-					<div class="text-center">
-						<div class="mb-4 tituloRedesSociales">
-							Redes Sociales
-						</div>
-						<div class="text-center">
-							<div class="">
-								<a href="skype:surftware@outlook.es?chat" class="icono"><i
-										class="fab fa-skype linkRedesSociales"></i></a>
-								<a href="" class="icono"><i class="fab fa-facebook linkRedesSociales"></i></a>
-								<a href="https://github.com/surftware" class="icono"><i
-										class="fab fa-github linkRedesSociales"></i></a>
-							</div>
-						</div>
-					</div>
-					<ul>
-						<li class="mt-5 mb-4">
-							<a href="mailto:surftware@gmail.com" class="linkContacto">
-								<i class="fas fa-envelope"></i>&nbsp;surftware@gmail.com
-							</a>
-						</li>
-						<li class="mb-4">
-							<a href="tel: 55-11-89-46-21" class="linkContacto">
-								<i class="fab fa-whatsapp"></i> 55-11-89-46-21
-							</a>
-						</li>
-						<li class="mb-4">
-							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" class="linkContacto" target="_blank">
-								<i class="fa fa-map-marker"></i>&nbsp;Nte 84-A 6515. San Pedro el Chico
-							</a>
-						</li>
-						<li class="mb-4">
-							<a href="skype:surftware@outlook.es?chat" class="linkContacto">
-								<i class="fab fa-skype"></i>&nbsp;surftware@outlook.es
-							</a>
-						</li>
-					</ul>
 
-				</div>
-			</div>
-			<div class="col-md-4 right_side  wow bounceInRight ">
-				<div class="text-center">
-					<img src="images/contacto-reparacion-computadoras.jpg" class="rounded" alt="">
-				</div>
 			</div>
 		</div>
+
 	</div>
 </div>
-
 
 <?php
 			$remitente = $_POST['correo'];
@@ -508,36 +479,42 @@
 				$headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
 				mail($destinatario, $asunto, $cuerpo, $headers);
 			}
-		?>
+			?>
 <!-- Ubicacion  -->
-<div class="section block">
-	<div class="container" id="ubicacion">
-		<div class="row ">
-			<div class="col-md-12 block__title  wow bounceInLeft">
-				<span>Ubicación Surftware</span>
-				Mapa de ubicación.
-				<p> Visítanos por primera vez, toda la información que necesites será brindada personalmente .
-				</p>
-				<p><strong> Lunes a Sábado de: 10:00 am a 5:00 pm </strong>
-				</p>
+<div class="section ptb-50" id="ubicacion">
+	<div class="container justify-content-center">
+
+		<div class="row">
+			<div class="col-sm-12 col-md-12 col-lg-12 text-center">
+				<div class="center">
+					<div class="block__title wow bounceIn letraubicacion">
+						Ubicaci&oacute;n
+					</div>
+
+					<p class="mb-0 letrasub">
+						Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute;
+						brindada personalmente .
+					</p>
+					<p class="mb-3 letrasub">Lunes a Viernes de: 10:00 am a 5:00 pm </p>
+				</div>
+			</div>
+
+			<div class="row text-center mb-5 ml-5">
+				<div class="col-sm-12 col-md-12 col-lg-12 center">
+					<iframe class="border rounded d-block mx-auto"
+						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1880.8370982857255!2d-99.0994121419443!3d19.469608896715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fbd9cc350993%3A0x3ab1a5e23ff69f36!2sNte%2084-A%206515%2C%20San%20Pedro%20el%20Chico%2C%20Gustavo%20A.%20Madero%2C%2007480%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1579113392698!5m2!1ses-419!2smx"
+						width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="">
+					</iframe>
+				</div>
 			</div>
 		</div>
 	</div>
-
-	<div class="row text-center mb-5 ml-5">
-		<div class="col-sm-12 col-md-12 col-lg-12 center">
-			<iframe class="border rounded d-block mx-auto"
-				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1880.8370982857255!2d-99.0994121419443!3d19.469608896715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fbd9cc350993%3A0x3ab1a5e23ff69f36!2sNte%2084-A%206515%2C%20San%20Pedro%20el%20Chico%2C%20Gustavo%20A.%20Madero%2C%2007480%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1579113392698!5m2!1ses-419!2smx"
-				width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="">
-			</iframe>
-		</div>
-	</div>
-</div>
-</div>
-<!-- Termina Mapa  -->
+	<!-- Termina Mapa  -->
 
 
-<?php
+
+
+	<?php
 	
 	include ("includes/footer.php");
 	include ("includes/js.php");

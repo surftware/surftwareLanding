@@ -4,26 +4,35 @@
 			<a href="#" class="">
 				<img src="images/creacion-paginas-web.png" alt="" class="lf">
 			</a>
-			<div class="text">
-				We develop custom PPC, AdWords, and Lead generation strategies to help you boost sales, bring new
-				customers and optimize your advertising budget.
+			<div class="text mt-5">
+				Desarrollo de páginas web, soporte técnico integral en redes y equipo de cómputo
+				para tu empresa y hogar.
 			</div>
 			<ul>
 				<li>
-					<a href="mailto:surftware@gmail.com"><i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a>
+					<a href="mailto:surftware@gmail.com">
+						<i class="fa fa-envelope"></i><span class="text-white">surftware@gmail.com</span>
+					</a>
 				</li>
 				<li>
-					<a href="tel:+52 5511894621"><i class="fa fa-phone"></i>&nbsp;55-11-89-46-21</a>
+					<a href="tel:+52 5511894621">
+						<i class="fa fa-phone"></i><span class="text-white">55-11-89-46-21</span>
+					</a>
 				</li>
 				<li>
-					<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank"><i class="fa fa-map-marker"></i>&nbsp;Nte 84-A 6515 San Pedro el Chico</a>
+					<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
+						<i class="fa fa-map-marker"></i><span class="text-white">Nte. 84-A 6515 San Pedro el
+							Chico</span>
+					</a>
 				</li>
 			</ul>
 		</div>
 	</div>
 	<div class="footer__bottom">
 		<div class="center">
-			Copyright © 2019 Desarrollado en Surftware
+			<a href="http://surftware.company"  class="iconSocial" target="_blank">
+				<i class="fa fa-map-marker"></i><span>&nbsp;Copyright © 2019 Desarrollado por Surftware</span>
+			</a>
 		</div>
 	</div>
 </footer>

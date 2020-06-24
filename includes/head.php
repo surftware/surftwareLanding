@@ -21,24 +21,26 @@
     <meta charset="utf-8">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <meta name="description" content="El servicio web que siempre has soñado!" />
-    <link rel="canonical" href="https://surftware.me">
+    <link rel="canonical" href="http://surftware.company">
     <meta name="author" content="Surftware" />
     <meta name="copyright" content="Surftware" />
 
-    <meta name="keywords" content="Como hacer una pagina?" />
+    <meta name="keywords" content="Reparacion computadoras" />
     <meta name="keywords" content="Empresa que haga paginas" />
 
     <!--Open Graphs Facebook Meta  -->
-
     <meta property="og:locale" content="es_MX" />
-    <meta property="og:type" content="website" />
+    <meta property="og:image/jpeg"  content="website" />
     <meta property="og:title" content="Surftware, emprendedores mexicanos" />
     <meta property="og:description"
         content="Surftware, desarrollo de páginas web y soporte integral en sistemas computacionales" />
-    <meta property="og:url" content="https://www.surftware.me">
+    <meta property="og:url" content="http://www.surftware.company">
     <meta property="og:site_name" content="Surftware">
-    <meta property="og:image" content="reparacion-computadoras1.png" />
-    <meta property="og:image" content="Reparacion-computadoras2.png" />
+    <meta property="og:image" content="images/reparacion-computadoras1.jpg" />
+    <meta property="og:image" content="images/reparacion-computadoras2.jpg" />
+    <meta property="og:image" content="images/creacion-paginas-web.png" />
+    <meta property="og:image" content="images/welcome.png" />
+    
 
     <!--Twitter Meta  -->
     <meta name="twitter:card" content="summary_large_image">

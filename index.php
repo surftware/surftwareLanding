@@ -11,16 +11,17 @@
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
 			<div class="text_1">
-				Surftware
+				Surfware
 			</div>
 			<div class="text_2">
-				Lead Generation, AdWords, and PPC </div>
+				Servicios TI a tu medida </div>
 			<div class="text_3">
-				As a one-stop digital marketing company, we will help you boost sales, bring new customers and optimize
-				your advertising budget.
+				Nos dedicamos a ofrecerte soluciones en Tecnologías de la Información
+				para tu negocio y tu hogar.
+				Porque la tecnología debe estar al alcance de todos
 			</div>
 			<div class="btn__wrap__left">
-				<a href="#contacts" class="btn btn__large btn__orange">Contact us</a>
+				<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 			</div>
 		</div>
 	</div>
@@ -61,8 +62,8 @@
 	<div class="block featured_product" id="featured_product">
 		<div class="center">
 			<div class="">
-				<div class="text">
-					
+				<div class="textPromo">
+					!!Promociones Espéralas Pronto!!
 				</div>
 				<a href="#" class="featured_product_play">
 				</a>
@@ -73,8 +74,8 @@
 	<div class="block benefits" id="benefits">
 		<div class="center">
 			<div class="block__title wow bounceIn">
-				<span>Why Choose Us</span>
-				Guaranteed PR and Reputation Growth
+				<span>Nuestras Garantías</span>
+				Motivos por los que nuestros clientes nos prefieren por sobre la competencia:
 			</div>
 			<div class="item__list">
 				<div class="item wow fadeInUp">
@@ -120,82 +121,7 @@
 		</div>
 	</div>
 
-	<div class="block statistic" id="statistics">
-		<div class="center">
-			<div class="block__title">
-				<span>Statistic</span>
-				Marketing Techniques Tailored to Your Business
-			</div>
-			<p>
-				Here are some of our average statistics for you to see the potential growth of your business we can
-				guarantee. Our team of digital marketing specialists develops and implements an individual marketing and
-				PR plan, tailored specifically to your business.
-			</p>
-			<div class="counter">
-				<div class="row wow bounceInRight">
-					<div class="title">
-						<span>PPC campaigns</span>
-						<span>93%</span>
-					</div>
-					<div class="line line__blue">
-						<span style="width:93%;"></span>
-					</div>
-				</div>
-				<div class="row wow bounceInRight" data-wow-delay="0.1s">
-					<div class="title">
-						<span>Adword campaigns</span>
-						<span>93%</span>
-					</div>
-					<div class="line line__orange">
-						<span style="width:93%;"></span>
-					</div>
-				</div>
-				<div class="row wow bounceInRight" data-wow-delay="0.2s">
-					<div class="title">
-						<span>Lead generation</span>
-						<span>93%</span>
-					</div>
-					<div class="line line__blue">
-						<span style="width:93%;"></span>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
 
-	<div class="block counters" id="counters">
-		<div class="center">
-			<div class="block__title wow bounceIn">
-				Our Achievements
-			</div>
-			<div class="item__list">
-				<div class="item wow flipInX">
-					<div class="title">
-						<span>136</span><span>k</span>
-					</div>
-					<p>Analyzed Websites</p>
-				</div>
-				<div class="item wow flipInX" data-wow-delay="0.1s">
-					<div class="title">
-						<span>2590</span>
-					</div>
-					<p>Happy Clients</p>
-				</div>
-				<div class="item wow flipInX" data-wow-delay="0.2s">
-					<div class="title">
-						<span>250%</span>
-					</div>
-					<p>Guaranteed Conversion<br />Growth</p>
-				</div>
-				<div class="item wow flipInX" data-wow-delay="0.3s">
-					<div class="title">
-						<span>15</span>
-					</div>
-					<p>Years on the Market</p>
-				</div>
-			</div>
-		</div>
-	</div>
 
 	<div class="ads_bar" id="ads_bar">
 		<div class="center clearfix">
@@ -214,10 +140,10 @@
 		</div>
 	</div>
 
-	<div class="block team" id="team">
+	<!--<div class="block team" id="team">
 		<div class="center">
 			<div class="block__title">
-				<span>The Team That You Need</span>
+				<span>El equipo que  </span>
 				Our Team
 			</div>
 
@@ -296,188 +222,50 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 
 
 	<div class="block sponsors" id="sponsors">
 		<div class="center">
 			<div class="block__title wow bounceIn">
-				<span>Companies that Grow with Us</span>
+				<span>Páginas Web hechas por nosotros</span>
 				Nuestros clientes
 			</div>
 
 			<div class="owl-carousel owl_sponsors">
 				<div>
-					<a href="http://conversationalspanishmx.com/" target="_blank"><img src="images/conversational.png"
-							alt=""></a>
+					<a href="http://surftware.company//" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-5.png" alt="">
+							<p>Constructora y Equipos Hidráhulicos Mexicanos</p></a>
+				</div>
+				
+				<div>
+					<a href="http://www.conversationalspanishmx.com/" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-3.png" alt=""></a>
 				</div>
 				<div>
-					<a href="https://aldazy.com/index.html" target="_blank"><img src="images/aldazy.png" alt=""></a>
+					<a href="http://www.vmyasc.com.mx/" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-4.png" alt="">
+						<p class="mt-3">Víctor Montes y ASociados</p>
+					</a>
 				</div>
+
 				<div>
-					<a href="http://www.vmyasc.com.mx/" target="_blank"><img src="images/uvmyass.png" alt=""></a>
+					<a href="https://aldazy.com/index.html" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-2.png" alt=""></a>
 				</div>
+
 				<div>
-					<a href="#" target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
+					<a href="http://dd-scrubs.com.mx" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-1.png" alt="">
+						<p>Dd-Scrubs</p>
+					</a>
 				</div>
-				<div>
-					<a href="#" target="_blank"><img src="images/sponsors_icon_5.png" alt=""></a>
-				</div>
-				<div>
-					<a href="#" target="_blank"><img src="images/sponsors_icon_6.png" alt=""></a>
-				</div>
-				<div>
-					<a href="#" target="_blank"><img src="images/sponsors_icon_4.png" alt=""></a>
-				</div>
+
+
 			</div>
 		</div>
 	</div>
-
-	<div class="block testimonials" id="testimonials">
-		<div class="center">
-			<div class="block__title wow bounceIn">
-				<span>What People Say</span>
-				Client Reviews
-			</div>
-
-			<div class="owl-carousel owl_testimonials">
-				<div>
-					<p>
-						ayuda me explotan!
-
-					</p>
-					<figure>
-						<img src="images/team_ava_1.jpg" alt="">
-					</figure>
-					<div class="name">
-						Cesi Gomez
-					</div>
-				</div>
-				<div>
-					<p>
-						Marketon allows me to not worry about the whole section of marketing things that otherwise would
-						need a team of employees
-					</p>
-					<figure>
-						<img src="images/team_ava_1.jpg" alt="">
-					</figure>
-					<div class="name">
-						Joe Martin
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="block projects" id="projects">
-		<div class="center">
-			<div class="block__title wow bounceIn">
-				<span>CCheck our Recent Projects and Case Studies</span>
-				Our Projects
-			</div>
-
-			<div class="tabs">
-				<div class="tabs__nav">
-					<ul class="clearfix">
-						<li class="act">Business</li>
-						<li>Restaurant</li>
-						<li>Art</li>
-						<li>Technologies</li>
-					</ul>
-				</div>
-				<div class="tabs__content">
-					<div class="article act">
-						<p>
-							1Is the science of adjusting a website’s code, content and structure to make it visible on a
-							search engine result page for particular keywords or combinations of keywords.<br />
-							The end-goal in any marketing venture is to generate a return on your investment, and SEO is
-							capable. Content and structure to make it visible on a search engine result page for
-							particular keywords or combinations of keywords. The end-goal in any marketing venture is to
-							generate a return on your investment, and SEO is capable.
-						</p>
-						<div class="item__list clearfix">
-							<div class="item">
-								<img src="images/tabs_img_1.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_2.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_3.jpg" alt="">
-							</div>
-						</div>
-					</div>
-					<div class="article">
-						<p>
-							2Is the science of adjusting a website’s code, content and structure to make it visible on a
-							search engine result page for particular keywords or combinations of keywords.<br />
-							The end-goal in any marketing venture is to generate a return on your investment, and SEO is
-							capable. Content and structure to make it visible on a search engine result page for
-							particular keywords or combinations of keywords. The end-goal in any marketing venture is to
-							generate a return on your investment, and SEO is capable.
-						</p>
-						<div class="item__list clearfix">
-							<div class="item">
-								<img src="images/tabs_img_1.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_2.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_3.jpg" alt="">
-							</div>
-						</div>
-					</div>
-					<div class="article">
-						<p>
-							3Is the science of adjusting a website’s code, content and structure to make it visible on a
-							search engine result page for particular keywords or combinations of keywords.<br />
-							The end-goal in any marketing venture is to generate a return on your investment, and SEO is
-							capable. Content and structure to make it visible on a search engine result page for
-							particular keywords or combinations of keywords. The end-goal in any marketing venture is to
-							generate a return on your investment, and SEO is capable.
-						</p>
-						<div class="item__list clearfix">
-							<div class="item">
-								<img src="images/tabs_img_1.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_2.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_3.jpg" alt="">
-							</div>
-						</div>
-					</div>
-					<div class="article">
-						<p>
-							4Is the science of adjusting a website’s code, content and structure to make it visible on a
-							search engine result page for particular keywords or combinations of keywords.<br />
-							The end-goal in any marketing venture is to generate a return on your investment, and SEO is
-							capable. Content and structure to make it visible on a search engine result page for
-							particular keywords or combinations of keywords. The end-goal in any marketing venture is to
-							generate a return on your investment, and SEO is capable.
-						</p>
-						<div class="item__list clearfix">
-							<div class="item">
-								<img src="images/tabs_img_1.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_2.jpg" alt="">
-							</div>
-							<div class="item">
-								<img src="images/tabs_img_3.jpg" alt="">
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-
-
 
 
 </div>

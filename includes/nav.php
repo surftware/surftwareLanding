@@ -6,20 +6,30 @@
 			<div class="header__top">
 				<div class="center">
 					<ul class="info">
-						<li><a href="email:surftware@gmail.com">
-								<i class="fa fa-envelope"></i>&nbsp;surftware@gmail.com</a></li>
-						<li><a href="tel:1-677-124-44227">
-								<i class="fa fa-phone"></i> &nbsp;55-11-89-46-21</a></li>
-						<li><span><a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
-									<i class="fa fa-map-marker"></i> &nbsp;Nte 84-A 6515 San Pedro el Chico</span>
+						<li>
+							<a href="email:surftware@gmail.com">
+								<i class="fa fa-envelope"></i>
+								<span class="text-white">&nbsp;&nbsp;surftware@gmail.com</span>
+							</a>
+						</li>
+						<li>
+							<a href="tel:5511894621">
+								<i class="fa fa-phone"></i> 
+								<span class="text-white">&nbsp;&nbsp;55-11-89-46-21</span>
+							</a>
+						</li>
+						<li>
+							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
+								<i class="fa fa-map-marker"></i> 
+								<span class="text-white">&nbsp;&nbsp;Nte 84-A 6515 San Pedro el Chico</span>
+							</a>
 						</li>
 
 					</ul>
-					<div class="">
-						<a href="skype:surftware@outlook.es?chat"><i class="fab fa-skype "> </i></a>
-						<a href=""> <i class="fab fa-facebook"> </i></a>
-						<a href="https://github.com/surftware"> <i class="fab fa-github"> </i></a>
-						
+					<div>
+						<a class="" href="skype:surftware@outlook.es?chat"><i class="fab fa-skype iconSocial"> </i></a>
+						<a href=""> 							  		   <i class="fab fa-facebook iconSocial"> </i></a>
+						<a href="https://github.com/surftware">   		   <i class="fab fa-github iconSocial"> </i></a>
 					</div>
 				</div>
 			</div>
@@ -38,12 +48,17 @@
 							<li>
 								<a href="servicios.php">Servicios</a>
 							</li>
+<<<<<<< Updated upstream
+							<!-- <li>
+=======
+							
 							<li>
+>>>>>>> Stashed changes
 								<a href="tienda.php">Tienda Online</a>
 							</li>
 							<li>
 								<a href="blog.php">Blog</a>
-							</li>
+							</li> -->
 
 
 						</ul>
