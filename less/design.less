@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Varela+Round');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,400');
 
 .lato {
 	font-family: 'Lato', sans-serif;
@@ -17,6 +18,12 @@
 .montserrat {
 	font-family: 'Montserrat', sans-serif;
 }
+
+.ubuntu {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
 
 .light {
 	font-weight: 300;
@@ -45,12 +52,18 @@
 /* color iconoco */
 .icono {
 
-	&__facebook{color:@pink !important;} 
-	
-	&__github{color:@pink;} 
-	
-	&__skype{color:@pink;} 
-	
+	&__facebook {
+		color: @pink  !important;
+	}
+
+	&__github {
+		color: @pink;
+	}
+
+	&__skype {
+		color: @pink;
+	}
+
 
 
 }
@@ -186,7 +199,7 @@ body {
 
 		span {
 			display: block;
-			color: @orange;
+			color: @color2;
 			font-size: 20px;
 			line-height: 24px;
 			.lato;
@@ -256,19 +269,18 @@ p {
 
 				a {
 					display: inline-block;
-					color: @color5;
+					color: @pink;
 					font-size: 13px;
-					.lato;
-					text-decoration: none;
+					.ubuntu;
 
 					&:hover {
-						text-decoration: underline;
+						color: @color2;
 					}
 				}
 
 				color:@white;
 				font-size:13px;
-				.lato;
+				.ubuntu;
 
 				i {
 					color: @orange;
@@ -367,7 +379,7 @@ p {
 						.transition(0.2s);
 
 						&:hover {
-							color: @orange;
+							color: @color2;
 						}
 					}
 
@@ -1597,30 +1609,24 @@ p {
 				}
 			}
 		}
-
 		&.act {
-			.item__title {
-				svg {
+			svg {
+				.item__title {
 					.rotation(@deg: 0deg);
 				}
 			}
 		}
-
 		&__descr {
 			display: none;
 			padding-top: 20px;
-
 			.article {
 				padding: 0px 25px;
-
 				@media screen and (max-width: 767px) {
 					padding: 0px;
 				}
-
 				.descr {
 					p {
 						color: @white;
-
 						@media screen and (max-width: 767px) {
 							text-align: center;
 						}
@@ -1630,7 +1636,6 @@ p {
 		}
 	}
 }
-
 /* subscription */
 .subscription {
 	padding: 50px 0px 37px 0px;
@@ -1742,7 +1747,7 @@ p {
 						text-decoration: none;
 
 						&:hover {
-							text-decoration: underline;
+							text-decoration: none;
 						}
 					}
 
@@ -1851,13 +1856,43 @@ p {
 	}
 }
 
+
+.tituloRedesSociales {
+
+	font-family: 'Varela Round', sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	color: #1f2531;
+
+}
+
+.linkRedesSociales
+{
+	font-size:50px;
+	color: @color2;
+}
+
+.linkContacto
+{
+	font-size:15px;
+	color: @color2;
+
+}
+
+.bordesInputContacto{
+	border-radius: 9px;
+	border-color:@color2;
+	
+}
+
+
 /* footer */
 .footer {
 	&__top {
-		background: #1f2531;
+		background: @blue ;
 		color: @white;
 		text-align: center;
-		padding-top: 70px;
+		padding-top: 50px;
 
 		@media screen and (max-width: 767px) {
 			padding-top: 50px;
@@ -1869,9 +1904,9 @@ p {
 		}
 
 		.text {
-			max-width: 710px;
+			max-width: 800px;
 			margin: 0 auto;
-			.lato;
+			.ubuntu;
 			font-size: 15px;
 			line-height: 22px;
 			margin-bottom: 38px;
@@ -1881,7 +1916,7 @@ p {
 			max-width: 930px;
 			margin: 0px auto 0px auto;
 			padding: 58px 0px 50px 0px;
-			border-top: 1px solid rgba(198, 135, 143, 1);
+			border-top: 1px solid @color2;
 
 			@media screen and (max-width: 767px) {
 				padding: 30px 0px;
@@ -1890,7 +1925,7 @@ p {
 			li {
 				display: inline-block;
 				margin-right: 40px;
-				.lato;
+				.ubuntu;
 				font-size: 13px;
 
 				span {
@@ -1902,13 +1937,14 @@ p {
 					display: inline-block;
 					position: relative;
 					padding-left: 25px;
-					.lato;
+					.ubuntu;
 					font-size: 13px;
-					color: @color5;
+					color: @color2;
 					text-decoration: none;
 
 					&:hover {
-						text-decoration: underline;
+						text-decoration: none;
+						color: @color2;
 					}
 				}
 
@@ -1942,56 +1978,47 @@ p {
 		padding: 12px 0px 12px 0px;
 		color: @color5;
 		text-align: center;
-		.lato;
+		.ubuntu;
 		font-size: 14px;
 		line-height: 18px;
 	}
 }
 
-.pr {
-	position: relative;
-}
+.iconSocial {
+	color: @white;
 
-.tac {
-	text-align: center;
-}
+	&:hover {
+		color: @color2;
+	}
 
-.tal {
-	text-align: left;
-}
-
-.tar {
-	text-align: right;
-}
-
-.left {
-	float: left;
-}
-
-.right {
-	float: right;
-}
-
-.clear {
-	clear: both;
-}
-
-.clearfix:after {
-	content: '';
-	display: block;
-	clear: both;
 }
 
 
 .logoSurftware {
 	height: 60px;
 }
-.lf{
+
+.lf {
 	max-width: 20%;
 }
-.letraubicacion{
+
+.letraubicacion {
 	color: @color3;
 }
-.letrasub{
+
+.letrasub {
 	color: @color2;
 }
+
+.textPromo{
+	padding: 12px 0px 12px 0px;
+	color: @white;
+	text-align: center;
+	.ubuntu;
+	font-size: 25px;
+	line-height: 18px;
+
+}
+
+
+/**cambios de jose**/
