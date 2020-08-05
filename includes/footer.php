@@ -15,7 +15,12 @@
 					</a>
 				</li>
 				<li>
-					<a href="tel:+52 5511894621">
+				<!--
+					<a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola, te contacto desde la página web de Sexy Diversión | Sex Shop"><i
+                                    class="fa fa-whatsapp" target="_blank"></i></a>
+				-->
+				<!--tel:+52 5511894621-->
+					<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding">
 						<i class="fa fa-phone"></i><span class="text-white">55-11-89-46-21</span>
 					</a>
 				</li>
