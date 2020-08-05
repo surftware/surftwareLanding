@@ -1,7 +1,7 @@
 <footer class="footer">
 	<div class="footer__top">
 		<div class="center ">
-			<a href="#" class="">
+			<a href="#" class="" target="_blank">
 				<img src="images/creacion-paginas-web.png" alt="" class="lf">
 			</a>
 			<div class="text mt-5">
@@ -15,12 +15,7 @@
 					</a>
 				</li>
 				<li>
-				<!--
-					<a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola, te contacto desde la página web de Sexy Diversión | Sex Shop"><i
-                                    class="fa fa-whatsapp" target="_blank"></i></a>
-				-->
-				<!--tel:+52 5511894621-->
-					<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding">
+					<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding" target="_blank">
 						<i class="fa fa-phone"></i><span class="text-white">55-11-89-46-21</span>
 					</a>
 				</li>
