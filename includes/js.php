@@ -22,7 +22,7 @@
  	<!-- wow -->
  	<script src="js/wow.min.js"></script>
 
-	 </body>
+
  	
   
 
