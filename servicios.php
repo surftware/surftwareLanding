@@ -410,15 +410,15 @@
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
-				<form action="index.php" method="post">
+				<form action="" method="post"  enctype="multipart/form-data">
 
 					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Nombre completo"
 						name="nombre">
 
 					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tel. contacto"
-						name="telefono">
+						name="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
 
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Email" name="email">
+					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Email" name="correo">
 
 					<input type="text" class="form-control bordesInputContacto m-3" placeholder="Dirección"
 						name="direccion">
@@ -429,8 +429,8 @@
 
 					<div class="row">
 						<div class="btn__wrap__right"><br><br>
-							<input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold"
-								value="enviar">
+							<input class="btn btn__orange btn__large font-weight-bold" type="button"
+                                                value="enviar" id="post">
 						</div>
 					</div>
 				</form>

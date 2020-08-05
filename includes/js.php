@@ -21,8 +21,9 @@
  
  	<!-- wow -->
  	<script src="js/wow.min.js"></script>
-
-
+	
+	<script src="js/sweetalert2.js"></script>
+	<script src="js/main.js"></script>
  	
   
 
