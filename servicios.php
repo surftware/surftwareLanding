@@ -414,18 +414,22 @@
 
 					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Nombre completo"
 						name="nombre">
+					<div class=" m-3 text-danger" id="alertNombre"></div>
 
 					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tel. contacto"
 						name="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
+					<div class=" m-3 text-danger" id="alertTelefono"></div>
 
 					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Email" name="correo">
+					<div class=" m-3 text-danger" id="alertCorreo"></div>
 
 					<input type="text" class="form-control bordesInputContacto m-3" placeholder="Dirección"
 						name="direccion">
-
+					<div class=" m-3 text-danger" id="alertDirección"></div>
+					
 					<textarea class="form-control bordesInputContacto m-3" placeholder="Deje su mensaje adicional"
 						name="mensaje" class="textarea"></textarea>
-
+					<div class=" m-3 text-danger" id="alertTexto"></div>
 
 					<div class="row">
 						<div class="btn__wrap__right"><br><br>

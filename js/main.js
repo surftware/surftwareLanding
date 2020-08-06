@@ -6,7 +6,6 @@ $( "#post" ).click(function() {
     var form = $('form')[0]; // You need to use standard javascript object here
     var formData = new FormData(form);
     //formData.append('captcha',grecaptcha.getResponse());
-    console.log("1234");
     $.ajax({
         url: "php/validacines.php",
         type: "POST",
@@ -22,7 +21,19 @@ $( "#post" ).click(function() {
             alerta['tipoAlerta']
             )
             if (alerta['tipoAlerta'] === "success") {
-                document.getElementById("myForm").reset();    
+                //limpia formulario y alertas
+                document.getElementById("myForm").reset();  
+                $("#alertNombre").text("");
+                $("#alertTelefono").text("");
+                $("#alertCorreo").text("");
+                $("#alertTexto").text("");  
+            }
+            if (alerta['tipoAlerta'] !== "success") {
+                // indica las fallas en validaciones
+                $("#alertNombre").text(alerta['alertnombre']);
+                $("#alertTelefono").text(alerta['alertTelefono']);
+                $("#alertCorreo").text(alerta['alertCorreo']);
+                $("#alertTexto").text(alerta['alertTexto']);
             }
             $submitButton = document.getElementById("post").value;
         }

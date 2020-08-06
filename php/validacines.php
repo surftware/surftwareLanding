@@ -5,7 +5,14 @@
 
 $acceso = "";   
 $mensaje ="";
+
+$alertnombre;
+$alertTelefono;
+$alertCorreo;
+$alertTexto;
+
 $tipoAlerta="";
+
 // $captcha=$_POST['captcha'];
 $captcha="prueba modo local";
 if (!empty($_POST)) {
@@ -19,21 +26,25 @@ if (!empty($_POST)) {
             if ($nombre == "" || $telefono== "" || $correo == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
                 $acceso= "Error!";
+                $tipoAlerta="warning";
                 $mensaje = "<b>Faltan o llene correctamente los datos indicados</b></br>";
                 $mensaje .= "<b>Estas son las causas que impiden el correcto llenado del formulario:</b></br>";
                 if ($nombre == "") 
                 {
                     $mensaje .="-Falta llenar <b>Nombre</b>.</br>";
+                    $alertnombre="-Falta llenar <b>Nombre</b>.";
                 }
                 if ($telefono == "" || strlen($telefono) != 10) 
                 {
                     if ($telefono == "") 
                     {
                         $mensaje .="-Falta llenar <b>Tel&eacute;fono</b>.</br>";
+                        $alertTelefono="Falta llenar <b>Tel&eacute;fono</b>.";
                     }
                     if (strlen($telefono) != 10) 
                     {
                         $mensaje .="-Ponga 10 d&iacute;gitos como m&iacute;nimo en <b>Tel&eacute;fono</b>.</br>";
+                        $alertTelefono="-Ponga 10 d&iacute;gitos como m&iacute;nimo en <b>Tel&eacute;fono</b>.</br>";
                     }
                 }
                 if ($correo == "" || is_valid_email($correo) != true) 
@@ -41,16 +52,18 @@ if (!empty($_POST)) {
                     if ($correo == "") 
                     {
                         $mensaje .="-Falta llenar <b>Correo</b>.</br>";
+                        $alertCorreo="Falta llenar <b>Correo</b>.";
                     }
                     if (is_valid_email($correo) != true) 
                     {
                         $mensaje .="-Ingreso un <b>Correo</b> v&aacute;lido!.</br>";
+                        $alertCorreo="Ingreso un <b>Correo</b> v&aacute;lido!.";
                     }
                 }
-                if ($texto == "") 
+                if ($texto == "" || $texto == null) 
                 {
                     $mensaje .="-Falta llenar <b>Mensaje</b>.</br>";
-                    $tipoAlerta="warning";            
+                    $alertTexto="Falta llenar <b>Mensaje</b>.";
                 }
             }
             else
@@ -74,6 +87,20 @@ else
     $mensaje = "Llene los datos";
     $tipoAlerta="warning";
 }
+
+$return_arr = array(
+                    "acceso" => $acceso,
+                    "mensaje" => $mensaje,
+                    
+                    "alertnombre" => $alertnombre,
+                    "alertTelefono" => $alertTelefono,
+                    "alertCorreo" => $alertCorreo,
+                    "alertTexto" => $alertTexto,
+
+                    "tipoAlerta" => $tipoAlerta
+                );
+echo json_encode($return_arr);
+
 function enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto){
     $remitente = $correo;
 	$destinatario = 'surftware@gmail.com'; // en esta línea va el mail del destinatario.
@@ -100,8 +127,4 @@ function is_valid_email($str)
 {
   return (false !== strpos($str, "@") && false !== strpos($str, "."));
 }
-$return_arr = array("acceso" => $acceso,
-                    "mensaje" => $mensaje,
-                    "tipoAlerta" => $tipoAlerta);
-echo json_encode($return_arr);
 ?>
