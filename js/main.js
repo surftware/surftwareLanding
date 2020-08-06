@@ -26,14 +26,33 @@ $( "#post" ).click(function() {
                 $("#alertNombre").text("");
                 $("#alertTelefono").text("");
                 $("#alertCorreo").text("");
-                $("#alertTexto").text("");  
+                //$("#alertTexto").text("");  
             }
             if (alerta['tipoAlerta'] !== "success") {
-                // indica las fallas en validaciones
-                $("#alertNombre").text(alerta['alertnombre']);
-                $("#alertTelefono").text(alerta['alertTelefono']);
-                $("#alertCorreo").text(alerta['alertCorreo']);
-                $("#alertTexto").text(alerta['alertTexto']);
+                if (alerta['alertnombre'] !== null || alerta['alertnombre'] !== "") {
+                    $("#alertNombre").text(alerta['alertnombre']);
+                }
+                if (alerta['alertnombre'] === null || alerta['alertnombre'] === "") {
+                    $("#alertNombre").text("");                    
+                }
+                if (alerta['alertTelefono'] !== null || alerta['alertTelefono'] !== "") {
+                    $("#alertTelefono").text(alerta['alertTelefono']);                    
+                }
+                if (alerta['alertTelefono'] === null || alerta['alertTelefono'] === "") {
+                    $("#alertTelefono").text("");     
+                }
+                if (alerta['alertCorreo'] !== null || alerta['alertCorreo'] !== "") {
+                    $("#alertCorreo").text(alerta['alertCorreo']);                    
+                }
+                if (alerta['alertCorreo'] === null || alerta['alertCorreo'] === "") {
+                    $("#alertCorreo").text("");     
+                }
+                if (alerta['alertTexto'] !== null || alerta['alertTexto'] !== "") {
+                    //$("#alertTexto").text(alerta['alertTexto']);                    
+                }
+                if (alerta['alertTexto'] === null || alerta['alertTexto'] === "") {
+                    //$("#alertTexto").text("");   
+                }
             }
             $submitButton = document.getElementById("post").value;
         }
@@ -113,4 +132,10 @@ function initScrollTop() {
       $('html, body').animate({ scrollTop: 0 }, 800);
       return false;
     });
+}
+function validaNumericos(event) {
+    if(event.charCode >= 48 && event.charCode <= 57){
+        return true;
+    }
+    return false;        
 }

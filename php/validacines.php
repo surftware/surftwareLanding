@@ -32,38 +32,38 @@ if (!empty($_POST)) {
                 if ($nombre == "") 
                 {
                     $mensaje .="-Falta llenar <b>Nombre</b>.</br>";
-                    $alertnombre="-Falta llenar <b>Nombre</b>.";
+                    $alertnombre="Falta llenar Nombre.";
                 }
                 if ($telefono == "" || strlen($telefono) != 10) 
                 {
-                    if ($telefono == "") 
-                    {
-                        $mensaje .="-Falta llenar <b>Tel&eacute;fono</b>.</br>";
-                        $alertTelefono="Falta llenar <b>Tel&eacute;fono</b>.";
-                    }
                     if (strlen($telefono) != 10) 
                     {
                         $mensaje .="-Ponga 10 d&iacute;gitos como m&iacute;nimo en <b>Tel&eacute;fono</b>.</br>";
-                        $alertTelefono="-Ponga 10 d&iacute;gitos como m&iacute;nimo en <b>Tel&eacute;fono</b>.</br>";
+                        $alertTelefono="Ingreso un Telefono válido!.";
+                    }
+                    if ($telefono == "") 
+                    {
+                        $mensaje .="-Falta llenar <b>Tel&eacute;fono</b>.</br>";
+                        $alertTelefono="Falta llenar Telefono.";
                     }
                 }
                 if ($correo == "" || is_valid_email($correo) != true) 
                 {
-                    if ($correo == "") 
-                    {
-                        $mensaje .="-Falta llenar <b>Correo</b>.</br>";
-                        $alertCorreo="Falta llenar <b>Correo</b>.";
-                    }
                     if (is_valid_email($correo) != true) 
                     {
                         $mensaje .="-Ingreso un <b>Correo</b> v&aacute;lido!.</br>";
-                        $alertCorreo="Ingreso un <b>Correo</b> v&aacute;lido!.";
+                        $alertCorreo="Ingreso un Correo válido!.";
+                    }
+                    if ($correo == "") 
+                    {
+                        $mensaje .="-Falta llenar <b>Correo</b>.</br>";
+                        $alertCorreo="Falta llenar Correo.";
                     }
                 }
                 if ($texto == "" || $texto == null) 
                 {
                     $mensaje .="-Falta llenar <b>Mensaje</b>.</br>";
-                    $alertTexto="Falta llenar <b>Mensaje</b>.";
+                    $alertTexto="Falta llenar Mensaje.";
                 }
             }
             else
@@ -72,7 +72,8 @@ if (!empty($_POST)) {
                 $acceso= "&Eacute;xito!";
                 $mensaje = "Mensaje enviado exitosamente";
                 $tipoAlerta="success";
-            }      
+            }     
+            $mensaje = "Llene correctamente los datos."; 
         }
         else
         {
