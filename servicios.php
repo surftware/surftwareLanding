@@ -4,7 +4,12 @@
 	include ("includes/nav.php");
 	  
 ?>
-
+<style>
+.swal2-popup{
+	font-family: 'Varela Round', sans-serif;
+	background-color: #FFF;
+}
+</style>
 <div class="welcome">
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
