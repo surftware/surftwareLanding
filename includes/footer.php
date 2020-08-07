@@ -1,7 +1,7 @@
 <footer class="footer">
 	<div class="footer__top">
 		<div class="center ">
-			<a href="#" class="" target="_blank">
+			<a href="#" class="">
 				<img src="images/creacion-paginas-web.png" alt="" class="lf">
 			</a>
 			<div class="text mt-5">
@@ -30,7 +30,7 @@
 	</div>
 	<div class="footer__bottom">
 		<div class="center">
-			<a href="http://surftware.company"  class="iconSocial" target="_blank">
+			<a href="http://surftware.company"  class="iconSocial">
 				<i class="fa fa-map-marker"></i><span>&nbsp;Copyright © 2019 Desarrollado por Surftware</span>
 			</a>
 		</div>

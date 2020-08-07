@@ -26,7 +26,7 @@ $( "#post" ).click(function() {
                 $("#alertNombre").text("");
                 $("#alertTelefono").text("");
                 $("#alertCorreo").text("");
-                //$("#alertTexto").text("");  
+                $("#alertTexto").text("");  
             }
             if (alerta['tipoAlerta'] !== "success") {
                 if (alerta['alertnombre'] !== null || alerta['alertnombre'] !== "") {
@@ -48,10 +48,10 @@ $( "#post" ).click(function() {
                     $("#alertCorreo").text("");     
                 }
                 if (alerta['alertTexto'] !== null || alerta['alertTexto'] !== "") {
-                    //$("#alertTexto").text(alerta['alertTexto']);                    
+                    $("#alertTexto").text(alerta['alertTexto']);                    
                 }
                 if (alerta['alertTexto'] === null || alerta['alertTexto'] === "") {
-                    //$("#alertTexto").text("");   
+                    $("#alertTexto").text("");   
                 }
             }
             $submitButton = document.getElementById("post").value;
