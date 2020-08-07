@@ -426,7 +426,7 @@
 						name="direccion">
 					<div class=" m-3 text-danger" id="alertDirección"></div>
 					
-					<textarea class="form-control bordesInputContacto m-3" placeholder="Deje su mensaje adicional"
+					<textarea class="form-control bordesInputContacto m-3" placeholder="*Deje su mensaje adicional"
 						name="mensaje" class="textarea"></textarea>
 					<div class=" m-3 text-danger" id="alertTexto"></div>
 
@@ -448,8 +448,8 @@
 							<div class="">
 								<a href="skype:surftware@outlook.es?chat" class="icono"><i
 										class="fab fa-skype linkRedesSociales"></i></a>
-								<a href="" class="icono"><i class="fab fa-facebook linkRedesSociales"></i></a>
-								<a href="https://github.com/surftware" class="icono"><i
+								<a href="" class="icono"   target="_blank"><i class="fab fa-facebook linkRedesSociales"></i></a>
+								<a href="https://github.com/surftware" class="icono"   target="_blank"><i
 										class="fab fa-github linkRedesSociales"></i></a>
 							</div>
 						</div>
