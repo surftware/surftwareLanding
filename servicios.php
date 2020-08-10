@@ -409,24 +409,24 @@
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
-				<form action="" method="post"  enctype="multipart/form-data">
+				<form action="" id="myForm" method="post"  enctype="multipart/form-data">
 
 					<input type="text" class="form-control bordesInputContacto" placeholder="*Nombre completo"
 						name="nombre">
 					<div class="text-danger" id="alertNombre"></div>
 
-					<input type="text" class="form-control bordesInputContacto" placeholder="*Tel. contacto"
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Tel. contacto"
 						name="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
 					<div class="text-danger" id="alertTelefono"></div>
 
-					<input type="text" class="form-control bordesInputContacto" placeholder="*Email" name="correo">
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Email" name="correo">
 					<div class="text-danger" id="alertCorreo"></div>
 
-					<input type="text" class="form-control bordesInputContacto" placeholder="Dirección"
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Dirección"
 						name="direccion">
 					<div class="text-danger" id="alertDirección"></div>
 					
-					<textarea class="form-control bordesInputContacto" placeholder="*Deje su mensaje adicional"
+					<textarea class="form-control bordesInputContacto mt-3" placeholder="*Deje su mensaje adicional"
 						name="mensaje" class="textarea"></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 

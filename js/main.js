@@ -30,28 +30,60 @@ $( "#post" ).click(function() {
             }
             if (alerta['tipoAlerta'] !== "success") {
                 if (alerta['alertnombre'] !== null || alerta['alertnombre'] !== "") {
-                    $("#alertNombre").text(alerta['alertnombre']);
+                    $("#alertNombre").removeClass("text-success");
+                    $("#alertNombre").removeClass("text-danger");
+                    $("#alertNombre").addClass("text-danger");
+
+                    $("#alertNombre").text(alerta['alertnombre']);   
                 }
                 if (alerta['alertnombre'] === null || alerta['alertnombre'] === "") {
-                    $("#alertNombre").text("");                    
+                    $("#alertNombre").removeClass("text-success");
+                    $("#alertNombre").removeClass("text-danger");
+                    $("#alertNombre").addClass("text-success");
+
+                    $("#alertNombre").text("Nombre llenado con exito.");                    
                 }
                 if (alerta['alertTelefono'] !== null || alerta['alertTelefono'] !== "") {
+                    $("#alertTelefono").removeClass("text-success");
+                    $("#alertTelefono").removeClass("text-danger");
+                    $("#alertTelefono").addClass("text-danger");
+
                     $("#alertTelefono").text(alerta['alertTelefono']);                    
                 }
                 if (alerta['alertTelefono'] === null || alerta['alertTelefono'] === "") {
-                    $("#alertTelefono").text("");     
+                    $("#alertTelefono").removeClass("text-success");
+                    $("#alertTelefono").removeClass("text-danger");
+                    $("#alertTelefono").addClass("text-success");
+
+                    $("#alertTelefono").text("Telefono llenado con exito.");     
                 }
                 if (alerta['alertCorreo'] !== null || alerta['alertCorreo'] !== "") {
+                    $("#alertCorreo").removeClass("text-success");
+                    $("#alertCorreo").removeClass("text-danger");
+                    $("#alertCorreo").addClass("text-danger");
+
                     $("#alertCorreo").text(alerta['alertCorreo']);                    
                 }
                 if (alerta['alertCorreo'] === null || alerta['alertCorreo'] === "") {
-                    $("#alertCorreo").text("");     
+                    $("#alertCorreo").removeClass("text-success");
+                    $("#alertCorreo").removeClass("text-danger");
+                    $("#alertCorreo").addClass("text-success");
+
+                    $("#alertCorreo").text("Correo llenado con exito.");     
                 }
                 if (alerta['alertTexto'] !== null || alerta['alertTexto'] !== "") {
+                    $("#alertTexto").removeClass("text-success");
+                    $("#alertTexto").removeClass("text-danger");
+                    $("#alertTexto").addClass("text-danger");
+
                     $("#alertTexto").text(alerta['alertTexto']);                    
                 }
                 if (alerta['alertTexto'] === null || alerta['alertTexto'] === "") {
-                    $("#alertTexto").text("");   
+                    $("#alertTexto").removeClass("text-success");
+                    $("#alertTexto").removeClass("text-danger");
+                    $("#alertTexto").addClass("text-success");
+
+                    $("#alertTexto").text("Mensaje llenado con exito.");  
                 }
             }
             $submitButton = document.getElementById("post").value;
