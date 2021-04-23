@@ -151,11 +151,11 @@
 							Remoto
 						</div>
 						<div class="price">
-							<span> $200 </span>
+							<span> $350 </span>
 
 						</div>
 						<ul>
-							<li>Respuesta inmediata vía Team Viewer</li>
+							<li>Soporte remoto con Team Viewer/AnyDesk</li>
 							<li>Limpieza general del sistema Windows</li>
 							<li>Optimización</li>
 							<li>Instalación de programas (máx. 3)</li>
