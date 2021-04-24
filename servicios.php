@@ -155,7 +155,7 @@
 
 						</div>
 						<ul>
-							<li>Soporte remoto con Team Viewer/AnyDesk</li>
+							<li>Soporte remoto vía Team Viewer/AnyDesk</li>
 							<li>Limpieza general del sistema Windows</li>
 							<li>Optimización</li>
 							<li>Instalación de programas (máx. 3)</li>
