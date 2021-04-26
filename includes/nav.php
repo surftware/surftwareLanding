@@ -48,6 +48,9 @@
 							<li>
 								<a href="servicios.php">Servicios</a>
 							</li>
+							<li>
+								<a href="tutoriales.php">Tutoriales</a>
+							</li>
 							<!-- <li>
 								<a href="tienda.php">Tienda Online</a>
 							</li>
