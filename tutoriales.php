@@ -34,17 +34,14 @@
 			<div class="about__wrap">
 				<div class="left_side  wow slideInLeft">
 					<div class="block__title">
-						<span>¿Quienes Somos?</span>
-						Surftware
+						<span>Ttutoriales</span>
+						QGIS 3.10
 					</div>
 					<p>
-						Somos un grupo de emprendedores interesados en la Ingeniería y nuevas formas de hacer las
-						cosas; implementamos metodologías, actividades y actitudes que impacten de manera positiva
-						en la sociedad mexicana primero y después en el mundo, poniendo de manifiesto que en México
-						también puede existir desarrollo tecnológico e innovación.
+						Selección de un conjunto de inmuebles en QGIS 3.10
 					</p>
 					<div class="btn__wrap__left">
-						<a href="#" class="btn btn__large btn__blue">Detalles</a>
+						<a href="https://www.youtube.com/watch?v=Z2L5J3G-sgA&t=1s" target="_blank" class="btn btn__large btn__blue">Ver en YouTube</a>
 					</div>
 				</div>
 				<figure class=" wow slideInRight">
