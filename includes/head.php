@@ -63,7 +63,13 @@
     <link rel="stylesheet" href="css/owl.carousel.css" />
 
     <link rel="stylesheet" href="css/animate.css" />
-
+    <style>
+    /*Cual es el archivo less que se tiene que compilar para que cargue estos estilos? */
+    .swal2-popup{
+        font-family: 'Varela Round', sans-serif;
+        background-color: #FFF;
+    }
+    </style>
 
     <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 

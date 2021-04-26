@@ -4,7 +4,6 @@
 	include ("includes/nav.php");
 	  
 ?>
-
 <div class="welcome">
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
@@ -410,27 +409,31 @@
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
-				<form action="index.php" method="post">
+				<form action="" id="myForm" method="post"  enctype="multipart/form-data">
 
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Nombre completo"
+					<input type="text" class="form-control bordesInputContacto" placeholder="*Nombre completo"
 						name="nombre">
+					<div class="text-danger" id="alertNombre"></div>
 
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Tel. contacto"
-						name="telefono">
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Tel. contacto"
+						name="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
+					<div class="text-danger" id="alertTelefono"></div>
 
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="*Email" name="email">
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Email" name="correo">
+					<div class="text-danger" id="alertCorreo"></div>
 
-					<input type="text" class="form-control bordesInputContacto m-3" placeholder="Dirección"
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Dirección"
 						name="direccion">
-
-					<textarea class="form-control bordesInputContacto m-3" placeholder="Deje su mensaje adicional"
+					<div class="text-danger" id="alertDirección"></div>
+					
+					<textarea class="form-control bordesInputContacto mt-3" placeholder="*Deje su mensaje adicional"
 						name="mensaje" class="textarea"></textarea>
-
+					<div class="text-danger" id="alertTexto"></div>
 
 					<div class="row">
 						<div class="btn__wrap__right"><br><br>
-							<input id="bSend" type="submit" class="btn btn__orange btn__large font-weight-bold"
-								value="enviar">
+							<input class="btn btn__orange btn__large font-weight-bold" type="button"
+                                                value="enviar" id="post">
 						</div>
 					</div>
 				</form>
@@ -445,8 +448,8 @@
 							<div class="">
 								<a href="skype:surftware@outlook.es?chat" class="icono"><i
 										class="fab fa-skype linkRedesSociales"></i></a>
-								<a href="" class="icono"><i class="fab fa-facebook linkRedesSociales"></i></a>
-								<a href="https://github.com/surftware" class="icono"><i
+								<a href="" class="icono"   target="_blank"><i class="fab fa-facebook linkRedesSociales"></i></a>
+								<a href="https://github.com/surftware" class="icono"   target="_blank"><i
 										class="fab fa-github linkRedesSociales"></i></a>
 							</div>
 						</div>
@@ -458,7 +461,7 @@
 							</a>
 						</li>
 						<li class="mb-4">
-							<a href="tel: 55-11-89-46-21" class="linkContacto">
+							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding" class="linkContacto" target="_blank">
 								<i class="fab fa-whatsapp"></i> 55-11-89-46-21
 							</a>
 						</li>
@@ -485,30 +488,6 @@
 	</div>
 </div>
 
-
-<?php
-			$remitente = $_POST['correo'];
-			$destinatario = 'surftware@gmail.com'; // en esta línea va el mail del destinatario.
-			$asunto = 'Consulta desde Surftware'; // acá se puede modificar el asunto del mail
-			if (!$_POST){}
-			else{
-
-				$cuerpo =  "Name: " . $_POST["nombre"] . "\r\n"; 
-				$cuerpo .= "Phone: " . $_POST["telefono"] . "\r\n";
-				$cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
-				$cuerpo .= "Message: " . $_POST["mensaje"] . "\r\n";
-				//las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
-				// Si se agrega un campo al formulario, hay que agregarlo acá.
-
-				$headers  = "MIME-Version: 1.0\n";
-				$headers .= "Content-type: text/plain; charset=utf-8\n";
-				$headers .= "X-Priority: 3\n";
-				$headers .= "X-MSMail-Priority: Normal\n";
-				$headers .= "X-Mailer: php\n";
-				$headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-				mail($destinatario, $asunto, $cuerpo, $headers);
-			}
-		?>
 <!-- Ubicacion  -->
 <div class="section block">
 	<div class="container" id="ubicacion">

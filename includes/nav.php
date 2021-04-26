@@ -28,8 +28,8 @@
 					</ul>
 					<div>
 						<a class="" href="skype:surftware@outlook.es?chat"><i class="fab fa-skype iconSocial"> </i></a>
-						<a href=""> 							  		   <i class="fab fa-facebook iconSocial"> </i></a>
-						<a href="https://github.com/surftware">   		   <i class="fab fa-github iconSocial"> </i></a>
+						<a href=""  target="_blank"> 							  		   <i class="fab fa-facebook iconSocial"> </i></a>
+						<a href="https://github.com/surftware"  target="_blank"> <i class="fab fa-github iconSocial"> </i></a>
 					</div>
 				</div>
 			</div>
