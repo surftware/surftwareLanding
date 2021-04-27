@@ -41,7 +41,7 @@
 						allowfullscreen></iframe>
 
 				</figure>
-				
+
 				<div class="left_side  wow slideInLeft">
 					<div class="block__title">
 						<span>Tutoriales</span>
@@ -90,6 +90,37 @@
 	</div>
 </div>
 
+<div class="">
+	<div class="block about" id="about">
+		<div class="center">
+			<div class="about__wrap">
+
+				<figure class=" wow slideInRight">
+
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/emVo1oXNm4Q"
+						title="YouTube video player" frameborder="0"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						allowfullscreen></iframe>
+
+				</figure>
+
+				<div class="left_side  wow slideInLeft">
+					<div class="block__title">
+						<span>Tutoriales</span>
+						Lámpara LED</div>
+					<p>
+						Construye tu lámpara LED
+					</p>
+					<div class="btn__wrap__left">
+						<a href="https://www.youtube.com/watch?v=emVo1oXNm4Q&t=2s" target="_blank"
+							class="btn btn__large btn__blue">Ver en YouTube</a>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</div>
 
 <?php
 	
