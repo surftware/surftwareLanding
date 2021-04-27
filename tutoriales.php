@@ -34,7 +34,7 @@
 			<div class="about__wrap">
 				<div class="left_side  wow slideInLeft">
 					<div class="block__title">
-						<span>Ttutoriales</span>
+						<span>Tutoriales</span>
 						QGIS 3.10
 					</div>
 					<p>
@@ -47,12 +47,36 @@
 				<figure class=" wow slideInRight">
                 
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z2L5J3G-sgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                
+
 				</figure>
 			</div>
 		</div>
 	</div>
 
+<div class="">
+	<div class="block about" id="about">
+		<div class="center">
+			<div class="about__wrap">
+				<div class="right_side  wow slideInRight">
+					<div class="block__title">
+						<span>""</span>
+						Gestor de arranque rEFInd para instalar Windows en MacOs Sierra
+					</div>
+					<p>
+						Instalación del gestor de arranque rEFInd en MacOs Sierra para instalar Windows
+					</p>
+					<div class="btn__wrap__rigth">
+						<a href="https://www.youtube.com/watch?v=Ilvf8nObIlA" target="_blank" class="btn btn__large btn__blue">Ver en YouTube</a>
+					</div>
+				</div>
+				<figure class=" wow slideInLeft">
+                
+                <iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ilvf8nObIlA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+				</figure>
+			</div>
+		</div>
+	</div>
 
 
 
