@@ -33,7 +33,7 @@
 		<div class="center">
 			<div class="about__wrap">
 
-				<figure class=" wow slideInRight">
+				<figure class=" wow slideInLeft">
 
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/Z2L5J3G-sgA"
 						title="YouTube video player" frameborder="0"
@@ -42,7 +42,7 @@
 
 				</figure>
 
-				<div class="left_side  wow slideInLeft">
+				<div class="left_side  wow slideInRight">
 					<div class="block__title">
 						<span>Tutoriales</span>
 						QGIS 3.10</div>
@@ -95,7 +95,7 @@
 		<div class="center">
 			<div class="about__wrap">
 
-				<figure class=" wow slideInRight">
+				<figure class=" wow slideInLeft">
 
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/emVo1oXNm4Q"
 						title="YouTube video player" frameborder="0"
@@ -104,7 +104,7 @@
 
 				</figure>
 
-				<div class="left_side  wow slideInLeft">
+				<div class="left_side  wow slideInRight">
 					<div class="block__title">
 						<span>Tutoriales</span>
 						Lámpara LED</div>
