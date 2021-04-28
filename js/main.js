@@ -152,19 +152,39 @@ function validarArchivo(obj){
           img.src = URL.createObjectURL(uploadFile);
       }                 
 }
+/*---------------------------------------
+  Scrollup
+-----------------------------------------*/
+//  Surftware (colaboradores): 
+
+//  -José Armando Moreno Tolentino.
+//  -Juan Miguel Díaz Teran.
+
+
 function initScrollTop() {
     $(window).on("scroll", function () {
+  
       if ($(this).scrollTop() > 100) {
+  
         $('.scrollup').fadeIn();
+  
       } else {
+  
         $('.scrollup').fadeOut();
+  
       }
+  
     });
+  
     $('.scrollup').on('click', function () {
+  
       $('html, body').animate({ scrollTop: 0 }, 800);
+  
       return false;
+  
     });
-}
+  
+  } // initScrollTop
 function validaNumericos(event) {
     if(event.charCode >= 48 && event.charCode <= 57){
         return true;

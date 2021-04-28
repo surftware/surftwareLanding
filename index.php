@@ -236,9 +236,10 @@
 				<div>
 					<a href="http://surftware.company//" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-5.png" alt="">
-							<p>Constructora y Equipos Hidráhulicos Mexicanos</p></a>
+						<p>Constructora y Equipos Hidráhulicos Mexicanos</p>
+					</a>
 				</div>
-				
+
 				<div>
 					<a href="http://www.conversationalspanishmx.com/" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-3.png" alt=""></a>
@@ -277,10 +278,14 @@
 
 </div>
 
+<!-- SCROLL TO TOP -->
+<div class="scroll">
+	<a href="#">
+		<i class="icono fa fa-chevron-up"></i>		
+	</a>
 </div>
 
-<?php
-  
+<?php  
   include ("includes/footer.php");
   include ("includes/js.php");
 ?>

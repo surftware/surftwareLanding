@@ -1609,6 +1609,7 @@ p {
 				}
 			}
 		}
+
 		&.act {
 			svg {
 				.item__title {
@@ -1616,17 +1617,22 @@ p {
 				}
 			}
 		}
+
 		&__descr {
 			display: none;
 			padding-top: 20px;
+
 			.article {
 				padding: 0px 25px;
+
 				@media screen and (max-width: 767px) {
 					padding: 0px;
 				}
+
 				.descr {
 					p {
 						color: @white;
+
 						@media screen and (max-width: 767px) {
 							text-align: center;
 						}
@@ -1636,6 +1642,7 @@ p {
 		}
 	}
 }
+
 /* subscription */
 .subscription {
 	padding: 50px 0px 37px 0px;
@@ -1866,23 +1873,21 @@ p {
 
 }
 
-.linkRedesSociales
-{
-	font-size:50px;
+.linkRedesSociales {
+	font-size: 50px;
 	color: @color2;
 }
 
-.linkContacto
-{
-	font-size:15px;
+.linkContacto {
+	font-size: 15px;
 	color: @color2;
 
 }
 
-.bordesInputContacto{
+.bordesInputContacto {
 	border-radius: 9px;
-	border-color:@color2;
-	
+	border-color: @color2;
+
 }
 
 
@@ -2010,7 +2015,7 @@ p {
 	color: @color2;
 }
 
-.textPromo{
+.textPromo {
 	padding: 12px 0px 12px 0px;
 	color: @white;
 	text-align: center;
@@ -2022,3 +2027,72 @@ p {
 
 
 /**cambios de jose**/
+
+
+//  Scrollup
+
+
+.scroll{
+	
+	width: 40px;
+	height: 40px;
+	border-radius: 30px;
+	//opacity: .3;
+
+	position:absoute;
+	z-index:20;
+}
+.icono{
+	
+	opacity: 1 !important;
+	color:@pink;	
+	font-size: 24px;
+
+	position:relative;
+
+	left: 25%;
+	top: 25%;
+	
+	
+	z-index:20;
+
+	background-color:rgba(84, 69, 127, 0.3);
+	
+	width: 40px;
+	height: 40px;
+	border-radius: 30px;
+	
+	//margin-top: -7px;
+	//margin-left: -6px;
+	
+}
+
+
+
+
+
+
+.scrollup {
+	display: none;
+	width: 30px;
+	height: 30px;
+	border-radius: 15px;
+	opacity: .3;
+	position: fixed;
+	bottom: 40px;
+	right: 25px;
+	color: #fff;
+	cursor: pointer;
+	background-color: rgb(32, 27, 27);
+	z-index: 10;
+	-webkit-transition: background-color 2s ease-in-out;
+	-moz-transition: background-color 2s ease-in-out;
+	-o-transition: background-color 2s ease-in-out;
+	transition: background-color 2s ease-in-out;
+}
+
+.scrollup:hover {
+	background-color: @darkblue;
+	opacity: 1;
+}
+
