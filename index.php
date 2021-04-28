@@ -279,7 +279,7 @@
 </div>
 
 <!-- SCROLL TO TOP -->
-<div class="scroll">
+<div class="scroll float-right">
 	<a href="#">
 		<i class="icono fa fa-chevron-up"></i>		
 	</a>

@@ -159,24 +159,22 @@ function validarArchivo(obj){
 
 //  -José Armando Moreno Tolentino.
 //  -Juan Miguel Díaz Teran.
-
-
 function initScrollTop() {
     $(window).on("scroll", function () {
   
       if ($(this).scrollTop() > 100) {
   
-        $('.scrollup').fadeIn();
+        $('.scroll').fadeIn();
   
       } else {
   
-        $('.scrollup').fadeOut();
+        $('.scroll').fadeOut();
   
       }
   
     });
   
-    $('.scrollup').on('click', function () {
+    $('.scroll').on('click', function () {
   
       $('html, body').animate({ scrollTop: 0 }, 800);
   
@@ -185,6 +183,7 @@ function initScrollTop() {
     });
   
   } // initScrollTop
+
 function validaNumericos(event) {
     if(event.charCode >= 48 && event.charCode <= 57){
         return true;
