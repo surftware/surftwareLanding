@@ -2061,8 +2061,41 @@ p {
 	border-radius: 40px;
 
 }
-
 .icono:hover {
 	background-color: @darkblue;
 	opacity: 1;
 }
+
+/* --------------------------------------------------------
+ Redes Flotantes
+-------------------------------------------------------- */
+.redes-flotantes {
+    position: fixed;
+    right: 90%;
+    bottom: 13%;
+    z-index: 20;
+    }
+    .redes-flotantes img {
+    float: right; clear: right;
+     margin: 5px;
+     margin-bottom: 10%;
+     height: 59px;
+     width: 59px;
+    -moz-transform: scale(.8) ;
+    -webkit-transform: scale(.8) ;
+    -o-transform: scale(.8) ;
+    -ms-transform: scale(.8) ;
+    transform: scale(.8) ;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    }
+    .redes-flotantes img:hover {
+    -moz-transform: scale(1.1) rotate(6deg);
+    -webkit-transform: scale(1.1) rotate(6deg);
+    -o-transform: scale(1.1) rotate(6deg);
+    -ms-transform: scale(1.1) rotate(6deg);
+    transform: scale(1.1) rotate(6deg);
+    }
+
