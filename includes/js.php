@@ -4,12 +4,12 @@
 	<script src="js/jquery.min.js"></script>
 	
 	<!-- custom script -->
-	<script src="js/myscript.js"></script>
+	<script src="js/main.js"></script>
 
 	<!-- bootstrap js-->
 	<script src="js/all.js"></script>
 
-						<!-- jquery -->
+	<!-- jquery -->
 	<script src="js/jquery.min.js"></script>
  
  	<!-- custom script -->
@@ -23,7 +23,15 @@
  	<script src="js/wow.min.js"></script>
 	
 	<script src="js/sweetalert2.js"></script>
-	<script src="js/main.js"></script>
+	
+	<script>
+	function myFunction() {
+  var elmnt = document.getElementById("myDIV");
+  var x = elmnt.scrollLeft;
+  var y = elmnt.scrollTop;
+  document.getElementById ("demo").innerHTML = "Horizontally: " + x + "px<br>Vertically: " + y + "px";
+}
+	</script>
  	
   
 

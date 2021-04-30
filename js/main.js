@@ -167,6 +167,7 @@ function initScrollTop() {
         $('.scroll').fadeIn();
   
       } else {
+        alert(document.getElementById('demo').innerHTML = Date());
   
         $('.scroll').fadeOut();
   
@@ -176,12 +177,22 @@ function initScrollTop() {
   
     $('.scroll').on('click', function () {
   
-      $('html, body').animate({ scrollTop: 0 }, 800);
+      $('html, body').animate({ scroll: 0 }, 800);
   
       return false;
   
     });
   
+  } // initScrollTop
+
+
+
+  function initScrollTop() {
+    window.onscroll = function() {
+        var y = window.scrollY;
+        document.getElementsByClassName("scroll");
+        document.getElementById('y').innerText = y;
+      };
   } // initScrollTop
 
 function validaNumericos(event) {

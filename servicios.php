@@ -13,7 +13,7 @@
 			<div class="text_2">Surftware provee productos y servicios profesionales de alta calidad.
 			</div>
 			<div class="text_3">
-			Más de 8 años ayudando a las personas y empresas a hacer más productivos sus recursos tecnológicos.
+				Más de 8 años ayudando a las personas y empresas a hacer más productivos sus recursos tecnológicos.
 			</div>
 			<div class="btn__wrap__left">
 				<a href="#contacts" class="btn btn__large btn__orange">Contáctanos</a>
@@ -409,7 +409,7 @@
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
-				<form action="" id="myForm" method="post"  enctype="multipart/form-data">
+				<form action="" id="myForm" method="post" enctype="multipart/form-data">
 
 					<input type="text" class="form-control bordesInputContacto" placeholder="*Nombre completo"
 						name="nombre">
@@ -425,15 +425,15 @@
 					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Dirección"
 						name="direccion">
 					<div class="text-danger" id="alertDirección"></div>
-					
+
 					<textarea class="form-control bordesInputContacto mt-3" placeholder="*Deje su mensaje adicional"
 						name="mensaje" class="textarea"></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 
 					<div class="row">
 						<div class="btn__wrap__right"><br><br>
-							<input class="btn btn__orange btn__large font-weight-bold" type="button"
-                                                value="enviar" id="post">
+							<input class="btn btn__orange btn__large font-weight-bold" type="button" value="enviar"
+								id="post">
 						</div>
 					</div>
 				</form>
@@ -448,8 +448,9 @@
 							<div class="">
 								<a href="skype:surftware@outlook.es?chat" class="icono"><i
 										class="fab fa-skype linkRedesSociales"></i></a>
-								<a href="" class="icono"   target="_blank"><i class="fab fa-facebook linkRedesSociales"></i></a>
-								<a href="https://github.com/surftware" class="icono"   target="_blank"><i
+								<a href="" class="icono" target="_blank"><i
+										class="fab fa-facebook linkRedesSociales"></i></a>
+								<a href="https://github.com/surftware" class="icono" target="_blank"><i
 										class="fab fa-github linkRedesSociales"></i></a>
 							</div>
 						</div>
@@ -461,7 +462,8 @@
 							</a>
 						</li>
 						<li class="mb-4">
-							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding" class="linkContacto" target="_blank">
+							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding"
+								class="linkContacto" target="_blank">
 								<i class="fab fa-whatsapp"></i> 55-11-89-46-21
 							</a>
 						</li>
@@ -504,11 +506,10 @@
 	</div>
 
 	<div class="row text-center mb-5 ml-5">
-		<div class="col-sm-12 col-md-12 col-lg-12 center">
+		<div class="col-sm-12 col-md-12 col-lg-12 center">			
 			<iframe class="border rounded d-block mx-auto"
-				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1880.8370982857255!2d-99.0994121419443!3d19.469608896715837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1fbd9cc350993%3A0x3ab1a5e23ff69f36!2sNte%2084-A%206515%2C%20San%20Pedro%20el%20Chico%2C%20Gustavo%20A.%20Madero%2C%2007480%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1579113392698!5m2!1ses-419!2smx"
-				width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="">
-			</iframe>
+				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.6742478620718!2d-99.1004999850927!3d19.469606686863255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4be51d081939dba!2sSurftware!5e0!3m2!1ses-419!2smx!4v1619765799326!5m2!1ses-419!2smx"
+				width="1000" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
