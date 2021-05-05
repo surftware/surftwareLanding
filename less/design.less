@@ -1899,6 +1899,7 @@ p {
 		text-align: center;
 		padding-top: 50px;
 
+
 		@media screen and (max-width: 767px) {
 			padding-top: 50px;
 		}
@@ -2034,7 +2035,7 @@ p {
 
 	border-radius: 30px;
 	//opacity: .3;
-	position: absoute;
+	position: absolute;
 	z-index: 20;
 	left: 200px;
 }
@@ -2042,7 +2043,7 @@ p {
 .icono {
 
 	opacity: 1 !important;
-	color:@white;
+	color: @white;
 	font-size: 14px;
 
 	position: fixed;
@@ -2053,7 +2054,7 @@ p {
 
 	z-index: 20;
 
-	background-color: rgba(233, 24, 53,0.7);
+	background-color: rgba(233, 24, 53, 0.7);
 
 
 	width: 70px !important;
@@ -2061,6 +2062,7 @@ p {
 	border-radius: 40px;
 
 }
+
 .icono:hover {
 	background-color: @darkblue;
 	opacity: 1;
@@ -2070,32 +2072,36 @@ p {
  Redes Flotantes
 -------------------------------------------------------- */
 .redes-flotantes {
-    position: fixed;
-    right: 90%;
-    bottom: 13%;
-    z-index: 20;
-    }
-    .redes-flotantes img {
-    float: right; clear: right;
-     margin: 5px;
-     margin-bottom: 10%;
-     height: 59px;
-     width: 59px;
-    -moz-transform: scale(.8) ;
-    -webkit-transform: scale(.8) ;
-    -o-transform: scale(.8) ;
-    -ms-transform: scale(.8) ;
-    transform: scale(.8) ;
-    -webkit-transition: all .2s ease-in-out;
-    -moz-transition: all .2s ease-in-out;
-    -o-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
-    }
-    .redes-flotantes img:hover {
-    -moz-transform: scale(1.1) rotate(6deg);
-    -webkit-transform: scale(1.1) rotate(6deg);
-    -o-transform: scale(1.1) rotate(6deg);
-    -ms-transform: scale(1.1) rotate(6deg);
-    transform: scale(1.1) rotate(6deg);
-    }
-
+	position: fixed;
+	left: 90.5%;
+	bottom: 30%;
+	z-index: 20;
+}
+/*
+.redes-flotantes img {
+	position: fixed;
+	left: 90%;
+	float: right;
+	clear: right;
+	margin: 5px;
+	margin-bottom: 10%;
+	height: 59px;
+	width: 59px;
+	-moz-transform: scale(.8);
+	-webkit-transform: scale(.8);
+	-o-transform: scale(.8);
+	-ms-transform: scale(.8);
+	transform: scale(.8);
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+*/
+.redes-flotantes img:hover {
+	-moz-transform: scale(1.1) rotate(6deg);
+	-webkit-transform: scale(1.1) rotate(6deg);
+	-o-transform: scale(1.1) rotate(6deg);
+	-ms-transform: scale(1.1) rotate(6deg);
+	transform: scale(1.1) rotate(6deg);
+}
