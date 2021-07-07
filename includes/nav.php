@@ -7,9 +7,9 @@
 				<div class="center">
 					<ul class="info">
 						<li>
-							<a href="email:surftware@gmail.com">
+							<a href="email:contacto@surftware.com.mx">
 								<i class="fa fa-envelope"></i>
-								<span class="text-white">&nbsp;&nbsp;surftware@gmail.com</span>
+								<span class="text-white">&nbsp;&nbsp;contacto@surftware.com.mx</span>
 							</a>
 						</li>
 						<li>

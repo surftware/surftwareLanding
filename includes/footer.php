@@ -18,7 +18,7 @@
 				src="assets/img/global/instagram-sexydiversion-sexshop.png" />
 		    </a>
 	        </div>-->
-			<div class="row">
+			<div class="row mb-3">
 				<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola,+te+contacto+desde+la+página+web+de+Surftware"
 					target="_blank">
 					<img data-original-height="59" data-original-width="59" src="assets/whatsapp.png" />
@@ -44,8 +44,8 @@
 			</div>
 			<ul>
 				<li>
-					<a href="mailto:surftware@gmail.com">
-						<i class="fa fa-envelope"></i><span class="text-white">surftware@gmail.com</span>
+					<a href="mailto:contacto@surftware.com.mx">
+						<i class="fa fa-envelope"></i><span class="text-white">contacto@surftware.com.mx</span>
 					</a>
 				</li>
 				<li>

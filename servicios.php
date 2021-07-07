@@ -457,8 +457,8 @@
 					</div>
 					<ul>
 						<li class="mt-5 mb-4">
-							<a href="mailto:surftware@gmail.com" class="linkContacto">
-								<i class="fas fa-envelope"></i>&nbsp;surftware@gmail.com
+							<a href="mailto:contacto@surftware.com.mx" class="linkContacto">
+								<i class="fas fa-envelope"></i>&nbsp;contacto@surftware.com.mx
 							</a>
 						</li>
 						<li class="mb-4">
