@@ -446,7 +446,7 @@
 						</div>
 						<div class="text-center">
 							<div class="">
-								<a href="skype:surftware@outlook.es?chat" class="icono"><i
+								<a href="skype:arciniegasolano@outlook.com?chat" class="icono"><i
 										class="fab fa-skype linkRedesSociales"></i></a>
 								<a href="" class="icono" target="_blank"><i
 										class="fab fa-facebook linkRedesSociales"></i></a>
@@ -473,8 +473,8 @@
 							</a>
 						</li>
 						<li class="mb-4">
-							<a href="skype:surftware@outlook.es?chat" class="linkContacto">
-								<i class="fab fa-skype"></i>&nbsp;surftware@outlook.es
+							<a href="skype:arciniegasolano@outlook.com?chat" class="linkContacto">
+								<i class="fab fa-skype"></i>&nbsp;arciniegasolano@outlook.com
 							</a>
 						</li>
 					</ul>
@@ -497,7 +497,7 @@
 			<div class="col-md-12 block__title  wow bounceInLeft">
 				<span>Ubicación Surftware</span>
 				Mapa de ubicación.
-				<p> Visítanos por primera vez, toda la información que necesites será brindada personalmente .
+				<p> Visítanos por primera vez, toda la información que necesite te la brindaremos personalmente .
 				</p>
 				<p><strong> Lunes a Sábado de: 10:00 am a 5:00 pm </strong>
 				</p>
