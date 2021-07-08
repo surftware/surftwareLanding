@@ -18,6 +18,8 @@
  	<!-- owl carousel -->
  	<script src="js/owl.carousel.min.js"></script>
 
+	<!-- reCaptcha V2 -->
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
  
  	<!-- wow -->
  	<script src="js/wow.min.js"></script>
