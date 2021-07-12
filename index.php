@@ -29,27 +29,26 @@
 
 -->
 <div class="welcome">
-	<div class="">
-		<figure class="wow fadeInLeft">
-			<img src="images/welcome.png" alt="">
-		</figure>
-		<div class="descr wow fadeInRight">
-			<div class="text_1">
-				Marketon
-			</div>
-			<div class="text_2">
-				Search Engine Optimization
-			</div>
-			<div class="text_3">
-				We offer tailored services that leverage search engines to boost sales, bring new customers and optimize
-				your advertising budget.
-			</div>
-			<div class="btn__wrap__left">
-				<a href="#contacts" class="btn btn__large btn__white">Contact us</a>
-				<a href="#video" class="btn btn__large btn__white_transparent">watch video</a>
-			</div>
+
+	<figure class="wow fadeInLeft">
+		<img src="images/welcome.png" alt="">
+	</figure>
+	<div class="textEncimado  wow slideInLeft">
+		<div class="text_1">
+			Surfware
+		</div>
+		<div class="text_2">
+			Servicios TI a tu medida </div>
+		<div class="text_3">
+			Ofrecemos soluciones en Tecnologías
+			de la Información para tu negocio y tu hogar.</br>
+			Porque la tecnología debe estar al alcance de todos
+		</div>
+		<div class="btn__wrap__left">
+			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 		</div>
 	</div>
+
 </div>
 
 <div class="">
