@@ -5,6 +5,8 @@
 	  
  ?>
 
+<!--
+
 <div class="welcome">
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
@@ -25,9 +27,30 @@
 	</div>
 </div>
 
+-->
+<div class="welcome">
+	<div class="">
+		<figure class="wow fadeInLeft">
+			<img src="images/welcome.png" alt="">
+		</figure>
+		<div class="descr wow fadeInRight">
+			<div class="text_1">
+				Marketon
+			</div>
+			<div class="text_2">
+				Search Engine Optimization
+			</div>
+			<div class="text_3">
+				We offer tailored services that leverage search engines to boost sales, bring new customers and optimize
+				your advertising budget.
+			</div>
+			<div class="btn__wrap__left">
+				<a href="#contacts" class="btn btn__large btn__white">Contact us</a>
+				<a href="#video" class="btn btn__large btn__white_transparent">watch video</a>
+			</div>
+		</div>
+	</div>
 </div>
-
-</header>
 
 <div class="">
 	<div class="block about" id="about">
@@ -278,6 +301,7 @@
 
 
 </div>
+<!-- Este div cierra el div clas="wrap" que está en nav.php -->
 
 <?php  
   include ("includes/footer.php");
