@@ -25,18 +25,18 @@
 							</a>
 						</li>
 					</ul>
-					<div class="soc clearfix">
-						<a href="#">
+					<div class="">
+						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
 							<i class="fa fa-facebook"></i>
 						</a>
-						<a href="#">
+						<!--<a href="#">
 							<i class="fa fa-google-plus"></i>
 						</a>
 						<a href="#">
-							<i class="fa fa-linkedin"></i>
+							<i class="fa fa-linkedin"></i>-->
 						</a>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
+						<a href="https://github.com/surftware" target="_blank">
+							<i class="fa fa-github"></i>
 						</a>
 					</div>
 				</div>
