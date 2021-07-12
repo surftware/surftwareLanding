@@ -455,6 +455,8 @@
 							<input class="btn btn__orange btn__large font-weight-bold" type="button" value="enviar"
 								id="post">
 						</div>
+						<!-- Recaptcha -->
+						<div class="mt-3 g-recaptcha" data-sitekey="your_site_key"></div>
 					</div>
 				</form>
 			</div>
