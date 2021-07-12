@@ -49,7 +49,7 @@
 					</a>
 				</li>
 				<li>
-					<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding"
+					<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de Surftware.com.mx"
 						target="_blank">
 						<i class="fa fa-phone"></i><span class="text-white">55-11-89-46-21</span>
 					</a>
