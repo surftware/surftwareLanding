@@ -109,17 +109,17 @@ body {
 	margin: 0 auto;
 }
 
-.welcome{
+.welcome {
 	height: 900px;
 }
 
 
-.textEncimado{
-	position:relative;
+.textEncimado {
+	position: relative;
 	z-index: 2;
-	bottom:700px;
+	bottom: 700px;
 	margin-left: 5%;
-	color:@white;
+	color: @white;
 
 	.text_1 {
 		font-size: 90px;
@@ -407,8 +407,8 @@ p {
 		background-image: url(../images/welcome.jpg);
 		*/
 		position: absolute;
-		width:100%;
-		
+		width: 100%;
+
 		.center {
 			padding: 23px 15px 26px 15px;
 			.flex-display(@display: flex);
@@ -571,12 +571,12 @@ p {
 			}
 		}
 
-		
+
 
 		.welcome {
 			color: #FFF;
 			padding: 170px 0px 260px 0px;
-					
+
 
 			&__wrap {
 				max-width: 590px;
@@ -766,6 +766,12 @@ p {
 
 				.btn__wrap__left {
 					text-align: center;
+				}
+			}
+			@media screen and (max-width: 991px){
+				#pQgis {
+					text-align: center;
+					margin-left: 10px;
 				}
 			}
 		}
@@ -2153,31 +2159,29 @@ p {
 	z-index: 20;
 }
 
-@media (min-width: 0px) and (max-width: 575px)
-{
-	.icono{
-		width: 35px!important;
+@media (min-width: 0px) and (max-width: 575px) {
+	.icono {
+		width: 35px !important;
 		height: 35px;
 		border-radius: 50%;
 		left: 87.5%;
 	}
 
-	.redes-flotantes{
+	.redes-flotantes {
 		left: 85%;
 	}
 }
 
-@media (min-width: 576px) and (max-width: 767px)
-{
-	.icono{
-		width: 45px!important;
+@media (min-width: 576px) and (max-width: 767px) {
+	.icono {
+		width: 45px !important;
 		height: 45px;
 		border-radius: 50%;
 		left: 87.5%;
 	}
 
-	.redes-flotantes{
-		left: 85%!important;
+	.redes-flotantes {
+		left: 85% !important;
 	}
 }
 
@@ -2208,4 +2212,12 @@ p {
 	-o-transform: scale(1.1) rotate(6deg);
 	-ms-transform: scale(1.1) rotate(6deg);
 	transform: scale(1.1) rotate(6deg);
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	#videoQgis {
+		src: "https://www.youtube.com/embed/Z2L5J3G-sgA";
+		width: 460px;
+		height: 215px;
+	}
 }

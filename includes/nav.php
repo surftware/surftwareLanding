@@ -6,20 +6,22 @@
 				<div class="center">
 					<ul class="info">
 						<li>
-							<a href="mailto:exampleemail@gmail.com">
+							<a href="mailto:contacto@surftware.com.mx">
 								<i class="fa fa-envelope"></i>
-								exampleemail@gmail.com
+								contacto@surftware.com.mx
 							</a>
 						</li>
 						<li>
-							<a href="tel:167712444227">
+							<a href="tel: 5511894621">
 								<i class="fa fa-phone"></i>
-								1-677-124-44227
+								5511894621
 							</a>
 						</li>
 						<li>
-							<i class="fa fa-map-marker"></i>
-							437 S Olive St, Los Angeles
+							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
+								<i class="fa fa-map-marker"></i>
+								Nte. 84-A 6515 Sn Pedro el Chico
+							</a>
 						</li>
 					</ul>
 					<div class="soc clearfix">
@@ -54,9 +56,9 @@
 							<li>
 								<a>+ Tutoriales</a>
 								<ul>
-									<li><a href="tutoriales.php#about">About</a></li>
-									<li><a href="tutoriales.php#services">Services</a></li>
-									<li><a href="tutoriales.php#featured_product">Featured Product</a></li>
+									<li><a href="tutoriales.php#QGIS">Tutorial QGIS 3.10</a></li>
+									<li><a href="tutoriales.php#MAC">Instalación de W10 en Mac</a></li>
+									<li><a href="tutoriales.php#LED">Construye tu lámpara LED</a></li>
 								</ul>
 							</li>
 						</ul>
