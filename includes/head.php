@@ -2,10 +2,10 @@
 <html lang="es">
 
 <head>
-    <title>Surftware | Servicio de diseño web</title>
+    <title>Surftware | Diseño Web  y Soporte TI</title>
 
     <!--Google  -->
-    <meta name="google-site-verification" content="5ioYOUQ4nVq5weBAXL9MTne8iJq6NeWy78tkTV3B-ZU" />
+    <meta name="google-site-verification" content="cfO3rUZZCzaARTIqrr4qfBmnUs_SavKQJyPKXOtTeDU" />
 
     <!--favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
@@ -20,34 +20,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="utf-8">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <meta name="description" content="El servicio web que siempre has soñado!" />
-    <link rel="canonical" href="http://surftware.company">
-    <meta name="author" content="Surftware" />
+    <meta name="description" content="Surftware | ¡El servicio web que siempre has soñado!" />
+    <link rel="canonical" href="https://surftware.com.mx">
+    <meta name="author" content="Armando Arciniega" />
     <meta name="copyright" content="Surftware" />
 
     <meta name="keywords" content="Reparacion computadoras" />
-    <meta name="keywords" content="Empresa que haga paginas" />
+    <meta name="keywords" content="Paginas web" />
+    <meta name="keywords" content="Soporte tecnico" />
 
     <!--Open Graphs Facebook Meta  -->
+    <meta property="og:type" content="website" />
     <meta property="og:locale" content="es_MX" />
     <meta property="og:image/jpeg"  content="website" />
     <meta property="og:title" content="Surftware, emprendedores mexicanos" />
     <meta property="og:description"
         content="Surftware, desarrollo de páginas web y soporte integral en sistemas computacionales" />
-    <meta property="og:url" content="http://www.surftware.company">
+    <meta property="og:url" content="https://www.surftware.com.mx">
     <meta property="og:site_name" content="Surftware">
-    <meta property="og:image" content="images/reparacion-computadoras1.jpg" />
-    <meta property="og:image" content="images/reparacion-computadoras2.jpg" />
-    <meta property="og:image" content="images/creacion-paginas-web.png" />
-    <meta property="og:image" content="images/welcome.png" />
+    <meta property="og:image" content="https://surftware.com.mx/images/reparacion-computadoras.jpeg" />
+    <meta property="og:image" content="https://surftware.com.mx/images/reparacion-computadoras2.jpg" />
+    <meta property="og:image" content="https://surftware.com.mx/images/creacion-paginas-web.png" />
+    <meta property="og:image" content="https://surftware.com.mx/images/welcome.png" />
     
 
     <!--Twitter Meta  -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Surftware | El servicio web que siempre has soñado">
     <meta name="twitter:description" content="El servicio web que siempre has soñado" />
-    <meta name="twitter:image" content="Reparacion-computadoras1.png" />
-    <meta name="twitter:image" content="Reparacion-computadoras2.png" />
+    <meta name="twitter:image" content="Reparacion-computadoras.jpeg" />
+    <meta name="twitter:image" content="Reparacion-computadoras2.jpg" />
 
 
 
@@ -63,23 +65,6 @@
     <link rel="stylesheet" href="css/owl.carousel.css" />
 
     <link rel="stylesheet" href="css/animate.css" />
-    <style>
-    /*Cual es el archivo less que se tiene que compilar para que cargue estos estilos? */
-    .swal2-popup{
-        font-family: 'Varela Round', sans-serif;
-        background-color: #FFF;
-    }
-    </style>
-
-    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-
-
-    <!--[if lt IE 8]>
- <div style=' clear: both; text-align:center; position: relative;'>
- <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode">
- <img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." />
- </a>
- </div>
- <![endif]-->
+    
 
 </head>

@@ -1,5 +1,4 @@
 <body>
-
 	<div class="wrap">
 
 		<header class="header">
@@ -7,37 +6,42 @@
 				<div class="center">
 					<ul class="info">
 						<li>
-							<a href="email:contacto@surftware.com.mx">
+							<a href="mailto:exampleemail@gmail.com">
 								<i class="fa fa-envelope"></i>
-								<span class="text-white">&nbsp;&nbsp;contacto@surftware.com.mx</span>
+								exampleemail@gmail.com
 							</a>
 						</li>
 						<li>
-							<a href="tel:5511894621">
-								<i class="fa fa-phone"></i> 
-								<span class="text-white">&nbsp;&nbsp;55-11-89-46-21</span>
+							<a href="tel:167712444227">
+								<i class="fa fa-phone"></i>
+								1-677-124-44227
 							</a>
 						</li>
 						<li>
-							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
-								<i class="fa fa-map-marker"></i> 
-								<span class="text-white">&nbsp;&nbsp;Nte 84-A 6515 San Pedro el Chico</span>
-							</a>
+							<i class="fa fa-map-marker"></i>
+							437 S Olive St, Los Angeles
 						</li>
-
 					</ul>
-					<div>
-						<a class="" href="skype:surftware@outlook.es?chat"><i class="fab fa-skype iconSocial"> </i></a>
-						<a href=""  target="_blank"> 							  		   <i class="fab fa-facebook iconSocial"> </i></a>
-						<a href="https://github.com/surftware"  target="_blank"> <i class="fab fa-github iconSocial"> </i></a>
+					<div class="soc clearfix">
+						<a href="#">
+							<i class="fa fa-facebook"></i>
+						</a>
+						<a href="#">
+							<i class="fa fa-google-plus"></i>
+						</a>
+						<a href="#">
+							<i class="fa fa-linkedin"></i>
+						</a>
+						<a href="#">
+							<i class="fa fa-twitter"></i>
+						</a>
 					</div>
 				</div>
 			</div>
 			<div class="header__bottom">
-				<div class="center pr">
-					<a href="index.php" class="logo">
-						<img src="images/creacion-paginas-web.png" class="logoSurftware"
-							alt="Surftware: creación de páginas web y soporte técnivo integral equipo de cómputo">
+				<div class="center">
+					<a href="#" class="logo">
+						<img class="logoSurftware" src="images/creacion-paginas-web.png" alt="">
 					</a>
 
 					<nav class="navbar navbar-expand-md navbar-dark clearfix">
@@ -72,48 +76,76 @@
 					<div class="nav clearfix">
 						<ul>
 							<li>
-								<a href="index.php">Acerca de Surftware</a>
+								<a href="#services">Services</a>
 							</li>
 							<li>
-								<a href="servicios.php">Servicios</a>
+								<a href="#pricing">Pricing</a>
 							</li>
 							<li>
-								<a href="tutoriales.php">Tutoriales</a>
+								<a href="#contacts">Contacts</a>
 							</li>
 							<li>
-								<a href="tienda.php">Tienda Online</a>
-							</li>
-							<li>
-								<a href="blog.php">Blog</a>
+								<a>+ All blocks</a>
+								<ul>
+									<li><a href="#about">About</a></li>
+									<li><a href="#services">Services</a></li>
+									<li><a href="#featured_product">Featured Product</a></li>
+									<li><a href="#benefits">Benefits</a></li>
+									<li><a href="#statistics">Statistics</a></li>
+									<li><a href="#counters">Counters</a></li>
+									<li><a href="#ads_bar">Ads bar</a></li>
+									<li><a href="#team">Team</a></li>
+									<li><a href="#pricing">Pricing</a></li>
+									<li><a href="#sponsors">Sponsors</a></li>
+									<li><a href="#testimonials">Testimonials</a></li>
+									<li><a href="#projects">Projects</a></li>
+									<li><a href="#faq">FAQ</a></li>
+									<li><a href="#contacts">Contacts</a></li>
+									<li><a href="#subscription">Subscription</a></li>
+								</ul>
 							</li>
 						</ul>
 						<div class="btn__wrap__center">
-							<a href="servicios.php#contacts" class="btn btn__medium btn__orange">Contacto</a>
+							<a href="#" class="btn btn__medium btn__blue">FREE SEO AUDIT</a>
 						</div>
 					</div> -->
 					<!--
 					<div class="menu_toggle">
 						<i></i>
 					</div>
-					
-					<div class="phone_nav">
-						<ul>
-
-							<li>
-								<a href="index.php">Acerca de Surftware</a>
-							</li>
-							<li>
-								<a href="servicios.php">Servicios</a>
-							</li>
-							<li>
-								<a href="tienda.php">Tienda Online</a>
-							</li>
-							<li>
-								<a href="blog.php">Blog</a>
-							</li>
-
-						</ul>
-					</div>
-					-->
 				</div>
-			
+			</div>
+			<div class="phone_nav">
+				<ul>
+					<li>
+						<a href="#services">Services</a>
+					</li>
+					<li>
+						<a href="#pricing">Pricing</a>
+					</li>
+					<li>
+						<a href="#contacts">Contacts</a>
+					</li>
+					<li>
+						<a class="sub">All blocks</a>
+						<ul>
+							<li><a href="#about">About</a></li>
+							<li><a href="#services">Services</a></li>
+							<li><a href="#featured_product">Featured Product</a></li>
+							<li><a href="#benefits">Benefits</a></li>
+							<li><a href="#statistics">Statistics</a></li>
+							<li><a href="#counters">Counters</a></li>
+							<li><a href="#ads_bar">Ads bar</a></li>
+							<li><a href="#team">Team</a></li>
+							<li><a href="#pricing">Pricing</a></li>
+							<li><a href="#sponsors">Sponsors</a></li>
+							<li><a href="#testimonials">Testimonials</a></li>
+							<li><a href="#projects">Projects</a></li>
+							<li><a href="#faq">FAQ</a></li>
+							<li><a href="#contacts">Contacts</a></li>
+							<li><a href="#subscription">Subscription</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</header>

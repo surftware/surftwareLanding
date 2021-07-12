@@ -109,6 +109,75 @@ body {
 	margin: 0 auto;
 }
 
+.welcome{
+	height: 900px;
+}
+
+
+.textEncimado{
+	position:relative;
+	z-index: 2;
+	bottom:700px;
+	margin-left: 5%;
+	color:@white;
+
+	.text_1 {
+		font-size: 90px;
+		margin-bottom: 10px;
+	}
+
+	.text_2 {
+		font-size: 36px;
+		margin-bottom: 32px;
+		letter-spacing: -2px;
+	}
+
+	.text_3 {
+		font-size: 18px;
+		line-height: 24px;
+		margin-bottom: 66px;
+	}
+
+	@media screen and (max-width: 1150px) {
+		padding: 100px 0px 100px 0px;
+
+		.text_1 {
+			font-size: 70px;
+		}
+
+		.text_2 {
+			font-size: 36px;
+		}
+
+		.text_3 {
+			font-size: 18px;
+			line-height: 24px;
+			margin-bottom: 50px;
+		}
+	}
+
+	@media screen and (max-width: 767px) {
+		padding: 20px 0px 50px 0px;
+		text-align: center;
+
+		.text_1 {
+			font-size: 40px;
+		}
+
+		.text_2 {
+			font-size: 24px;
+		}
+
+		.text_3 {
+			font-size: 16px;
+			line-height: 22px;
+			margin-bottom: 30px;
+		}
+	}
+
+
+}
+
 /* buttons style */
 .btn {
 	&__wrap {
@@ -328,15 +397,18 @@ p {
 	}
 
 	&__bottom {
+		/*
 		background-position: left center;
 		background-repeat: no-repeat;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		-o-background-size: cover;
 		background-size: cover;
-		background-image: url(../images/welcome.png);
-		position: relative;
-
+		background-image: url(../images/welcome.jpg);
+		*/
+		position: absolute;
+		width:100%;
+		
 		.center {
 			padding: 23px 15px 26px 15px;
 			.flex-display(@display: flex);
@@ -499,9 +571,12 @@ p {
 			}
 		}
 
+		
+
 		.welcome {
 			color: #FFF;
 			padding: 170px 0px 260px 0px;
+					
 
 			&__wrap {
 				max-width: 590px;

@@ -4,7 +4,7 @@
 	include ("includes/nav.php");
 	  
 ?>
-<div class="welcome">
+<!--<div class="welcome">
 	<div class="center">
 		<div class="welcome__wrap  wow slideInLeft">
 			<div class="text_1">
@@ -17,14 +17,34 @@
 			</div>
 			<div class="btn__wrap__left">
 				<a href="#contacts" class="btn btn__large btn__orange">Contáctanos</a>
-				<a href="#featured_product" class="btn btn__large btn__white_transparent">watch video</a>
+				<a href=tutoriales.php class="btn btn__large btn__white_transparent">watch video</a>
 			</div>
 		</div>
 	</div>
 </div>
+-->
+<div class="welcome">
+
+	<figure class="wow fadeInLeft">
+		<img  src="images/reparacion-computadoras1.jpg" alt="">
+	</figure>
+	<div class="textEncimado  wow slideInLeft">
+		<div class="text_1">
+			Surfware
+		</div>
+		<div class="text_2">
+			Servicios TI a tu medida </div>
+		<div class="text_3">
+			Ofrecemos soluciones en Tecnologías
+			de la Información para tu negocio y tu hogar.</br>
+			Porque la tecnología debe estar al alcance de todos
+		</div>
+		<div class="btn__wrap__left">
+			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
+		</div>
+	</div>
 
 </div>
-</header>
 
 <div class="block services" id="services">
 	<div class="center">
@@ -431,10 +451,9 @@
 					<div class="text-danger" id="alertTexto"></div>
 
 					<div class="row">
-						<div class="btn__wrap__right"><br><br>
-							<input class="btn btn__orange btn__large font-weight-bold"
-							type="button" value="enviar"
-							id="post">
+						<div class="btn__wrap__right mb-4"><br><br>
+							<input class="btn btn__orange btn__large font-weight-bold" type="button" value="enviar"
+								id="post">
 						</div>
 						<!-- Recaptcha -->
 						<div class="mt-3 g-recaptcha" data-sitekey="your_site_key"></div>
@@ -444,7 +463,7 @@
 			<div class="col-md-4 right_side  wow bounceInRight">
 				<div class="ml-5">
 					<div class="text-center">
-						<div class="mb-4 tituloRedesSociales">
+						<div class="mt-4 mb-4 tituloRedesSociales">
 							Redes Sociales
 						</div>
 						<div class="text-center">
@@ -509,7 +528,7 @@
 	</div>
 
 	<div class="row text-center mb-5 ml-5">
-		<div class="col-sm-12 col-md-12 col-lg-12 center">			
+		<div class="col-12 center">			
 			<iframe class="border rounded d-block mx-auto"
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.6742478620718!2d-99.1004999850927!3d19.469606686863255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4be51d081939dba!2sSurftware!5e0!3m2!1ses-419!2smx!4v1619765799326!5m2!1ses-419!2smx"
 				width="1000" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
