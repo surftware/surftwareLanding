@@ -104,7 +104,7 @@ echo json_encode($return_arr);
 
 function enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto){
     $remitente = $correo;
-	$destinatario = 'surftware@gmail.com'; // en esta línea va el mail del destinatario.
+	$destinatario = 'contacto@surftware.com.mx'; // en esta línea va el mail del destinatario.
 	$asunto = 'Consulta desde Surftware'; // acá se puede modificar el asunto del mail
 		if (!$_POST){}
 		else{
