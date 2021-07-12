@@ -46,37 +46,22 @@
 					<div class="nav clearfix">
 						<ul>
 							<li>
-								<a href="#services">Services</a>
+								<a href="index.php#">Acerca de</a>
 							</li>
 							<li>
-								<a href="#pricing">Pricing</a>
+								<a href="servicios.php#">Servicios</a>
 							</li>
 							<li>
-								<a href="#contacts">Contacts</a>
-							</li>
-							<li>
-								<a>+ All blocks</a>
+								<a>+ Tutoriales</a>
 								<ul>
-									<li><a href="#about">About</a></li>
-									<li><a href="#services">Services</a></li>
-									<li><a href="#featured_product">Featured Product</a></li>
-									<li><a href="#benefits">Benefits</a></li>
-									<li><a href="#statistics">Statistics</a></li>
-									<li><a href="#counters">Counters</a></li>
-									<li><a href="#ads_bar">Ads bar</a></li>
-									<li><a href="#team">Team</a></li>
-									<li><a href="#pricing">Pricing</a></li>
-									<li><a href="#sponsors">Sponsors</a></li>
-									<li><a href="#testimonials">Testimonials</a></li>
-									<li><a href="#projects">Projects</a></li>
-									<li><a href="#faq">FAQ</a></li>
-									<li><a href="#contacts">Contacts</a></li>
-									<li><a href="#subscription">Subscription</a></li>
+									<li><a href="tutoriales.php#about">About</a></li>
+									<li><a href="tutoriales.php#services">Services</a></li>
+									<li><a href="tutoriales.php#featured_product">Featured Product</a></li>
 								</ul>
 							</li>
 						</ul>
 						<div class="btn__wrap__center">
-							<a href="#" class="btn btn__medium btn__blue">FREE SEO AUDIT</a>
+							<a href="servicios.php#contacts" class="btn btn__medium btn__blue">Contáctanos!</a>
 						</div>
 					</div>
 					<div class="menu_toggle">
@@ -93,26 +78,12 @@
 						<a href="#pricing">Pricing</a>
 					</li>
 					<li>
-						<a href="#contacts">Contacts</a>
-					</li>
-					<li>
-						<a class="sub">All blocks</a>
+						<a class="sub">Tutoriales</a>
 						<ul>
-							<li><a href="#about">About</a></li>
-							<li><a href="#services">Services</a></li>
-							<li><a href="#featured_product">Featured Product</a></li>
-							<li><a href="#benefits">Benefits</a></li>
-							<li><a href="#statistics">Statistics</a></li>
-							<li><a href="#counters">Counters</a></li>
-							<li><a href="#ads_bar">Ads bar</a></li>
-							<li><a href="#team">Team</a></li>
-							<li><a href="#pricing">Pricing</a></li>
-							<li><a href="#sponsors">Sponsors</a></li>
-							<li><a href="#testimonials">Testimonials</a></li>
-							<li><a href="#projects">Projects</a></li>
-							<li><a href="#faq">FAQ</a></li>
-							<li><a href="#contacts">Contacts</a></li>
-							<li><a href="#subscription">Subscription</a></li>
+							<li><a href="tutoriales.php#about">About</a></li>
+							<li><a href="tutoriales.php#services">Services</a></li>
+							<li><a href="tutoriales.php#featured_product">Featured Product</a></li>
+
 						</ul>
 					</li>
 				</ul>
