@@ -7,21 +7,21 @@
 					<ul class="info">
 						<li>
 							<a href="mailto:contacto@surftware.com.mx">
-								<i class="fa fa-envelope"></i>
-								contacto@surftware.com.mx
+								<i class="fa fa-envelope"></i><span class="text-white ml-2">contacto@surftware.com.mx</span>
+
 							</a>
 						</li>
 						<li>
-							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de Surftware.com.mx"
+							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de Surftware"
 								target="_blank">
-								<i class="fa fa-phone"></i>
-								5511894621
+								<i class="fa fa-phone"></i><span class="text-white ml-2">5511894621</span>
+
 							</a>
 						</li>
 						<li>
 							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
-								<i class="fa fa-map-marker"></i>
-								Nte. 84-A 6515 Sn Pedro el Chico
+								<i class="fa fa-map-marker"></i><span class="text-white ml-2">Nte. 84-A 6515 Sn Pedro el
+									Chico</span>
 							</a>
 						</li>
 					</ul>
