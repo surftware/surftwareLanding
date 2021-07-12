@@ -40,13 +40,13 @@
 			</div>
 			<div class="header__bottom">
 				<div class="center">
-					<a href="#" class="logo">
+					<a href="index.php" class="logo">
 						<img class="logoSurftware" src="images/creacion-paginas-web.png" alt="">
 					</a>
 					<div class="nav clearfix">
 						<ul>
 							<li>
-								<a href="index.php#">Acerca de</a>
+								<a href="index.php#about">Acerca de</a>
 							</li>
 							<li>
 								<a href="servicios.php#">Servicios</a>
@@ -72,10 +72,10 @@
 			<div class="phone_nav">
 				<ul>
 					<li>
-						<a href="#services">Services</a>
+						<a href="index.php#about">Acerca de</a>
 					</li>
 					<li>
-						<a href="#pricing">Pricing</a>
+						<a href="servicios.php#">Servicios</a>
 					</li>
 					<li>
 						<a class="sub">Tutoriales</a>

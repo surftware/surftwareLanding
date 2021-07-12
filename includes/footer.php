@@ -35,7 +35,7 @@
 <footer class="footer">
 	<div class="footer__top">
 		<div class="center ">
-			<a href="#" class="">
+			<a href="index.php" class="">
 				<img src="images/creacion-paginas-web.png" alt="" class="lf">
 			</a>
 			<div class="text mt-5">
