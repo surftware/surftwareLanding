@@ -11,17 +11,18 @@
 </div>
 
 <div class="redes-flotantes float-right">
-	<div class="container">		
-			<div class="row mb-3">
-				<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola,+te+contacto+desde+la+página+web+de+Surftware"
-					target="_blank">
-					<img data-original-height="59" data-original-width="59" src="assets/whatsapp.png" />
-				</a>
-			</div>
-			<div class="row">
-				<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
-					<img data-original-height="59" data-original-width="59" src="assets/facebook.png" /></a>
-			</div>
+	<div class="container">
+		<div class="row mb-3">
+			<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola,+te+contacto+desde+la+página+web+de+Surftware"
+				target="_blank">
+				<img data-original-height="59" data-original-width="59" src="assets/whatsapp.png" />
+			</a>
+		</div>
+		<div class="row">
+			<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
+				<img data-original-height="59" data-original-width="59" src="assets/facebook.png" />
+			</a>
+		</div>
 	</div>
 
 </div>
