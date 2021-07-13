@@ -15,7 +15,6 @@
  
  	<!-- owl carousel -->
  	<script src="js/owl.carousel.min.js"></script>
-
  
  	<!-- wow -->
  	<script src="js/wow.min.js"></script>
@@ -23,14 +22,16 @@
 	<script src="js/sweetalert2.js"></script>
 	
 	<script>
-	function myFunction() {
-  var elmnt = document.getElementById("myDIV");
-  var x = elmnt.scrollLeft;
-  var y = elmnt.scrollTop;
-  document.getElementById ("demo").innerHTML = "Horizontally: " + x + "px<br>Vertically: " + y + "px";
-}
+		function myFunction() {
+			var elmnt = document.getElementById("myDIV");
+			var x = elmnt.scrollLeft;
+			var y = elmnt.scrollTop;
+			document.getElementById ("demo").innerHTML = "Horizontally: " + x + "px<br>Vertically: " + y + "px";
+		}
 	</script>
  	
+	<!--ReCapcha V2 -->
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
   
 
 

@@ -456,6 +456,9 @@
 								id="post">
 						</div>
 					</div>
+
+					<div class="g-recaptcha" data-sitekey="your_site_key"></div>
+
 				</form>
 			</div>
 			<div class="col-md-4 right_side  wow bounceInRight">
@@ -488,7 +491,6 @@
 							</a>
 						</li>
 					</ul>
-
 				</div>
 			</div>
 			<div class="col-md-4 right_side  wow bounceInRight ">
