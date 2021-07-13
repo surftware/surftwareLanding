@@ -3,6 +3,7 @@
 	<script src="js/main.js"></script>
 
 	<!-- bootstrap js-->
+	<script src="bootstrap/js/bootstrap.min.js"></script>
 
 	<!-- fontawesome js-->	
 	<script src="fontawesome/js/all.min.js"></script>
