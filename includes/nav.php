@@ -19,7 +19,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
+							<a href="https://g.page/surftware?share" target="_blank">
 								<i class="fa fa-map-marker"></i><span class="text-white ml-2">Nte. 84-A 6515 Sn Pedro el
 									Chico</span>
 							</a>
@@ -29,7 +29,7 @@
 						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>
 						</a>
-						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
+						<a href="skype:arciniegasolano@outlook.com?chat" target="_blank">
 							<i class="iconSocial fab fa-skype"></i>
 						</a>
 						</a>

@@ -26,7 +26,7 @@
 <div class="welcome">
 
 	<figure class="wow fadeInLeft">
-		<img  src="images/reparacion-computadoras1.jpg" alt="">
+		<img src="images/reparacion-computadoras1.jpg" alt="">
 	</figure>
 	<div class="textEncimado  wow slideInLeft posicion-texto">
 		<div class="text_1">
@@ -463,28 +463,30 @@
 					<div class="text-center">
 						<div class="mt-4 mb-4 tituloRedesSociales">
 							Redes Sociales
-						</div>						
+						</div>
 					</div>
-					<ul>
+
+					<ul id="contactoRedes">
 						<li class="mt-5 mb-4">
 							<a href="mailto:contacto@surftware.com.mx" class="linkContacto">
-								<i class="fas fa-envelope"></i>&nbsp;contacto@surftware.com.mx
+								<i class="fas fa-envelope fa-3x mr-3"></i>&nbsp;contacto@surftware.com.mx
 							</a>
 						</li>
 						<li class="mb-4">
 							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding"
 								class="linkContacto" target="_blank">
-								<i class="fab fa-whatsapp fa-3x"></i> 55-11-89-46-21
+								<i class="fab fa-whatsapp-square fa-3x mr-4"></i> 55-11-89-46-21
 							</a>
 						</li>
 						<li class="mb-4">
-							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" class="linkContacto" target="_blank">
-								<i class="fa fa-map-marker"></i>&nbsp;Nte 84-A 6515. San Pedro el Chico
+							<a href="https://g.page/surftware?share" class="linkContacto" target="_blank">
+								<i class="fa fa-map-marker fa-3x mr-4"></i>&nbsp;Nte 84-A 6515. San Pedro el
+								Chico
 							</a>
 						</li>
 						<li class="mb-4">
 							<a href="skype:arciniegasolano@outlook.com?chat" class="linkContacto">
-								<i class="fab fa-skype"></i>&nbsp;arciniegasolano@outlook.com
+								<i class="fab fa-skype fa-3x mr-3"></i>&nbsp;arciniegasolano@outlook.com
 							</a>
 						</li>
 					</ul>
@@ -516,7 +518,7 @@
 	</div>
 
 	<div class="row text-center mb-5 ml-5">
-		<div class="col-12 center">			
+		<div class="col-12 center">
 			<iframe class="border rounded d-block mx-auto map-size"
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.6742478620718!2d-99.1004999850927!3d19.469606686863255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4be51d081939dba!2sSurftware!5e0!3m2!1ses-419!2smx!4v1619765799326!5m2!1ses-419!2smx"
 				width="1000" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
