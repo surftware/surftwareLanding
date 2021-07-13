@@ -6,34 +6,37 @@
 				<div class="center">
 					<ul class="info">
 						<li>
-							<a href="mailto:exampleemail@gmail.com">
-								<i class="fa fa-envelope"></i>
-								exampleemail@gmail.com
+							<a href="mailto:contacto@surftware.com.mx">
+								<i class="fa fa-envelope"></i><span class="text-white ml-2">contacto@surftware.com.mx</span>
+
 							</a>
 						</li>
 						<li>
-							<a href="tel:167712444227">
-								<i class="fa fa-phone"></i>
-								1-677-124-44227
+							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de Surftware"
+								target="_blank">
+								<i class="fa fa-phone"></i><span class="text-white ml-2">5511894621</span>
+
 							</a>
 						</li>
 						<li>
-							<i class="fa fa-map-marker"></i>
-							437 S Olive St, Los Angeles
+							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
+								<i class="fa fa-map-marker"></i><span class="text-white ml-2">Nte. 84-A 6515 Sn Pedro el
+									Chico</span>
+							</a>
 						</li>
 					</ul>
-					<div class="soc clearfix">
-						<a href="#">
+					<div class="">
+						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
 							<i class="fa fa-facebook"></i>
 						</a>
-						<a href="#">
+						<!--<a href="#">
 							<i class="fa fa-google-plus"></i>
 						</a>
 						<a href="#">
-							<i class="fa fa-linkedin"></i>
+							<i class="fa fa-linkedin"></i>-->
 						</a>
-						<a href="#">
-							<i class="fa fa-twitter"></i>
+						<a href="https://github.com/surftware" target="_blank">
+							<i class="fa fa-github"></i>
 						</a>
 					</div>
 				</div>
@@ -54,9 +57,9 @@
 							<li>
 								<a>+ Tutoriales</a>
 								<ul>
-									<li><a href="tutoriales.php#about">About</a></li>
-									<li><a href="tutoriales.php#services">Services</a></li>
-									<li><a href="tutoriales.php#featured_product">Featured Product</a></li>
+									<li><a href="tutoriales.php#QGIS">Tutorial QGIS 3.10</a></li>
+									<li><a href="tutoriales.php#MAC">Instalación de W10 en Mac</a></li>
+									<li><a href="tutoriales.php#LED">Construye tu lámpara LED</a></li>
 								</ul>
 							</li>
 						</ul>
