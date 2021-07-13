@@ -19,7 +19,7 @@
 							</a>
 						</li>
 						<li>
-							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" target="_blank">
+							<a href="https://g.page/surftware?share" target="_blank">
 								<i class="fa fa-map-marker"></i><span class="text-white ml-2">Nte. 84-A 6515 Sn Pedro el
 									Chico</span>
 							</a>

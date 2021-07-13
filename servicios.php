@@ -479,7 +479,7 @@
 							</a>
 						</li>
 						<li class="mb-4">
-							<a href="https://goo.gl/maps/Xz1nAfD5BfXZZnbu8" class="linkContacto" target="_blank">
+							<a href="https://g.page/surftware?share" class="linkContacto" target="_blank">
 								<i class="fa fa-map-marker fa-3x mr-4"></i>&nbsp;Nte 84-A 6515. San Pedro el
 								Chico
 							</a>
