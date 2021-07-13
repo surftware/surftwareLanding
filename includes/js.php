@@ -1,13 +1,11 @@
 
-
-	<!-- jquery -->
-	<script src="js/jquery.min.js"></script>
-	
 	<!-- custom script -->
 	<script src="js/main.js"></script>
 
 	<!-- bootstrap js-->
-	<script src="js/all.js"></script>
+
+	<!-- fontawesome js-->	
+	<script src="fontawesome/js/all.min.js"></script>
 
 	<!-- jquery -->
 	<script src="js/jquery.min.js"></script>

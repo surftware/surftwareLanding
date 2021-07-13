@@ -27,16 +27,14 @@
 					</ul>
 					<div class="">
 						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
-							<i class="fa fa-facebook"></i>
+							<i class="iconSocial fab fa-facebook"></i>
 						</a>
-						<!--<a href="#">
-							<i class="fa fa-google-plus"></i>
+						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
+							<i class="iconSocial fab fa-skype"></i>
 						</a>
-						<a href="#">
-							<i class="fa fa-linkedin"></i>-->
 						</a>
 						<a href="https://github.com/surftware" target="_blank">
-							<i class="fa fa-github"></i>
+							<i class="iconSocial fab fa-github"></i>
 						</a>
 					</div>
 				</div>
