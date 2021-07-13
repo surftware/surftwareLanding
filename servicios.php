@@ -527,7 +527,7 @@
 
 	<div class="row text-center mb-5 ml-5">
 		<div class="col-12 center">			
-			<iframe class="border rounded d-block mx-auto"
+			<iframe class="border rounded d-block mx-auto map-size"
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.6742478620718!2d-99.1004999850927!3d19.469606686863255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc4be51d081939dba!2sSurftware!5e0!3m2!1ses-419!2smx!4v1619765799326!5m2!1ses-419!2smx"
 				width="1000" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		</div>
