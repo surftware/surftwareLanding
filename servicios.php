@@ -28,7 +28,7 @@
 	<figure class="wow fadeInLeft">
 		<img  src="images/reparacion-computadoras1.jpg" alt="">
 	</figure>
-	<div class="textEncimado  wow slideInLeft">
+	<div class="textEncimado  wow slideInLeft posicion-texto">
 		<div class="text_1">
 			Surfware
 		</div>
