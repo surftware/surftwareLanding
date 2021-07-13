@@ -29,7 +29,7 @@
 						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>
 						</a>
-						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
+						<a href="skype:arciniegasolano@outlook.com?chat" target="_blank">
 							<i class="iconSocial fab fa-skype"></i>
 						</a>
 						</a>
