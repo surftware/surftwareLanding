@@ -65,7 +65,7 @@
 							<a href="servicios.php#contacts" class="btn btn__medium btn__blue">Contáctanos!</a>
 						</div>
 					</div>
-					<div class="menu_toggle">
+					<div class="menu_toggle zindex-99">
 						<i></i>
 					</div>
 				</div>
