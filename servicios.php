@@ -463,17 +463,7 @@
 					<div class="text-center">
 						<div class="mt-4 mb-4 tituloRedesSociales">
 							Redes Sociales
-						</div>
-						<div class="text-center">
-							<div class="">
-								<a href="skype:arciniegasolano@outlook.com?chat" class="icono"><i
-										class="fab fa-skype linkRedesSociales"></i></a>
-								<a href="" class="icono" target="_blank"><i
-										class="fab fa-facebook linkRedesSociales"></i></a>
-								<a href="https://github.com/surftware" class="icono" target="_blank"><i
-										class="fab fa-github linkRedesSociales"></i></a>
-							</div>
-						</div>
+						</div>						
 					</div>
 					<ul>
 						<li class="mt-5 mb-4">
@@ -484,7 +474,7 @@
 						<li class="mb-4">
 							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding"
 								class="linkContacto" target="_blank">
-								<i class="fab fa-whatsapp"></i> 55-11-89-46-21
+								<i class="fab fa-whatsapp fa-3x"></i> 55-11-89-46-21
 							</a>
 						</li>
 						<li class="mb-4">
