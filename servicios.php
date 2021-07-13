@@ -475,7 +475,7 @@
 						<li class="mb-4">
 							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding"
 								class="linkContacto" target="_blank">
-								<i class="fab fa-whatsapp fa-3x mr-4"></i> 55-11-89-46-21
+								<i class="fab fa-whatsapp-square fa-3x mr-4"></i> 55-11-89-46-21
 							</a>
 						</li>
 						<li class="mb-4">
