@@ -2279,6 +2279,7 @@ p {
 	transform: scale(1.1) rotate(6deg);
 }
 
+/******** Responsive videoTutoriales/mapa/contacto ********/
 @media (min-width: 768px) and (max-width: 991px) {
 	#videoQgis {
 		src: "https://www.youtube.com/embed/Z2L5J3G-sgA";
@@ -2381,5 +2382,28 @@ p {
         src: "https://www.youtube.com/embed/emVo1oXNm4Q";
 		width: 320px;
 		height: 195px;
+	}
+}
+
+@media (min-width: 0px) and (max-width: 575px) {
+	#contactoRedes {
+		position: relative;
+		left: 75px;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+	#contactoRedes {
+		position: relative;
+		left: 95px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	#contactoRedes {
+		position: absolute;
+		top: 25px;
+		left: 25px;
+		font-size: .75em;
 	}
 }

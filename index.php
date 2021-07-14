@@ -262,7 +262,7 @@
 
 				<div>
 					<a href="https://sexydiversion.com.mx" target="_blank"><img
-							src="images/clientes/cliente-creacion-sitio-web-6.png" alt="">
+							src="images/clientes/cliente-creacion-sitio-web-6.webp" alt="">
 						<p>Sexy Diversión</p>
 					</a>
 				</div>
