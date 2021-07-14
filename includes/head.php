@@ -54,7 +54,7 @@
 
 
     <!-- bootstrap 4 css -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" />
 
     <!-- font-awesome 5.15.3 Versión-->
     <link rel="stylesheet" href="fontawesome/css/all.min.css" />

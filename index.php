@@ -10,7 +10,7 @@
 	<figure class="wow fadeInLeft">
 		<img  src="images/welcome.png" alt="">
 	</figure>
-	<div class="textEncimado  wow slideInLeft">
+	<div class="textEncimado wow slideInLeft posicion-texto">
 		<div class="text_1">
 			Surfware
 		</div>
@@ -21,7 +21,7 @@
 			de la Información para tu negocio y tu hogar.</br>
 			Porque la tecnología debe estar al alcance de todos
 		</div>
-		<div class="btn__wrap__left">
+		<div class="btn__wrap__left  d-flex justify-content-center">
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 		</div>
 	</div>
@@ -262,7 +262,7 @@
 
 				<div>
 					<a href="https://sexydiversion.com.mx" target="_blank"><img
-							src="images/clientes/cliente-creacion-sitio-web-6.png" alt="">
+							src="images/clientes/cliente-creacion-sitio-web-6.webp" alt="">
 						<p>Sexy Diversión</p>
 					</a>
 				</div>
