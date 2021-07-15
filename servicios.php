@@ -4,8 +4,8 @@
 	include ("includes/nav.php");
 	  
 ?>
-<div class="welcome">
 
+<div class="welcome">
 	<figure class="wow fadeInLeft">
 		<img src="images/reparacion-computadoras1.jpg" alt="">
 	</figure>
@@ -23,7 +23,6 @@
 			<a href=tutoriales.php class="btn btn__large btn__white_transparent">watch video</a>
 		</div>
 	</div>
-
 </div>
 
 <div class="block services" id="services">
@@ -430,22 +429,17 @@
 						name="mensaje" class="textarea"></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 
-					<div class="g-recaptcha" data-sitekey="6LfF35gbAAAAAKwcm1rRtnQsn0c5-8IaPzjwo77Y"></div>
-
 					<div class="row">
 						<div class="btn__wrap__right mb-4"><br><br>
-							<input class="btn btn__orange btn__large font-weight-bold g-recaptcha" 
-							data-sitekey="reCAPTCHA_site_key" 
-							data-callback='onSubmit' 
-							data-action='submit' type="button" value="enviar"
-							id="post">								
+							<input class="btn btn__orange btn__large font-weight-bold g-recaptcha" data-action='submit'
+								type="button" value="enviar" id="post">
 						</div>
+
 					</div>
-
-					
-
 				</form>
 			</div>
+
+
 			<div class="col-md-4 right_side  wow bounceInRight">
 				<div class="ml-5">
 					<div class="text-center">
@@ -512,12 +506,25 @@
 		</div>
 	</div>
 </div>
-</div>
 <!-- Termina Mapa  -->
 
+</div>
+<!-- Este div cierra el div clas="wrap" que está en nav.php -->
 
-<?php
-	
-	include ("includes/footer.php");
-	include ("includes/js.php");
+<?php  
+
+  include ("includes/footer.php");
+  include ("includes/js.php");
+
 ?>
+<script>
+	function onSubmit(token) {
+		document.getElementById("mailForm").submit();
+	}
+</script>
+
+
+
+</body>
+
+</html>
