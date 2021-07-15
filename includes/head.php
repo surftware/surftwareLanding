@@ -32,16 +32,17 @@
     <!--Open Graphs Facebook Meta  -->
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="es_MX" />
-    <meta property="og:image/jpeg"  content="website" />
     <meta property="og:title" content="Surftware, emprendedores mexicanos" />
     <meta property="og:description"
         content="Surftware, desarrollo de páginas web y soporte integral en sistemas computacionales" />
     <meta property="og:url" content="https://www.surftware.com.mx">
     <meta property="og:site_name" content="Surftware">
-    <meta property="og:image" content="https://surftware.com.mx/images/reparacion-computadoras.jpeg" />
+    <meta property="og:image" content="images/reparacion-computadoras.jpeg" />
+    <!--
     <meta property="og:image" content="https://surftware.com.mx/images/reparacion-computadoras2.jpg" />
     <meta property="og:image" content="https://surftware.com.mx/images/creacion-paginas-web.png" />
     <meta property="og:image" content="https://surftware.com.mx/images/welcome.png" />
+    -->
     
 
     <!--Twitter Meta  -->
