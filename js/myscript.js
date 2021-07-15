@@ -143,12 +143,6 @@ var customScript = function () {
 	$(window).resize(function () {
 		fixMenuToggle();
 	});
-
-
-	
-
-
-
 }
 
 customScript();
