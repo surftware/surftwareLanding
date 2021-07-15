@@ -409,7 +409,7 @@
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
-				<form action="" id="myForm" method="post" enctype="multipart/form-data">
+				<form action="" id="mailForm" method="post" enctype="multipart/form-data">
 
 					<input type="text" class="form-control bordesInputContacto" placeholder="*Nombre completo"
 						name="nombre">
@@ -430,14 +430,19 @@
 						name="mensaje" class="textarea"></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 
+					<div class="g-recaptcha" data-sitekey="6LfF35gbAAAAAKwcm1rRtnQsn0c5-8IaPzjwo77Y"></div>
+
 					<div class="row">
 						<div class="btn__wrap__right mb-4"><br><br>
-							<input class="btn btn__orange btn__large font-weight-bold" type="button" value="enviar"
-								id="post">
+							<input class="btn btn__orange btn__large font-weight-bold g-recaptcha" 
+							data-sitekey="reCAPTCHA_site_key" 
+							data-callback='onSubmit' 
+							data-action='submit' type="button" value="enviar"
+							id="post">								
 						</div>
 					</div>
 
-					<div class="g-recaptcha" data-sitekey="your_site_key"></div>
+					
 
 				</form>
 			</div>

@@ -20,6 +20,10 @@
 
 	 <!-- alert -->	
 	<script src="js/sweetalert2.js"></script>
+
+	<!-- reCaptcha -->	
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+
 	
 	<script>
 		function myFunction() {
