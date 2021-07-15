@@ -145,9 +145,7 @@ var customScript = function () {
 	});
 
 
-	function onSubmit(token) {
-		document.getElementById("mailForm").submit();
-	}
+	
 
 
 

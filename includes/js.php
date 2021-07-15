@@ -23,8 +23,12 @@
 
 	<!-- reCaptcha -->	
 	<script src="https://www.google.com/recaptcha/api.js"></script>
-
 	
+ 	
+	<!--ReCapcha V2 -->
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+
 	<script>
 		function myFunction() {
 			var elmnt = document.getElementById("myDIV");
@@ -32,10 +36,12 @@
 			var y = elmnt.scrollTop;
 			document.getElementById ("demo").innerHTML = "Horizontally: " + x + "px<br>Vertically: " + y + "px";
 		}
+		
+		function onSubmit(token) {
+		document.getElementById("mailForm").submit();
+	}
 	</script>
- 	
-	<!--ReCapcha V2 -->
-	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	
   
 
 
