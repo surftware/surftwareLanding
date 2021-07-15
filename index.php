@@ -21,7 +21,7 @@
 			de la Información para tu negocio y tu hogar.</br>
 			Porque la tecnología debe estar al alcance de todos
 		</div>
-		<div class="btn__wrap__left  d-flex justify-content-center">
+		<div class="btn__wrap__left  d-flex float-left">
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 		</div>
 	</div>
@@ -48,7 +48,7 @@
 					</div>
 				</div>
 				<figure class=" wow slideInRight">
-					<img src="images/about_img.png" alt="">
+					<img src="images\6bd5725fe3e1785b3518da0e89bbb2ab.jpg" alt="">
 				</figure>
 			</div>
 		</div>
@@ -157,7 +157,7 @@
 							src="images/clientes/cliente-creacion-sitio-web-3.png" alt=""></a>
 				</div>
 				<div>
-					<a href="http://www.vmyasc.com.mx/" target="_blank"><img
+					<a href="https://vmyasc.com.mx" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-4.png" alt="">
 						<p class="mt-3">Víctor Montes y ASociados</p>
 					</a>

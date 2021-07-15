@@ -53,7 +53,7 @@
 								<a href="servicios.php#">Servicios</a>
 							</li>
 							<li>
-								<a>+ Tutoriales</a>
+								<a href="tutoriales.php">+ Tutoriales</a>
 								<ul>
 									<li><a href="tutoriales.php#QGIS">Tutorial QGIS 3.10</a></li>
 									<li><a href="tutoriales.php#MAC">Instalación de W10 en Mac</a></li>
