@@ -428,10 +428,10 @@
 					<textarea class="form-control bordesInputContacto mt-3" placeholder="*Deje su mensaje adicional"
 						name="mensaje" class="textarea"></textarea>
 					<div class="text-danger" id="alertTexto"></div>
-
+					
 					<div class="row">
 						<div class="btn__wrap__right mb-4"><br><br>
-							<input class="btn btn__orange btn__large font-weight-bold g-recaptcha" data-action='submit'
+							<input class="btn btn__orange btn__large font-weight-bold" data-action='submit'
 								type="button" value="enviar" id="post">
 						</div>
 
