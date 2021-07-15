@@ -4,25 +4,6 @@
 	include ("includes/nav.php");
 	  
 ?>
-<!--<div class="welcome">
-	<div class="center">
-		<div class="welcome__wrap  wow slideInLeft">
-			<div class="text_1">
-				Servicios
-			</div>
-			<div class="text_2">Surftware provee productos y servicios profesionales de alta calidad.
-			</div>
-			<div class="text_3">
-				Más de 8 años ayudando a las personas y empresas a hacer más productivos sus recursos tecnológicos.
-			</div>
-			<div class="btn__wrap__left">
-				<a href="#contacts" class="btn btn__large btn__orange">Contáctanos</a>
-				<a href=tutoriales.php class="btn btn__large btn__white_transparent">watch video</a>
-			</div>
-		</div>
-	</div>
-</div>
--->
 <div class="welcome">
 
 	<figure class="wow fadeInLeft">
@@ -30,17 +11,16 @@
 	</figure>
 	<div class="textEncimado  wow slideInLeft posicion-texto">
 		<div class="text_1">
-			Surfware
+			Servicios
 		</div>
 		<div class="text_2">
-			Servicios TI a tu medida </div>
+			Surftware provee productos y servicios profesionales de alta calidad.</div>
 		<div class="text_3">
-			Ofrecemos soluciones en Tecnologías
-			de la Información para tu negocio y tu hogar.</br>
-			Porque la tecnología debe estar al alcance de todos
+			Más de 10 años ayudando a las personas y empresas a hacer más productivos sus recursos tecnológicos.
 		</div>
 		<div class="btn__wrap__left">
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
+			<a href=tutoriales.php class="btn btn__large btn__white_transparent">watch video</a>
 		</div>
 	</div>
 
