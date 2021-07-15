@@ -5,7 +5,6 @@
 	  
 ?>
 <div class="welcome">
-
 	<figure class="wow fadeInLeft">
 		<img src="images/surftware.jpg" alt="">
 	</figure>
@@ -24,7 +23,6 @@
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 		</div>
 	</div>
-
 </div>
 
 <div class="">
@@ -122,8 +120,16 @@
 	</div>
 </div>
 
-<?php
-	
-	include ("includes/footer.php");
-	include ("includes/js.php");
+</div>
+<!-- Este div cierra el div clas="wrap" que está en nav.php -->
+
+<?php  
+  include ("includes/footer.php");
+  include ("includes/js.php");
 ?>
+
+
+
+</body>
+
+</html>
