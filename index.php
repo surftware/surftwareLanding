@@ -48,7 +48,7 @@
 					</div>
 				</div>
 				<figure class=" wow slideInRight">
-					<img src="images\6bd5725fe3e1785b3518da0e89bbb2ab.jpg" alt="">
+					<img src="images\descripción-surftware.jpg" alt="">
 				</figure>
 			</div>
 		</div>
