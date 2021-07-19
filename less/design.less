@@ -82,6 +82,7 @@
 @color3: rgba(84, 69, 127, 1);
 @color4: rgba(253, 240, 213, 1);
 @color5: rgba(198, 135, 143, 1);
+@color6: rgba(31,37,49, 0.7);
 
 body {
 	*:focus {
@@ -491,7 +492,7 @@ p {
 		}
 
 		.menu_toggle {
-			@media screen and (min-width: 1150px) {
+			@media screen and (min-width: 901px) {
 				display: none;
 			}
 
@@ -509,7 +510,7 @@ p {
 			background 0.6s ease;
 			transition: .3s ease,
 			background 0.6s ease;
-
+			z-index: 99;
 			i {
 				display: block;
 				width: 24px;
@@ -672,7 +673,7 @@ p {
 		left:0px;
 		top:100%;
 		width:100%;
-		background:#000;
+		background:@color6;
 		display:none;
 		text-align:center;
 
@@ -2165,10 +2166,6 @@ p {
 	left: 90.5%;
 	bottom: 30%;
 	z-index: 20;
-}
-
-.zindex-99{
-	z-index: 99;
 }
 
 @media (min-width: 0px) and (max-width: 575px) {
