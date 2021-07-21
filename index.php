@@ -8,7 +8,7 @@
 <div class="welcome">
 
 	<figure class="wow fadeInLeft">
-		<img  src="images/welcome.png" alt="">
+		<img src="images/welcome.png" alt="">
 	</figure>
 	<div class="textEncimado wow slideInLeft posicion-texto">
 		<div class="text_1">
@@ -77,21 +77,22 @@
 			<div class="item__list">
 				<div class="item wow fadeInUp">
 					<figure>
-						<img src="images/benefits_icon_1.png" alt="">
+					<i class="fas fa-desktop fa-7x text-white"></i>
 					</figure>
 					<div class="title">
 						Experiencia
 					</div>
 					<div class="descr">
 						<p>
-							Con más de 10 años en el mercado resolvemos sus requerimientos Web y de Tecnologías de la Información TI. 
-						
+							Con más de 10 años en el mercado resolvemos sus requerimientos Web y de Tecnologías de la
+							Información TI.
+
 						</p>
 					</div>
 				</div>
 				<div class="item wow fadeInUp" data-wow-delay="0.1s">
 					<figure>
-						<img src="images/benefits_icon_2.png" alt="">
+					<i class="fas fa-hand-holding-usd fa-7x text-white"></i>
 					</figure>
 					<div class="title">
 						Honestidad
@@ -104,7 +105,7 @@
 				</div>
 				<div class="item wow fadeInUp" data-wow-delay="0.2s">
 					<figure>
-						<img src="images/benefits_icon_3.png" alt="">
+						<i class="fas fa-user-tie fa-7x text-white"></i>
 					</figure>
 					<div class="title">
 						Profesionalismo
