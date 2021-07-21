@@ -8,7 +8,7 @@
 <div class="welcome">
 
 	<figure class="wow fadeInLeft">
-		<img  src="images/welcome.png" alt="">
+		<img src="images/welcome.png" alt="">
 	</figure>
 	<div class="textEncimado wow slideInLeft posicion-texto">
 		<div class="text_1">
@@ -21,7 +21,7 @@
 			de la Información para tu negocio y tu hogar.</br>
 			Porque la tecnología debe estar al alcance de todos
 		</div>
-		<div class="btn__wrap__left  d-flex float-left">
+		<div class="btn__wrap__left  d-flex float-left btn_responsive">
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
 		</div>
 	</div>
@@ -37,7 +37,7 @@
 						<span>¿Quienes Somos?</span>
 						Surftware
 					</div>
-					<p>
+					<p class="">
 						Somos un grupo de emprendedores interesados en la Ingeniería y nuevas formas de hacer las
 						cosas; implementamos metodologías, actividades y actitudes que impacten de manera positiva
 						en la sociedad mexicana primero y después en el mundo, poniendo de manifiesto que en México
@@ -71,46 +71,48 @@
 	<div class="block benefits" id="benefits">
 		<div class="center">
 			<div class="block__title wow bounceIn">
-				<span>Nuestras Garantías</span>
-				Motivos por los que nuestros clientes nos prefieren por sobre la competencia:
+				<span>Garantías de calidad</span>
+				Motivos por los cuales nuestros clientes nos prefieren:
 			</div>
 			<div class="item__list">
 				<div class="item wow fadeInUp">
 					<figure>
-						<img src="images/benefits_icon_1.png" alt="">
+					<i class="fas fa-desktop fa-7x text-white"></i>
 					</figure>
 					<div class="title">
-						B2B Lead Generation
+						Experiencia
 					</div>
 					<div class="descr">
 						<p>
-							Our team of experts carries lead generation, and helps you drive leads to you own website.
+							Con más de 10 años en el mercado resolvemos sus requerimientos Web y de Tecnologías de la
+							Información TI.
+
 						</p>
 					</div>
 				</div>
 				<div class="item wow fadeInUp" data-wow-delay="0.1s">
 					<figure>
-						<img src="images/benefits_icon_2.png" alt="">
+					<i class="fas fa-hand-holding-usd fa-7x text-white"></i>
 					</figure>
 					<div class="title">
-						Digital Marketing Strategy
+						Honestidad
 					</div>
 					<div class="descr">
 						<p>
-							We will show you how to set your own digital marketing strategy right now.
+							Somos honestos y confiables al hacer diagnóstico de sus requerimientos.
 						</p>
 					</div>
 				</div>
 				<div class="item wow fadeInUp" data-wow-delay="0.2s">
 					<figure>
-						<img src="images/benefits_icon_3.png" alt="">
+						<i class="fas fa-user-tie fa-7x text-white"></i>
 					</figure>
 					<div class="title">
-						Native Advertising
+						Profesionalismo
 					</div>
 					<div class="descr">
 						<p>
-							Attract new customers with this inexpensive and effective new digital acquisition tool.
+							Tenemos ética profesional y laboral que garatiza la mejor solución a sus requeriemientos.
 						</p>
 					</div>
 				</div>
