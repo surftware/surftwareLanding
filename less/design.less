@@ -78,11 +78,11 @@
 
 /* RGB */
 @color1: rgba(31, 37, 49, 1);
-@color2: rgba(233, 24, 53, 1);
+@color2: rgba(233, 24, 53, 0.7);
 @color3: rgba(84, 69, 127, 1);
 @color4: rgba(253, 240, 213, 1);
 @color5: rgba(198, 135, 143, 1);
-@color6: rgba(31,37,49, 0.7);
+@color6: rgba(31, 37, 49, 0.7);
 
 body {
 	*:focus {
@@ -468,7 +468,7 @@ p {
 						padding: 25px 0px 0px 0px;
 
 						li {
-							background:  rgba(31,37,49,0.7);
+							background: rgba(31, 37, 49, 0.7);
 							padding: 0px 25px 12px 25px;
 
 							&:first-child {
@@ -511,6 +511,7 @@ p {
 			transition: .3s ease,
 			background 0.6s ease;
 			z-index: 99;
+
 			i {
 				display: block;
 				width: 24px;
@@ -676,7 +677,7 @@ p {
 		background:@color6;
 		display:none;
 		text-align:center;
-		z-index:98;//menu toggle está en z-index:99
+		z-index:98; //menu toggle está en z-index:99
 
 		&>ul {
 			padding-bottom: 15px;
@@ -769,15 +770,18 @@ p {
 					text-align: center;
 				}
 			}
-			@media screen and (max-width: 991px){
+
+			@media screen and (max-width: 991px) {
 				#pQgis {
 					text-align: center;
 					margin-left: 10px;
 				}
+
 				#pMac {
 					text-align: center;
 					margin-right: 10px;
 				}
+
 				#pLed {
 					text-align: center;
 					margin-left: 10px;
@@ -929,7 +933,7 @@ p {
 		text-align:center;
 		.rounded(15px);
 		padding:54px 15px 67px 15px;
-		background:@orange;
+		background:@pink;
 
 		&:nth-child(even) {
 			background: @blue;
@@ -2180,13 +2184,13 @@ p {
 		left: 85%;
 	}
 
-	.map-size{
+	.map-size {
 		position: relative;
 		right: 10%;
 		width: 100%;
 	}
 
-	
+
 }
 
 @media (min-width: 0px) and (max-width: 425px) {
@@ -2195,23 +2199,29 @@ p {
 		height: 600px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: relative;
 		top: 4%;
-		color: black;
+		font-family: 'Varela Round', sans-serif;
+		color: @black;
 	}
+
+	.btn_responsive{
+		text-align: center !important;
+
+	}
+
+	
 
 }
 
-@media (min-width: 425px) and (max-width: 575px){
+@media (min-width: 425px) and (max-width: 575px) {
 
 	.welcome {
 		height: 640px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: relative;
 		top: 3%;
 		color: black;
@@ -2230,7 +2240,7 @@ p {
 		left: 85% !important;
 	}
 
-	.map-size{
+	.map-size {
 		position: relative;
 		right: 5%;
 		width: 100%;
@@ -2240,8 +2250,7 @@ p {
 		height: 480px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: absolute;
 		top: 20%;
 	}
@@ -2283,24 +2292,26 @@ p {
 		width: 400px;
 		height: 215px;
 	}
+
 	#videoMac {
 		src: "https://www.youtube.com/embed/Ilvf8nObIlA";
 		width: 400px;
 		height: 215px;
 	}
+
 	#videoLed {
-        src: "https://www.youtube.com/embed/emVo1oXNm4Q";
+		src: "https://www.youtube.com/embed/emVo1oXNm4Q";
 		width: 400px;
 		height: 215px;
 	}
 
-	.map-size{
+	.map-size {
 		position: relative;
 		right: 5%;
 		width: 100%;
 	}
 
-	
+
 }
 
 @media (min-width: 768px) and (max-width: 900px) {
@@ -2309,30 +2320,26 @@ p {
 		height: 520px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: absolute;
 		top: 5%
 	}
 }
 
-@media (min-width:901px) and (max-width: 991px)
-{
+@media (min-width:901px) and (max-width: 991px) {
 
 	.welcome {
 		height: 600px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: absolute;
 		top: 35%
 	}
 }
 
-@media (min-width: 992px) and (max-width: 1024px)
-{
-	.map-size{
+@media (min-width: 992px) and (max-width: 1024px) {
+	.map-size {
 		position: relative;
 		right: 3%;
 		width: 100%;
@@ -2341,27 +2348,24 @@ p {
 	.welcome {
 		height: 640px;
 	}
-	
-	.posicion-texto
-	{
+
+	.posicion-texto {
 		position: absolute;
 		top: 35%
 	}
 }
 
-@media (min-width: 1025px) and (max-width:1200px)
-{
+@media (min-width: 1025px) and (max-width:1200px) {
 
 	.welcome {
 		height: 750px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: absolute;
 		top: 35%
 	}
-	
+
 }
 
 @media (min-width: 0px) and (max-width: 575px) {
@@ -2370,13 +2374,15 @@ p {
 		width: 320px;
 		height: 195px;
 	}
+
 	#videoMac {
 		src: "https://www.youtube.com/embed/Ilvf8nObIlA";
 		width: 320px;
 		height: 195px;
 	}
+
 	#videoLed {
-        src: "https://www.youtube.com/embed/emVo1oXNm4Q";
+		src: "https://www.youtube.com/embed/emVo1oXNm4Q";
 		width: 320px;
 		height: 195px;
 	}
