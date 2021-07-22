@@ -135,6 +135,8 @@
 		</div>
 	</div>
 </div>
+
+
 <div class="block pricing" id="pricing">
 	<div class="center">
 		<div class="block__title wow bounceIn">
@@ -225,6 +227,7 @@
 		</div>
 	</div>
 </div>
+
 
 <div class="block faq" id="faq">
 	<div class="center">
@@ -392,8 +395,8 @@
 </div>
 
 
-<div class="section block">
-	<div class="container" id="contacts">
+<div class="section block" id="contacts">
+	<div class="container">
 		<div class="row ">
 			<div class="col-md-12 block__title  wow bounceInLeft">
 				<span>Datos de contacto</span>
@@ -482,6 +485,7 @@
 		</div>
 	</div>
 </div>
+
 
 <!-- Ubicacion  -->
 <div class="section block">

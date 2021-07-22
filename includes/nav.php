@@ -12,8 +12,8 @@
 
 							</a>
 						</li>
-						<li>
-							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de Surftware"
+						<li> 
+							<a href="https://wa.me/+525511894621?text=Hola%20solicito%20ayuda%20desde%20surftware.com.mx%20"
 								target="_blank">
 								<i class="fa fa-phone"></i><span class="text-white ml-2">5511894621</span>
 
