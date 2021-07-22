@@ -54,7 +54,7 @@
 								<a href="servicios.php#">Servicios</a>
 							</li>
 							<li>
-								<a href="tutoriales.php">+Tutoriales</a>
+								<a href="tutoriales.php"><i class="fas fa-sort-down"></i>Tutoriales</a>
 								<ul>
 									<li><a href="tutoriales.php#QGIS"><i class="fas fa-play-circle"></i>&nbsp;Tutorial QGIS 3.10</a></li>
 									<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalación de W10 en Mac</a></li>
@@ -80,7 +80,7 @@
 						<a href="servicios.php#">Servicios</a>
 					</li>
 					<li>
-						<a class="sub">+Tutoriales</a>
+						<a class="sub"><i class="fas fa-sort-down"></i>Tutoriales</a>
 						<ul>
 									<li><a href="tutoriales.php#QGIS"><i class="fas fa-play-circle"></i>&nbsp;Tutorial QGIS 3.10</a></li>
 									<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalación de W10 en Mac</a></li>
