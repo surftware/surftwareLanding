@@ -129,41 +129,41 @@
 
 			<div class="owl-carousel owl_sponsors">
 				<div>
-					<a href="https://surftware.com.mx/servicios.php#contacts" target="_blank"><img
+					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-5.png" alt="">
 						<p>Constructora y Equipos Hidráhulicos Mexicanos</p>
 					</a>
 				</div>
 
 				<div>
-					<a href="https://surftware.com.mx/servicios.php#contacts" target="_blank"><img
+					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-3.png" alt="">
 						<p>Conversational Spanish</p>
 					</a>
 				</div>
 				<div>
-					<a href="https://vmyasc.com.mx" target="_blank"><img
+					<a href="https:/vmyasc.com.mx" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-4.png" alt="">
 						<p class="mt-3">Víctor Montes y ASociados</p>
 					</a>
 				</div>
 
 				<div>
-					<a href="https://surftware.com.mx/servicios.php#contacts" target="_blank"><img
+					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-2.png" alt="">
 						<p>Constructora Aldazy</p>
 					</a>
 				</div>
 
 				<div>
-					<a href="https://surftware.com.mx/servicios.php#contacts" target="_blank"><img
+					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-1.png" alt="">
 						<p>Dd-Scrubs</p>
 					</a>
 				</div>
 
 				<div>
-					<a href="https://sexydiversion.com.mx" target="_blank"><img
+					<a href="https:/sexydiversion.com.mx" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-6.webp" alt="">
 						<p>Sexy Diversión</p>
 					</a>
