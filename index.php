@@ -34,21 +34,21 @@
 			<div class="about__wrap">
 				<div class="left_side  wow slideInLeft">
 					<div class="block__title">
-						<span>¿Quienes Somos?</span>
+						<span>¿Qui&eacute;nes Somos?</span>
 						Surftware
 					</div>
 					<p class="">
 						Somos un grupo de emprendedores interesados en la Ingenier&iacute;a y nuevas formas de hacer las
 						cosas; implementamos metodolog&iacute;as, actividades y actitudes que impacten de manera positiva
 						en la sociedad mexicana, primero y despu&eacute;s en el mundo, poniendo de manifiesto que en M&eacute;xico
-						tambi&eacute;n puede existir desarrollo tecnológico e innovación.
+						tambi&eacute;n puede existir desarrollo tecnol&oacute;gico e innovaci&oacute;n.
 					</p>
 					<div class="btn__wrap__left">
 						<a href="#" class="btn btn__large btn__blue">Detalles</a>
 					</div>
 				</div>
 				<figure class=" wow slideInRight">
-					<img src="images\descripción-surftware.webp" alt="">
+					<img src="images\descripci&oacute;n-surftware.webp" alt="">
 				</figure>
 			</div>
 		</div>
