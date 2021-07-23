@@ -15,12 +15,12 @@
 		<div class="row mb-3">
 			<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola,+te+contacto+desde+la+página+web+de+Surftware"
 				target="_blank">
-				<img data-original-height="59" data-original-width="59" src="assets/whatsapp.png" />
+				<img data-original-height="59" data-original-width="59" src="assets/whatsapp.webp" />
 			</a>
 		</div>
 		<div class="row">
 			<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
-				<img data-original-height="59" data-original-width="59" src="assets/facebook.png" />
+				<img data-original-height="59" data-original-width="59" src="assets/facebook.webp" />
 			</a>
 		</div>
 	</div>
@@ -30,10 +30,10 @@
 	<div class="footer__top">
 		<div class="center ">
 			<a href="index.php" class="">
-				<img src="images/creacion-paginas-web.png" alt="" class="lf">
+				<img src="images/creacion-paginas-web.webp" alt="" class="lf">
 			</a>
 			<div class="text mt-5">
-				Desarrollo de páginas web, soporte técnico integral en redes y equipo de cómputo
+				Desarrollo de p&aacute;ginas web, soporte t&eacute;cnico integral en redes y equipo de c&oacute;mputo
 				para tu empresa y hogar.
 			</div>
 			<ul>

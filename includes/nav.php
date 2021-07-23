@@ -21,7 +21,7 @@
 						</li>
 						<li>
 							<a href="https://g.page/surftware?share" target="_blank">
-								<i class="fa fa-map-marker"></i><span class="text-white ml-2">Nte. 84-A 6515 Sn Pedro el
+								<i class="fa fa-map-marker"></i><span class="text-white ml-2">Norte 84-A 6515 San Pedro el
 									Chico</span>
 							</a>
 						</li>
@@ -63,7 +63,7 @@
 							</li>
 						</ul>
 						<div class="btn__wrap__center">
-							<a href="servicios.php#contacts" class="btn btn__medium btn__blue">Contáctanos!</a>
+							<a href="servicios.php#contacts" class="btn btn__medium btn__blue">Cont&aacute;ctanos!</a>
 						</div>
 					</div>
 					<div class="menu_toggle">
@@ -83,8 +83,8 @@
 						<a class="sub">Tutoriales&nbsp;<i class="fas fa-sort-down"></i></a>
 						<ul>
 									<li><a href="tutoriales.php#QGIS"><i class="fas fa-play-circle"></i>&nbsp;Tutorial QGIS 3.10</a></li>
-									<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalación de W10 en Mac</a></li>
-									<li><a href="tutoriales.php#LED"><i class="fas fa-play-circle"></i>&nbsp;Construye tu lámpara LED</a></li>
+									<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalaci&oacute;n de W10 en Mac</a></li>
+									<li><a href="tutoriales.php#LED"><i class="fas fa-play-circle"></i>&nbsp;Construye tu l&aacute;mpara LED</a></li>
 								</ul>
 					</li>
 				</ul>
