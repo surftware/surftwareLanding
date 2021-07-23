@@ -172,7 +172,7 @@
 				<div>
 					<a href="https://www.speaklikeamexican.com.mx/" target="_blank"><img
 							src="images/clientes/Logo_002.webp" alt="">
-						<p>speaklikeamexican</p>
+						<p>Speak Like a Mexican</p>
 					</a>
 				</div>
 
