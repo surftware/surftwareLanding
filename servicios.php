@@ -426,7 +426,7 @@
 
 					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Direcci&oacute;n"
 						name="direccion">
-					<div class="text-danger" id="alertDirecci&oacute;n"></div>
+					<div class="text-danger" id="alertDirección"></div>
 
 					<textarea class="form-control bordesInputContacto mt-3" placeholder="*Deje su mensaje adicional"
 						name="mensaje" class="textarea"></textarea>

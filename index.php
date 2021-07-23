@@ -39,8 +39,10 @@
 					</div>
 					<p class="">
 						Somos un grupo de emprendedores interesados en la Ingenier&iacute;a y nuevas formas de hacer las
-						cosas; implementamos metodolog&iacute;as, actividades y actitudes que impacten de manera positiva
-						en la sociedad mexicana, primero y despu&eacute;s en el mundo, poniendo de manifiesto que en M&eacute;xico
+						cosas; implementamos metodolog&iacute;as, actividades y actitudes que impacten de manera
+						positiva
+						en la sociedad mexicana, primero y despu&eacute;s en el mundo, poniendo de manifiesto que en
+						M&eacute;xico
 						tambi&eacute;n puede existir desarrollo tecnol&oacute;gico e innovaci&oacute;n.
 					</p>
 					<div class="btn__wrap__left">
@@ -82,12 +84,20 @@
 					</a>
 				</div>
 
-				<div>
+				<div class="mt-3 pt-1">
 					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-3.webp" alt="">
 						<p>Conversational Spanish</p>
 					</a>
 				</div>
+
+				<div>
+					<a href="https://www.speaklikeamexican.com.mx/" target="_blank"><img
+							src="images/clientes/Logo_002.webp" alt="">
+						<p>Speak Like a Mexican</p>
+					</a>
+				</div>
+
 				<div>
 					<a href="https:/vmyasc.com.mx" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-4.webp" alt="">
@@ -95,7 +105,7 @@
 					</a>
 				</div>
 
-				<div>
+				<div  class="mt-4 pt-5">
 					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-2.webp" alt="">
 						<p>Constructora Aldazy</p>
@@ -116,12 +126,7 @@
 					</a>
 				</div>
 
-				<div>
-					<a href="https://www.speaklikeamexican.com.mx/" target="_blank"><img
-							src="images/clientes/Logo_002.webp" alt="">
-						<p>Speak Like a Mexican</p>
-					</a>
-				</div>
+
 
 			</div>
 		</div>
@@ -144,7 +149,8 @@
 					</div>
 					<div class="descr">
 						<p>
-							Con m&aacute;s de 10 años en el mercado resolvemos sus requerimientos Web y de Tecnolog&iacute;as de la
+							Con m&aacute;s de 10 años en el mercado resolvemos sus requerimientos Web y de
+							Tecnolog&iacute;as de la
 							Informaci&oacute;n TI.
 
 						</p>
@@ -172,7 +178,8 @@
 					</div>
 					<div class="descr">
 						<p>
-							Tenemos &eacute;tica profesional y laboral que garatiza la mejor soluci&oacute;n a sus requerimientos.
+							Tenemos &eacute;tica profesional y laboral que garatiza la mejor soluci&oacute;n a sus
+							requerimientos.
 						</p>
 					</div>
 				</div>
