@@ -424,7 +424,7 @@
 					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Email" name="correo">
 					<div class="text-danger" id="alertCorreo"></div>
 
-					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Dirección"
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Direcci&oacute;n"
 						name="direccion">
 					<div class="text-danger" id="alertDirección"></div>
 
