@@ -7,7 +7,7 @@
 
 <div class="welcome">
 	<figure class="wow fadeInLeft">
-		<img src="images/reparacion-computadoras1.jpg" alt="">
+		<img src="images/reparacion-computadoras1.webp" alt="">
 	</figure>
 	<div class="textEncimado  wow slideInLeft posicion-texto">
 		<div class="text_1">
@@ -16,10 +16,10 @@
 		<div class="text_2">
 			Surftware provee productos y servicios profesionales de alta calidad.</div>
 		<div class="text_3">
-			Más de 10 años ayudando a las personas y empresas a hacer más productivos sus recursos tecnológicos.
+			M&aacute;s de 10 años ayudando a las personas y empresas a hacer m&aacute;s productivos sus recursos tecnol&oacute;gicos.
 		</div>
 		<div class="btn__wrap__left">
-			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
+			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
 			<a href=tutoriales.php class="btn btn__large btn__white_transparent">watch video</a>
 		</div>
 	</div>
@@ -29,16 +29,16 @@
 	<div class="center">
 		<div class="block__title">
 			<span>Servicio de TI para tus negocios</span>
-			Servicios Mas Populares
+			Servicios M&aacute;s Populares
 		</div>
 
 		<div class="item__list">
 			<div class="item wow flipInY">
 				<figure>
-					<img src="images/services_icon_1.png" alt="">
+					<img src="images/services_icon_1.webp" alt="">
 				</figure>
 				<div class="title">
-					Instalación de redes computadoras
+					Instalaci&oacute;n de redes computadoras
 				</div>
 				<p>
 					Build a steady flow of leads or online sales with ROI based online advertising.
@@ -46,10 +46,10 @@
 			</div>
 			<div class="item wow flipInY" data-wow-delay="0.1s">
 				<figure>
-					<img src="images/services_icon_2.png" alt="">
+					<img src="images/services_icon_2.webp" alt="">
 				</figure>
 				<div class="title">
-					Instalación de servidores
+					Instalaci&oacute;n de servidores
 				</div>
 				<p>
 					We work together with our clients to come up with effective content strategies.
@@ -57,10 +57,10 @@
 			</div>
 			<div class="item wow flipInY" data-wow-delay="0.2s">
 				<figure>
-					<img src="images/services_icon_3.png" alt="">
+					<img src="images/services_icon_3.webp" alt="">
 				</figure>
 				<div class="title">
-					Mantenimiento / Reparación equipo de cómputo
+					Mantenimiento / Reparaci&oacute;n equipo de c&oacute;mputo
 				</div>
 				<p>
 					We diligently search for all keywords that are relevant to our client’s business.
@@ -68,10 +68,10 @@
 			</div>
 			<div class="item wow flipInY" data-wow-delay="0.3s">
 				<figure>
-					<img src="images/services_icon_4.png" alt="">
+					<img src="images/services_icon_4.webp" alt="">
 				</figure>
 				<div class="title">
-					Administración / Recuperación / Respaldo de información
+					Administraci&oacute;n / Recuperaci&oacute;n / Respaldo de informaci&oacute;n
 				</div>
 				<p>
 					Grow the followers to increase brand awareness, sales and marketing potential.
@@ -79,7 +79,7 @@
 			</div>
 			<div class="item wow flipInY" data-wow-delay="0.4s">
 				<figure>
-					<img src="images/services_icon_5.png" alt="">
+					<img src="images/services_icon_5.webp" alt="">
 				</figure>
 				<div class="title">
 					Soporte Remoto (Skype / Teamviewer )
@@ -90,10 +90,10 @@
 			</div>
 			<div class="item wow flipInY" data-wow-delay="0.5s">
 				<figure>
-					<img src="images/services_icon_6.png" alt="">
+					<img src="images/services_icon_6.webp" alt="">
 				</figure>
 				<div class="title">
-					Instalación de software
+					Instalaci&oacute;n de software
 				</div>
 				<p>
 					We carefully study Google analytics data and create comprehensive reports.
@@ -101,10 +101,10 @@
 			</div>
 			<div class="item wow flipInY" data-wow-delay="0.5s">
 				<figure>
-					<img src="images/services_icon_6.png" alt="">
+					<img src="images/services_icon_6.webp" alt="">
 				</figure>
 				<div class="title">
-					Creación de sitios web
+					Creaci&oacute;n de sitios web
 				</div>
 				<p>
 					We carefully study Google analytics data and create comprehensive reports.
@@ -112,7 +112,7 @@
 			</div>
 			<div class="item wow flipInY" data-wow-delay="0.5s">
 				<figure>
-					<img src="images/services_icon_6.png" alt="">
+					<img src="images/services_icon_6.webp" alt="">
 				</figure>
 				<div class="title">
 					Soporte de sitios web
@@ -123,10 +123,10 @@
 			</div>
 			<div class="item wow flipInY" data-wow-delay="0.5s">
 				<figure>
-					<img src="images/services_icon_6.png" alt="">
+					<img src="images/services_icon_6.webp" alt="">
 				</figure>
 				<div class="title">
-					Venta de equipos de cómputo y accesorios
+					Venta de equipos de c&oacute;mputo y accesorios
 				</div>
 				<p>
 					We carefully study Google analytics data and create comprehensive reports.
@@ -155,17 +155,17 @@
 
 						</div>
 						<ul>
-							<li>Soporte remoto vía Team Viewer/AnyDesk</li>
+							<li>Soporte remoto v&iacute;a Team Viewer/AnyDesk</li>
 							<li>Limpieza general del sistema Windows</li>
-							<li>Optimización</li>
-							<li>Instalación de programas (máx. 3)</li>
-							<li>Instalación antivirus</li>
-							<li>Consultoría, configuraciones, sistema y software</li>
+							<li>Optimizaci&oacute;n</li>
+							<li>Instalaci&oacute;n de programas (máx. 3)</li>
+							<li>Instalaci&oacute;n antivirus</li>
+							<li>Consultor&iacute;a, configuraciones, sistema y software</li>
 						</ul>
 					</div>
 					<div class="item__part">
 						<div class="btn__wrap__center">
-							<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solicítalo
+							<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solic&iacute;talo
 								ahora!</a>
 						</div>
 					</div>
@@ -175,7 +175,7 @@
 				<div class="item__part__wrap">
 					<div class="item__part">
 						<div class="top">
-							Optimización Limpieza
+							Optimizaci&oacute;n Limpieza
 						</div>
 						<div class="price">
 							<span>$300</span>
@@ -184,15 +184,15 @@
 						<ul>
 							<li>Soporte personalizado</li>
 							<li>Limpieza general del sistema Windows</li>
-							<li>Optimización </li>
-							<li>Instalación de programas (máx. 3)</li>
-							<li>Instalación antivirus</li>
-							<li>Consultoría, configuraciones, sistema y software</li>
+							<li>Optimizaci&oacute;n </li>
+							<li>Instalaci&oacute;n de programas (m&aacute;x. 3)</li>
+							<li>Instalaci&oacute;n antivirus</li>
+							<li>Consultor&iacute;a, configuraciones, sistema y software</li>
 						</ul>
 					</div>
 					<div class="item__part">
 						<div class="btn__wrap__center">
-							<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solicítalo
+							<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solic&iacute;talo
 								ahora!</a>
 						</div>
 					</div>
@@ -209,16 +209,16 @@
 
 						</div>
 						<ul>
-							<li>Instalación de Windows</li>
-							<li>Optimización</li>
-							<li>Instalación de Programas</li>
+							<li>Instalaci&oacute;n de Windows</li>
+							<li>Optimizaci&oacute;n</li>
+							<li>Instalaci&oacute;n de Programas</li>
 							<li>Antivirus</li>
 
 						</ul>
 					</div>
 					<div class="item__part">
 						<div class="btn__wrap__center">
-							<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solicítalo
+							<a href="servicios.php#contacts" class="btn btn__orange btn__large">Solic&iacute;talo
 								ahora!</a>
 						</div>
 					</div>
@@ -400,8 +400,8 @@
 		<div class="row ">
 			<div class="col-md-12 block__title  wow bounceInLeft">
 				<span>Datos de contacto</span>
-				Comunícate con nosotros.
-				<p>Envíanos un mensaje, háblanos por Skype o Whatsapp que<strong> en breve te contestaremos </strong>
+				Comun&iacute;cate con nosotros.
+				<p>Env&iacute;anos un mensaje, h&aacute;blanos por Skype o Whatsapp que<strong> en breve te contestaremos </strong>
 				</p>
 			</div>
 		</div>
@@ -479,7 +479,7 @@
 			</div>
 			<div class="col-md-4 right_side  wow bounceInRight ">
 				<div class="text-center">
-					<img src="images/contacto-reparacion-computadoras.jpg" class="rounded" alt="">
+					<img src="images/contacto-reparacion-computadoras.webp" class="rounded" alt="">
 				</div>
 			</div>
 		</div>
@@ -492,11 +492,11 @@
 	<div class="container" id="ubicacion">
 		<div class="row ">
 			<div class="col-md-12 block__title  wow bounceInLeft">
-				<span>Ubicación Surftware</span>
-				Mapa de ubicación.
-				<p> Visítanos por primera vez, toda la información que necesite te la brindaremos personalmente .
+				<span>Ubicaci&oacute;n Surftware</span>
+				Mapa de ubicaci&oacute;n.
+				<p> Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesite te la brindaremos personalmente .
 				</p>
-				<p><strong> Lunes a Sábado de: 10:00 am a 5:00 pm </strong>
+				<p><strong> Lunes a S&aacute;bado de: 10:00 am a 5:00 pm </strong>
 				</p>
 			</div>
 		</div>
