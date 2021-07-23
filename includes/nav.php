@@ -12,8 +12,8 @@
 
 							</a>
 						</li>
-						<li>
-							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de Surftware"
+						<li> 
+							<a href="https://wa.me/+525511894621?text=Hola%20solicito%20ayuda%20desde%20surftware.com.mx%20"
 								target="_blank">
 								<i class="fa fa-phone"></i><span class="text-white ml-2">5511894621</span>
 
@@ -47,14 +47,14 @@
 					</a>
 					<div class="nav clearfix">
 						<ul>
-							<li>
+							<li class="active">
 								<a href="index.php#about">Acerca de</a>
 							</li>
 							<li>
 								<a href="servicios.php#">Servicios</a>
 							</li>
 							<li>
-								<a href="tutoriales.php">+Tutoriales</a>
+								<a href="tutoriales.php">Tutoriales&nbsp;<i class="fas fa-sort-down"></i></a>
 								<ul>
 									<li><a href="tutoriales.php#QGIS"><i class="fas fa-play-circle"></i>&nbsp;Tutorial QGIS 3.10</a></li>
 									<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalación de W10 en Mac</a></li>
@@ -73,14 +73,14 @@
 			</div>
 			<div class="phone_nav">
 				<ul>
-					<li>
+					<li">
 						<a href="index.php#about">Acerca de</a>
 					</li>
 					<li>
 						<a href="servicios.php#">Servicios</a>
 					</li>
 					<li>
-						<a class="sub">+Tutoriales</a>
+						<a class="sub">Tutoriales&nbsp;<i class="fas fa-sort-down"></i></a>
 						<ul>
 									<li><a href="tutoriales.php#QGIS"><i class="fas fa-play-circle"></i>&nbsp;Tutorial QGIS 3.10</a></li>
 									<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalación de W10 en Mac</a></li>

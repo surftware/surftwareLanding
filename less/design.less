@@ -140,7 +140,7 @@ body {
 	}
 
 	@media screen and (max-width: 900px) {
-		padding: 100px 0px 100px 0px;
+		top: 200px;
 
 		.text_1 {
 			font-size: 70px;
@@ -422,38 +422,50 @@ p {
 		}
 
 		.nav {
+
+
+			.active{
+				background-color: @color6 !important;
+				border-radius: 80px;
+				padding: 10px 10px 10px 10px ;
+	
+			
+			}
+
 			@media screen and (max-width: 800px) {
 				display: none;
 			}
 
 			.flex-display(@display: flex);
 			.justify-content(@justify: space-between);
-			.align-items(@align: center);
+			.align-items(@align: center);			
 
 			&>ul {
 				margin-right: 35px;
 
 				&>li {
 					margin-right: 20px;
+					position: relative;
+					display: inline-block;
 
 					&:last-child {
 						margin-right: 0px;
-					}
-
-					position:relative;
-					display:inline-block;
-
+					}										
+					
 					a {
 						cursor: pointer;
 						color: @white;
 						font-size: 17px;
 						.varela;
 						text-decoration: none;
-						.transition(0.2s);
+						.transition(0.2s);										
+
 
 						&:hover {
 							color: @pink;
 						}
+
+
 					}
 
 					&>ul {
@@ -700,7 +712,7 @@ p {
 					&.sub {
 						position: relative;
 
-						&:before {
+						/*	&:before {
 							content: '+';
 							display: block;
 							font-size: 18px;
@@ -709,11 +721,11 @@ p {
 							left: 0px;
 							top: 50%;
 							.translate(@y: -50%);
-						}
+						}*/
 
 						&.act {
 							&:before {
-								content: '-';
+								//content: '-';
 							}
 						}
 					}
@@ -803,7 +815,7 @@ p {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url(../images//services_bg.jpg);
+	//background-image: url(../images/services_bg.jpg);
 
 	.item {
 		&__list {
@@ -1385,7 +1397,7 @@ p {
 
 				&:hover {
 					svg {
-						fill: @orange;
+						fill: @pink;
 					}
 				}
 
@@ -1410,7 +1422,7 @@ p {
 				margin: 0px 5px;
 
 				&.active {
-					background: @orange;
+					background: @pink;
 				}
 			}
 		}
@@ -2206,12 +2218,12 @@ p {
 		color: @black;
 	}
 
-	.btn_responsive{
+	.btn_responsive {
 		text-align: center !important;
 
 	}
 
-	
+
 
 }
 
@@ -2322,7 +2334,7 @@ p {
 
 	.posicion-texto {
 		position: absolute;
-		top: 5%
+		//top: 5%
 	}
 }
 
