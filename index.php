@@ -144,7 +144,7 @@
 				<div>
 					<a href="https:/vmyasc.com.mx" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-4.png" alt="">
-						<p class="mt-3">Víctor Montes y ASociados</p>
+						<p class="mt-3">V&iacute;ctor Montes y Asociados</p>
 					</a>
 				</div>
 
