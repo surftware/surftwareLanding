@@ -67,59 +67,6 @@
 		</div>
 	</div>
 
-
-	<div class="block benefits" id="benefits">
-		<div class="center">
-			<div class="block__title wow bounceIn">
-				<span>Garant&iacute;as de calidad</span>
-				Motivos por los cuales nuestros clientes nos prefieren:
-			</div>
-			<div class="item__list">
-				<div class="item wow fadeInUp">
-					<figure>
-						<i class="fas fa-desktop fa-7x text-white"></i>
-					</figure>
-					<div class="title">
-						Experiencia
-					</div>
-					<div class="descr">
-						<p>
-							Con m&aacute;s de 10 años en el mercado resolvemos sus requerimientos Web y de Tecnolog&iacute;as de la
-							Informaci&oacute;n TI.
-
-						</p>
-					</div>
-				</div>
-				<div class="item wow fadeInUp" data-wow-delay="0.1s">
-					<figure>
-						<i class="fas fa-hand-holding-usd fa-7x text-white"></i>
-					</figure>
-					<div class="title">
-						Honestidad
-					</div>
-					<div class="descr">
-						<p>
-							Somos honestos y confiables al hacer diagn&oacute;stico de sus requerimientos.
-						</p>
-					</div>
-				</div>
-				<div class="item wow fadeInUp" data-wow-delay="0.2s">
-					<figure>
-						<i class="fas fa-user-tie fa-7x text-white"></i>
-					</figure>
-					<div class="title">
-						Profesionalismo
-					</div>
-					<div class="descr">
-						<p>
-							Tenemos &eacute;tica profesional y laboral que garatiza la mejor soluci&oacute;n a sus requerimientos.
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
 	<div class="block sponsors" id="sponsors">
 		<div class="center">
 			<div class="block__title wow bounceIn">
@@ -176,6 +123,59 @@
 					</a>
 				</div>
 
+			</div>
+		</div>
+	</div>
+
+
+	<div class="block benefits" id="benefits">
+		<div class="center">
+			<div class="block__title wow bounceIn">
+				<span>Garant&iacute;as de calidad</span>
+				Motivos por los cuales nuestros clientes nos prefieren:
+			</div>
+			<div class="item__list">
+				<div class="item wow fadeInUp">
+					<figure>
+						<i class="fas fa-desktop fa-7x text-white"></i>
+					</figure>
+					<div class="title">
+						Experiencia
+					</div>
+					<div class="descr">
+						<p>
+							Con m&aacute;s de 10 años en el mercado resolvemos sus requerimientos Web y de Tecnolog&iacute;as de la
+							Informaci&oacute;n TI.
+
+						</p>
+					</div>
+				</div>
+				<div class="item wow fadeInUp" data-wow-delay="0.1s">
+					<figure>
+						<i class="fas fa-hand-holding-usd fa-7x text-white"></i>
+					</figure>
+					<div class="title">
+						Honestidad
+					</div>
+					<div class="descr">
+						<p>
+							Somos honestos y confiables al hacer diagn&oacute;stico de sus requerimientos.
+						</p>
+					</div>
+				</div>
+				<div class="item wow fadeInUp" data-wow-delay="0.2s">
+					<figure>
+						<i class="fas fa-user-tie fa-7x text-white"></i>
+					</figure>
+					<div class="title">
+						Profesionalismo
+					</div>
+					<div class="descr">
+						<p>
+							Tenemos &eacute;tica profesional y laboral que garatiza la mejor soluci&oacute;n a sus requerimientos.
+						</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
