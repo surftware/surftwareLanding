@@ -21,7 +21,7 @@
 						</li>
 						<li>
 							<a href="https://g.page/surftware?share" target="_blank">
-								<i class="fa fa-map-marker"></i><span class="text-white ml-2">Nte. 84-A 6515 Sn Pedro el
+								<i class="fa fa-map-marker"></i><span class="text-white ml-2">Norte 84-A 6515 San Pedro el
 									Chico</span>
 							</a>
 						</li>
