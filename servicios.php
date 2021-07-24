@@ -158,7 +158,7 @@
 							<li>Soporte remoto v&iacute;a Team Viewer/AnyDesk</li>
 							<li>Limpieza general del sistema Windows</li>
 							<li>Optimizaci&oacute;n</li>
-							<li>Instalaci&oacute;n de programas (máx. 3)</li>
+							<li>Instalaci&oacute;n de programas (m&aacute;x. 3)</li>
 							<li>Instalaci&oacute;n antivirus</li>
 							<li>Consultor&iacute;a, configuraciones, sistema y software</li>
 						</ul>
@@ -458,7 +458,7 @@
 							</a>
 						</li>
 						<li class="mb-4">
-							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la página web de SurftwareLanding"
+							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la p&aacute;gina web de SurftwareLanding"
 								class="linkContacto" target="_blank">
 								<i class="fab fa-whatsapp-square fa-3x mr-4"></i> 55-11-89-46-21
 							</a>
@@ -513,7 +513,7 @@
 <!-- Termina Mapa  -->
 
 </div>
-<!-- Este div cierra el div clas="wrap" que está en nav.php -->
+<!-- Este div cierra el div clas="wrap" que est&aacute; en nav.php -->
 
 <?php  
 

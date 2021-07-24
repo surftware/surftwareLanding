@@ -43,7 +43,7 @@
 			<div class="header__bottom">
 				<div class="center">
 					<a href="index.php" class="logo">
-						<img class="logoSurftware" src="images/creacion-paginas-web.png" alt="">
+						<img class="logoSurftware" src="images/creacion-paginas-web.webp" alt="">
 					</a>
 					<div class="nav clearfix">
 						<ul>
