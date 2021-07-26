@@ -7,7 +7,8 @@
 					<ul class="info">
 						<li>
 							<a href="mailto:contacto@surftware.com.mx">
-								<i class="fa fa-envelope"></i><span class="text-white ml-2">contacto@surftware.com.mx</span>
+								<i class="fa fa-envelope"></i><span
+									class="text-white ml-2">contacto@surftware.com.mx</span>
 
 							</a>
 						</li>
@@ -81,9 +82,9 @@
 					<li>
 						<a class="sub">Tutoriales</a>
 						<ul>
-							<li><a href="tutoriales.php#about">About</a></li>
-							<li><a href="tutoriales.php#services">Services</a></li>
-							<li><a href="tutoriales.php#featured_product">Featured Product</a></li>
+							<li><a href="tutoriales.php#QGIS">Tutorial QGIS 3.10</a></li>
+							<li><a href="tutoriales.php#MAC">Instalación de W10 en Mac</a></li>
+							<li><a href="tutoriales.php#LED">Construye tu lámpara LED</a></li>
 
 						</ul>
 					</li>
