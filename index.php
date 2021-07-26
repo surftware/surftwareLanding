@@ -8,21 +8,21 @@
 <div class="welcome">
 
 	<figure class="wow fadeInLeft">
-		<img  src="images/welcome.png" alt="">
+		<img src="images/welcome.webp" alt="">
 	</figure>
 	<div class="textEncimado wow slideInLeft posicion-texto">
 		<div class="text_1">
-			Surfware
+			Surftware
 		</div>
 		<div class="text_2">
 			Servicios TI a tu medida </div>
 		<div class="text_3">
-			Ofrecemos soluciones en Tecnologías
-			de la Información para tu negocio y tu hogar.</br>
-			Porque la tecnología debe estar al alcance de todos
+			Ofrecemos soluciones en Tecnolog&iacute;as
+			de la Informaci&oacute;n </br>para tu negocio y tu hogar.
+			Porque la tecnolog&iacute;a debe estar al alcance de todos.
 		</div>
-		<div class="btn__wrap__left  d-flex justify-content-center">
-			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
+		<div class="btn__wrap__left  d-flex float-left btn_responsive">
+			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
 		</div>
 	</div>
 
@@ -34,33 +34,34 @@
 			<div class="about__wrap">
 				<div class="left_side  wow slideInLeft">
 					<div class="block__title">
-						<span>¿Quienes Somos?</span>
+						<span>¿Qui&eacute;nes Somos?</span>
 						Surftware
 					</div>
-					<p>
-						Somos un grupo de emprendedores interesados en la Ingeniería y nuevas formas de hacer las
-						cosas; implementamos metodologías, actividades y actitudes que impacten de manera positiva
-						en la sociedad mexicana primero y después en el mundo, poniendo de manifiesto que en México
-						también puede existir desarrollo tecnológico e innovación.
+					<p class="">
+						Somos un grupo de emprendedores interesados en la Ingenier&iacute;a y nuevas formas de hacer las
+						cosas; implementamos metodolog&iacute;as, actividades y actitudes que impacten de manera
+						positiva
+						en la sociedad mexicana, primero y despu&eacute;s en el mundo, poniendo de manifiesto que en
+						M&eacute;xico
+						tambi&eacute;n puede existir desarrollo tecnol&oacute;gico e innovaci&oacute;n.
 					</p>
 					<div class="btn__wrap__left">
 						<a href="#" class="btn btn__large btn__blue">Detalles</a>
 					</div>
 				</div>
 				<figure class=" wow slideInRight">
-					<img src="images/about_img.png" alt="">
+					<img src="images\descripci&oacute;n-surftware.webp" alt="">
 				</figure>
 			</div>
 		</div>
 	</div>
 
 
-
 	<div class="block featured_product" id="featured_product">
 		<div class="center">
 			<div class="">
 				<div class="textPromo">
-					!!Promociones Espéralas Pronto!!
+					!!Promociones Esp&eacute;ralas Pronto!!
 				</div>
 				<a href="#" class="featured_product_play">
 				</a>
@@ -68,121 +69,120 @@
 		</div>
 	</div>
 
-	<div class="block benefits" id="benefits">
-		<div class="center">
-			<div class="block__title wow bounceIn">
-				<span>Nuestras Garantías</span>
-				Motivos por los que nuestros clientes nos prefieren por sobre la competencia:
-			</div>
-			<div class="item__list">
-				<div class="item wow fadeInUp">
-					<figure>
-						<img src="images/benefits_icon_1.png" alt="">
-					</figure>
-					<div class="title">
-						B2B Lead Generation
-					</div>
-					<div class="descr">
-						<p>
-							Our team of experts carries lead generation, and helps you drive leads to you own website.
-						</p>
-					</div>
-				</div>
-				<div class="item wow fadeInUp" data-wow-delay="0.1s">
-					<figure>
-						<img src="images/benefits_icon_2.png" alt="">
-					</figure>
-					<div class="title">
-						Digital Marketing Strategy
-					</div>
-					<div class="descr">
-						<p>
-							We will show you how to set your own digital marketing strategy right now.
-						</p>
-					</div>
-				</div>
-				<div class="item wow fadeInUp" data-wow-delay="0.2s">
-					<figure>
-						<img src="images/benefits_icon_3.png" alt="">
-					</figure>
-					<div class="title">
-						Native Advertising
-					</div>
-					<div class="descr">
-						<p>
-							Attract new customers with this inexpensive and effective new digital acquisition tool.
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-
-	<div class="ads_bar" id="ads_bar">
-		<div class="center clearfix">
-			<div class="text wow fadeInRight">
-				<img src="images/ads_bar_img.png" alt="" class="img wow fadeInLeft">
-				<div class="title">
-					Check your website performance now!
-				</div>
-				<p>
-					Want to discover your website potential? Send us a request and get a free consultation.
-				</p>
-				<div class="btn__wrap__left">
-					<a href="#" class="btn btn__large btn__white">Request a callback</a>
-				</div>
-			</div>
-		</div>
-	</div>
-
 	<div class="block sponsors" id="sponsors">
 		<div class="center">
 			<div class="block__title wow bounceIn">
-				<span>Páginas Web hechas por nosotros</span>
+				<span>P&aacute;ginas Web hechas por nosotros</span>
 				Nuestros clientes
 			</div>
 
 			<div class="owl-carousel owl_sponsors">
 				<div>
-					<a href="http://surftware.company//" target="_blank"><img
-							src="images/clientes/cliente-creacion-sitio-web-5.png" alt="">
-						<p>Constructora y Equipos Hidráhulicos Mexicanos</p>
+					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-5.webp" alt="">
+						<p>Constructora y Equipos Hidr&aacute;hulicos Mexicanos</p>
+					</a>
+				</div>
+
+				<div class="mt-3 pt-1">
+					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-3.webp" alt="">
+						<p>Conversational Spanish</p>
 					</a>
 				</div>
 
 				<div>
-					<a href="http://www.conversationalspanishmx.com/" target="_blank"><img
-							src="images/clientes/cliente-creacion-sitio-web-3.png" alt=""></a>
-				</div>
-				<div>
-					<a href="http://www.vmyasc.com.mx/" target="_blank"><img
-							src="images/clientes/cliente-creacion-sitio-web-4.png" alt="">
-						<p class="mt-3">Víctor Montes y ASociados</p>
+					<a href="https://www.speaklikeamexican.com.mx/" target="_blank"><img
+							src="images/clientes/Logo_002.webp" alt="">
+						<p>Speak Like a Mexican</p>
 					</a>
 				</div>
 
 				<div>
-					<a href="https://aldazy.com/index.html" target="_blank"><img
-							src="images/clientes/cliente-creacion-sitio-web-2.png" alt=""></a>
+					<a href="https:/vmyasc.com.mx" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-4.webp" alt="">
+						<p class="mt-3">V&iacute;ctor Montes y Asociados</p>
+					</a>
+				</div>
+
+				<div  class="mt-4 pt-5">
+					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-2.webp" alt="">
+						<p>Constructora Aldazy</p>
+					</a>
 				</div>
 
 				<div>
-					<a href="http://dd-scrubs.com.mx" target="_blank"><img
-							src="images/clientes/cliente-creacion-sitio-web-1.png" alt="">
+					<a href="https:/surftware.com.mx/servicios.php#contacts" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-1.webp" alt="">
 						<p>Dd-Scrubs</p>
 					</a>
 				</div>
 
 				<div>
-					<a href="https://sexydiversion.com.mx" target="_blank"><img
+					<a href="https:/sexydiversion.com.mx" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-6.webp" alt="">
-						<p>Sexy Diversión</p>
+						<p>Sexy Diversi&oacute;n</p>
 					</a>
 				</div>
 
 
+
+			</div>
+		</div>
+	</div>
+
+
+	<div class="block benefits" id="benefits">
+		<div class="center">
+			<div class="block__title wow bounceIn">
+				<span>Garant&iacute;as de calidad</span>
+				Motivos por los cuales nuestros clientes nos prefieren:
+			</div>
+			<div class="item__list">
+				<div class="item wow fadeInUp">
+					<figure>
+						<i class="fas fa-desktop fa-7x text-white"></i>
+					</figure>
+					<div class="title">
+						Experiencia
+					</div>
+					<div class="descr">
+						<p>
+							Con m&aacute;s de 10 años en el mercado resolvemos sus requerimientos Web y de
+							Tecnolog&iacute;as de la
+							Informaci&oacute;n TI.
+
+						</p>
+					</div>
+				</div>
+				<div class="item wow fadeInUp" data-wow-delay="0.1s">
+					<figure>
+						<i class="fas fa-hand-holding-usd fa-7x text-white"></i>
+					</figure>
+					<div class="title">
+						Honestidad
+					</div>
+					<div class="descr">
+						<p>
+							Somos honestos y confiables al hacer diagn&oacute;stico de sus requerimientos.
+						</p>
+					</div>
+				</div>
+				<div class="item wow fadeInUp" data-wow-delay="0.2s">
+					<figure>
+						<i class="fas fa-user-tie fa-7x text-white"></i>
+					</figure>
+					<div class="title">
+						Profesionalismo
+					</div>
+					<div class="descr">
+						<p>
+							Tenemos &eacute;tica profesional y laboral que garatiza la mejor soluci&oacute;n a sus
+							requerimientos.
+						</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>

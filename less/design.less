@@ -83,7 +83,7 @@
 @color3: rgba(84, 69, 127, 1);
 @color4: rgba(253, 240, 213, 1);
 @color5: rgba(198, 135, 143, 1);
-@color6: rgba(31,37,49, 0.7);
+@color6: rgba(31, 37, 49, 0.7);
 
 body {
 	*:focus {
@@ -141,7 +141,7 @@ body {
 	}
 
 	@media screen and (max-width: 900px) {
-		padding: 100px 0px 100px 0px;
+		top: 200px;
 
 		.text_1 {
 			font-size: 70px;
@@ -270,7 +270,7 @@ body {
 
 		span {
 			display: block;
-			color: @color2;
+			color: @pink;
 			font-size: 20px;
 			line-height: 24px;
 			.lato;
@@ -345,7 +345,7 @@ p {
 					.ubuntu;
 
 					&:hover {
-						color: @color2;
+						color: @pink;
 					}
 				}
 
@@ -393,7 +393,7 @@ p {
 			}
 		}
 
-		@media screen and (max-width: 900px) {
+		@media screen and (max-width: 680px) {
 			display: none;
 		}
 	}
@@ -423,38 +423,50 @@ p {
 		}
 
 		.nav {
-			@media screen and (max-width: 900px) {
+
+
+			.active{
+				background-color: @color6 !important;
+				border-radius: 80px;
+				padding: 10px 10px 10px 10px ;
+	
+			
+			}
+
+			@media screen and (max-width: 800px) {
 				display: none;
 			}
 
 			.flex-display(@display: flex);
 			.justify-content(@justify: space-between);
-			.align-items(@align: center);
+			.align-items(@align: center);			
 
 			&>ul {
 				margin-right: 35px;
 
 				&>li {
 					margin-right: 20px;
+					position: relative;
+					display: inline-block;
 
 					&:last-child {
 						margin-right: 0px;
-					}
-
-					position:relative;
-					display:inline-block;
-
+					}										
+					
 					a {
 						cursor: pointer;
 						color: @white;
 						font-size: 17px;
 						.varela;
 						text-decoration: none;
-						.transition(0.2s);
+						.transition(0.2s);										
+
 
 						&:hover {
-							color: @color2;
+							color: @pink;
 						}
+
+
 					}
 
 					&>ul {
@@ -469,7 +481,7 @@ p {
 						padding: 25px 0px 0px 0px;
 
 						li {
-							background: @darkblue;
+							background: rgba(31, 37, 49, 0.7);
 							padding: 0px 25px 12px 25px;
 
 							&:first-child {
@@ -493,7 +505,7 @@ p {
 		}
 
 		.menu_toggle {
-			@media screen and (min-width: 901px) {
+			@media screen and (min-width: 800px) {
 				display: none;
 			}
 
@@ -512,6 +524,7 @@ p {
 			transition: .3s ease,
 			background 0.6s ease;
 			z-index: 99;
+
 			i {
 				display: block;
 				width: 24px;
@@ -677,6 +690,7 @@ p {
 		background:@color6;
 		display:none;
 		text-align:center;
+		z-index:98; //menu toggle está en z-index:99
 
 		&>ul {
 			padding-bottom: 15px;
@@ -693,14 +707,13 @@ p {
 					.transition(0.2s);
 
 					&:hover {
-						color: @orange;
+						color: @pink;
 					}
 
 					&.sub {
 						position: relative;
-						padding-left: 20px;
 
-						&:before {
+						/*	&:before {
 							content: '+';
 							display: block;
 							font-size: 18px;
@@ -709,11 +722,11 @@ p {
 							left: 0px;
 							top: 50%;
 							.translate(@y: -50%);
-						}
+						}*/
 
 						&.act {
 							&:before {
-								content: '-';
+								//content: '-';
 							}
 						}
 					}
@@ -770,15 +783,18 @@ p {
 					text-align: center;
 				}
 			}
-			@media screen and (max-width: 991px){
+
+			@media screen and (max-width: 991px) {
 				#pQgis {
 					text-align: center;
 					margin-left: 10px;
 				}
+
 				#pMac {
 					text-align: center;
 					margin-right: 10px;
 				}
+
 				#pLed {
 					text-align: center;
 					margin-left: 10px;
@@ -800,7 +816,7 @@ p {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url(../images//services_bg.jpg);
+	//background-image: url(../images/services_bg.jpg);
 
 	.item {
 		&__list {
@@ -858,7 +874,7 @@ p {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url(../images/featured_product_bg.jpg);
+	background-image: url(../images/featured_product_bg.webp);
 
 	&__wrap {
 		.flex-display(@display: flex);
@@ -930,7 +946,7 @@ p {
 		text-align:center;
 		.rounded(15px);
 		padding:54px 15px 67px 15px;
-		background:@orange;
+		background:@pink;
 
 		&:nth-child(even) {
 			background: @blue;
@@ -1099,7 +1115,7 @@ p {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url(../images/ads_bar_bg.jpg);
+	background-image: url(../images/ads_bar_bg.webp);
 	padding: 45px 0px 37px 0px;
 	overflow: hidden;
 
@@ -1241,7 +1257,7 @@ p {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url(../images/pricing_bg.jpg);
+	background-image: url(../images/pricing_bg.webp);
 
 	.block__title {
 		color: @white;
@@ -1382,7 +1398,7 @@ p {
 
 				&:hover {
 					svg {
-						fill: @orange;
+						fill: @pink;
 					}
 				}
 
@@ -1407,7 +1423,11 @@ p {
 				margin: 0px 5px;
 
 				&.active {
+<<<<<<< HEAD
 					background:@pinkDots;
+=======
+					background: @pink;
+>>>>>>> front
 				}
 			}
 		}
@@ -1422,7 +1442,7 @@ p {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url(../images/testimonials_bg.jpg);
+	background-image: url(../images/testimonials_bg.webp);
 
 	.owl-carousel {
 		.owl-item {
@@ -1443,7 +1463,7 @@ p {
 					left: 0px;
 					top: 50%;
 					.translate(@y: -50%);
-					background: url(../images/testimonials_icon.png) no-repeat top center;
+					background: url(../images/testimonials_icon.webp) no-repeat top center;
 				}
 
 				&:after {
@@ -1456,7 +1476,7 @@ p {
 					margin-top: -13px;
 					top: 50%;
 					.translate(@y: -50%);
-					background: url(../images/testimonials_icon.png) no-repeat top center;
+					background: url(../images/testimonials_icon.webp) no-repeat top center;
 					.rotation(@deg: 180deg);
 				}
 			}
@@ -1640,7 +1660,7 @@ p {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url(../images/pricing_bg.jpg);
+	background-image: url(../images/pricing_bg.webp);
 	position: relative;
 
 	&>.center {
@@ -1743,7 +1763,7 @@ p {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-image: url(../images/ads_bar_bg.jpg);
+	background-image: url(../images/ads_bar_bg.webp);
 	text-align: center;
 
 	.title {
@@ -1841,7 +1861,7 @@ p {
 						padding-left: 60px;
 						.lato;
 						font-size: 16px;
-						color: @color2;
+						color: @pink;
 						text-decoration: none;
 
 						&:hover {
@@ -1966,18 +1986,18 @@ p {
 
 .linkRedesSociales {
 	font-size: 50px;
-	color: @color2;
+	color: @pink;
 }
 
 .linkContacto {
 	font-size: 15px;
-	color: @color2;
+	color: @pink;
 
 }
 
 .bordesInputContacto {
 	border-radius: 9px;
-	border-color: @color2;
+	border-color: @pink;
 
 }
 
@@ -2013,7 +2033,7 @@ p {
 			max-width: 930px;
 			margin: 0px auto 0px auto;
 			padding: 58px 0px 50px 0px;
-			border-top: 1px solid @color2;
+			border-top: 1px solid @pink;
 
 			@media screen and (max-width: 767px) {
 				padding: 30px 0px;
@@ -2036,12 +2056,12 @@ p {
 					padding-left: 25px;
 					.ubuntu;
 					font-size: 13px;
-					color: @color2;
+					color: @pink;
 					text-decoration: none;
 
 					&:hover {
 						text-decoration: none;
-						color: @color2;
+						color: @pink;
 					}
 				}
 
@@ -2085,14 +2105,14 @@ p {
 	color: @white;
 
 	&:hover {
-		color: @color2;
+		color: @pink;
 	}
 
 }
 
 
 .logoSurftware {
-	height: 60px;
+	height: 70px;
 }
 
 .lf {
@@ -2104,7 +2124,7 @@ p {
 }
 
 .letrasub {
-	color: @color2;
+	color: @pink;
 }
 
 .textPromo {
@@ -2181,13 +2201,13 @@ p {
 		left: 85%;
 	}
 
-	.map-size{
+	.map-size {
 		position: relative;
 		right: 10%;
 		width: 100%;
 	}
 
-	
+
 }
 
 @media (min-width: 0px) and (max-width: 425px) {
@@ -2196,23 +2216,29 @@ p {
 		height: 600px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: relative;
 		top: 4%;
-		color: black;
+		font-family: 'Varela Round', sans-serif;
+		color: @black;
 	}
+
+	.btn_responsive {
+		text-align: center !important;
+
+	}
+
+
 
 }
 
-@media (min-width: 425px) and (max-width: 575px){
+@media (min-width: 425px) and (max-width: 575px) {
 
 	.welcome {
 		height: 640px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: relative;
 		top: 3%;
 		color: black;
@@ -2231,7 +2257,7 @@ p {
 		left: 85% !important;
 	}
 
-	.map-size{
+	.map-size {
 		position: relative;
 		right: 5%;
 		width: 100%;
@@ -2241,8 +2267,7 @@ p {
 		height: 480px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: absolute;
 		top: 20%;
 	}
@@ -2284,24 +2309,26 @@ p {
 		width: 400px;
 		height: 215px;
 	}
+
 	#videoMac {
 		src: "https://www.youtube.com/embed/Ilvf8nObIlA";
 		width: 400px;
 		height: 215px;
 	}
+
 	#videoLed {
-        src: "https://www.youtube.com/embed/emVo1oXNm4Q";
+		src: "https://www.youtube.com/embed/emVo1oXNm4Q";
 		width: 400px;
 		height: 215px;
 	}
 
-	.map-size{
+	.map-size {
 		position: relative;
 		right: 5%;
 		width: 100%;
 	}
 
-	
+
 }
 
 @media (min-width: 768px) and (max-width: 900px) {
@@ -2310,30 +2337,26 @@ p {
 		height: 520px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: absolute;
-		top: 5%
+		//top: 5%
 	}
 }
 
-@media (min-width:901px) and (max-width: 991px)
-{
+@media (min-width:901px) and (max-width: 991px) {
 
 	.welcome {
 		height: 600px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: absolute;
 		top: 35%
 	}
 }
 
-@media (min-width: 992px) and (max-width: 1024px)
-{
-	.map-size{
+@media (min-width: 992px) and (max-width: 1024px) {
+	.map-size {
 		position: relative;
 		right: 3%;
 		width: 100%;
@@ -2342,27 +2365,24 @@ p {
 	.welcome {
 		height: 640px;
 	}
-	
-	.posicion-texto
-	{
+
+	.posicion-texto {
 		position: absolute;
 		top: 35%
 	}
 }
 
-@media (min-width: 1025px) and (max-width:1200px)
-{
+@media (min-width: 1025px) and (max-width:1200px) {
 
 	.welcome {
 		height: 750px;
 	}
 
-	.posicion-texto
-	{
+	.posicion-texto {
 		position: absolute;
 		top: 35%
 	}
-	
+
 }
 
 @media (min-width: 0px) and (max-width: 575px) {
@@ -2371,13 +2391,15 @@ p {
 		width: 320px;
 		height: 195px;
 	}
+
 	#videoMac {
 		src: "https://www.youtube.com/embed/Ilvf8nObIlA";
 		width: 320px;
 		height: 195px;
 	}
+
 	#videoLed {
-        src: "https://www.youtube.com/embed/emVo1oXNm4Q";
+		src: "https://www.youtube.com/embed/emVo1oXNm4Q";
 		width: 320px;
 		height: 195px;
 	}

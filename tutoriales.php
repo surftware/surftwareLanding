@@ -6,7 +6,7 @@
 ?>
 <div class="welcome">
 	<figure class="wow fadeInLeft">
-		<img src="images/surftware.jpg" alt="">
+		<img src="images/surftware.webp" alt="">
 	</figure>
 	<div class="textEncimado  wow slideInLeft posicion-texto">
 		<div class="text_1">
@@ -15,12 +15,12 @@
 		<div class="text_2">
 			Servicios TI a tu medida </div>
 		<div class="text_3">
-			Ofrecemos soluciones en Tecnologías
-			de la Información para tu negocio y tu hogar.</br>
-			Porque la tecnología debe estar al alcance de todos
+			Ofrecemos soluciones en Tecnolog&iacute;as
+			de la Informaci&oacute;n para tu negocio y tu hogar.</br>
+			Porque la tecnolog&iacute;a debe estar al alcance de todos
 		</div>
 		<div class="btn__wrap__left">
-			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Contáctanos</a>
+			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
 		</div>
 	</div>
 </div>
@@ -44,7 +44,7 @@
 						<span>Tutoriales</span>
 						QGIS 3.10</div>
 					<p id="pQgis" class="text-center">
-						Selección de un conjunto de inmuebles en QGIS 3.10
+						Selecci&oacute;n de un conjunto de inmuebles en QGIS 3.10
 					</p>
 					<div class="btn__wrap__center">
 						<a href="https://www.youtube.com/watch?v=Z2L5J3G-sgA&t=1s" target="_blank"
@@ -105,9 +105,9 @@
 				<div class="left_side  wow slideInRight">
 					<div class="block__title text-center" id="LED">
 						<span>Tutoriales</span>
-						Lámpara LED</div>
+						L&aacute;mpara LED</div>
 					<p id="pLed" class="text-center">
-						Construye tu lámpara LED
+						Construye tu l&aacute;mpara LED
 					</p>
 					<div class="btn__wrap__center">
 						<a href="https://www.youtube.com/watch?v=emVo1oXNm4Q&t=2s" target="_blank"
@@ -121,7 +121,7 @@
 </div>
 
 </div>
-<!-- Este div cierra el div clas="wrap" que está en nav.php -->
+<!-- Este div cierra el div clas="wrap" que est&aacute; en nav.php -->
 
 <?php  
   include ("includes/footer.php");
