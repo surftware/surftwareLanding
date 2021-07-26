@@ -99,7 +99,7 @@
 				</div>
 
 				<div>
-					<a href="https:/vmyasc.com.mx" target="_blank"><img
+					<a href="https://vmyasc.com.mx" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-4.webp" alt="">
 						<p class="mt-3">V&iacute;ctor Montes y Asociados</p>
 					</a>
