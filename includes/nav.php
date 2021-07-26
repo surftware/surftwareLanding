@@ -8,7 +8,6 @@
 						<li>
 							<a href="mailto:contacto@surftware.com.mx">
 								<i class="fa fa-envelope"></i><span class="text-white ml-2">contacto@surftware.com.mx</span>
-
 							</a>
 						</li>
 						<li>
@@ -84,7 +83,6 @@
 							<li><a href="tutoriales.php#about">About</a></li>
 							<li><a href="tutoriales.php#services">Services</a></li>
 							<li><a href="tutoriales.php#featured_product">Featured Product</a></li>
-
 						</ul>
 					</li>
 				</ul>
