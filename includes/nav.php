@@ -52,12 +52,13 @@
 								<a href="servicios.php#">Servicios</a>
 							</li>
 							<li>
-								<a>+ Tutoriales</a>
-								<ul>
-									<li><a href="tutoriales.php#QGIS">Tutorial QGIS 3.10</a></li>
-									<li><a href="tutoriales.php#MAC">Instalación de W10 en Mac</a></li>
-									<li><a href="tutoriales.php#LED">Construye tu lámpara LED</a></li>
-								</ul>
+								<a href="tutoriales.php">Tutoriales&nbsp;<i class="fas fa-sort-down"></i></a>
+									<ul>
+										<li><a href="tutoriales.php#QGIS"><i class="fas fa-play-circle"></i>&nbsp;Tutorial QGIS 3.10</a></li>
+										<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalación de W10 en Mac</a></li>
+										<li><a href="tutoriales.php#LED"><i class="fas fa-play-circle"></i>&nbsp;Construye tu lámpara LED</a></li>
+									</ul>
+								</li>
 							</li>
 						</ul>
 						<div class="btn__wrap__center">
