@@ -36,5 +36,16 @@
    function onSubmit(token) {
      document.getElementById("demo-form").submit();
    }
- </script>
+</script>
 
+<script type="text/javascript">  
+	const currentLocation = location.href;
+	const menuItem = document.querySelectorAll('a');
+	const menuLength = menuItem.length
+	for(let i = 0; i<menuLength; i++)
+	{
+		if(menuItem[i].href ===currentLocation){
+			menuItem[i].className ='active'
+		}
+	} 
+</script>
