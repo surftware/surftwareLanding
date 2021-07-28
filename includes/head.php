@@ -37,7 +37,7 @@
         content="Surftware, desarrollo de páginas web y soporte integral en sistemas computacionales" />
     <meta property="og:url" content="https://www.surftware.com.mx">
     <meta property="og:site_name" content="Surftware">
-    <meta property="og:image" content="images/reparacion-computadoras.jpeg" />
+    <meta property="og:image" content="images/inicioSurftware.png" />
     <!--
     <meta property="og:image" content="https://surftware.com.mx/images/reparacion-computadoras2.jpg" />
     <meta property="og:image" content="https://surftware.com.mx/images/creacion-paginas-web.png" />
