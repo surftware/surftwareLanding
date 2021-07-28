@@ -750,8 +750,10 @@ p {
 
 ul li a.active
 {
-	background: #00b5de;
-	color: #fff;
+	background: @blue;
+	color: @white;
+	border-radius: 80px;
+    padding: 10px 10px 10px 10px;
 }
 
 /* about */
@@ -2333,7 +2335,6 @@ ul li a.active
 		width: 100%;
 	}
 
-
 }
 
 @media (min-width: 768px) and (max-width: 900px) {
@@ -2411,18 +2412,32 @@ ul li a.active
 }
 
 @media (min-width: 0px) and (max-width: 575px) {
-	#contactoRedes {
+
+	#listaRedes{
 		position: relative;
-		left: -5px;
+		top: 35px;
+		margin-bottom: 70px;
+		text-align: justify;
 	}
+
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
-	#contactoRedes {
+	#listaRedes{
 		position: relative;
-		left: 95px;
+		top: 35px;
+		margin-bottom: 70px;
+		text-align: justify;
+	}
+	
+	#contactoRedes{
+		position: relative;
+		left: 75px;
+		margin-bottom: 70px;
+		text-align: justify;
 	}
 }
+
 
 @media (min-width: 768px) and (max-width: 991px) {
 	#contactoRedes {
@@ -2430,5 +2445,55 @@ ul li a.active
 		top: 25px;
 		left: 25px;
 		font-size: .75em;
+	}
+
+
+	.iconoCorreo{
+		height: .75em;
+		width: .75em;
+	}
+
+	.iconoWhats{
+		height: .75em;
+		width: .75em;
+	}
+
+	.iconoMapa{
+		height: .75em;
+		width: .75em;
+	}
+
+	.iconoSkype{
+		height: .75em;
+		width: .75em;
+	}
+	
+
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+	.iconoCorreo{
+		height: .75em;
+		width: .75em;
+	}
+
+	.iconoWhats{
+		height: .75em;
+		width: .75em;
+	}
+
+	.iconoMapa{
+		height: .75em;
+		width: .75em;
+	}
+
+	.iconoSkype{
+		height: .75em;
+		width: .75em;
+	}
+
+	#listaRedes{
+		position: absolute;
+		left: -5px;
 	}
 }
