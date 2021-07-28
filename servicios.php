@@ -432,14 +432,12 @@
 						name="mensaje" class="textarea"></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 
-					<div class="row">
-						<div class="btn__wrap__right mb-4"><br><br>
-							<input class="btn btn__orange btn__large font-weight-bold g-recaptcha"
-								data-sitekey="reCAPTCHA_site_key"  
-								data-action='submit'
-								type="button" value="enviar" id="post">
-						</div>
-
+					<div class="g-recaptcha mt-3 d-flex justify-content-center" data-sitekey="your_site_key">
+					</div>
+					<div class="d-flex justify-content-center mt-3 mb-4"><br><br>
+						<input class="btn btn__orange btn__large font-weight-bold"
+							data-action='submit'
+							type="button" value="enviar" id="post">
 					</div>
 				</form>
 			</div>

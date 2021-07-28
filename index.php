@@ -21,7 +21,8 @@
 			de la Informaci&oacute;n </br>para tu negocio y tu hogar.
 			Porque la tecnolog&iacute;a debe estar al alcance de todos.
 		</div>
-		<div class="btn__wrap__left  d-flex float-left btn_responsive">
+		<!--<div class="btn__wrap__left  d-flex float-left btn_responsive"> -->
+		<div class="d-flex justify-content-center justify-content-md-start">
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
 		</div>
 	</div>
