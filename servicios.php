@@ -467,8 +467,7 @@
 						</li>
 						<li class="mb-4">
 							<a href="https://g.page/surftware?share" class="linkContacto" target="_blank">
-								<i class="fa fa-map-marker fa-3x mr-4 iconoMapa"></i>&nbsp;Nte 84-A 6515. San Pedro el
-								Chico
+								<i class="fa fa-map-marker fa-3x mr-4 iconoMapa"></i>&nbsp;Nte 84-A 6515. San Pedro el Chico
 							</a>
 						</li>
 						<li class="mb-4">
