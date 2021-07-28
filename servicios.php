@@ -407,7 +407,7 @@
 		</div>
 		<div class="row">
 
-			<div class="col-md-4 wow bounceInRight ">
+			<div class="col-lg-4 col-md-6 wow bounceInRight ">
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
@@ -443,10 +443,10 @@
 			</div>
 
 
-			<div class="col-md-4 right_side  wow bounceInRight">
-				<div class="ml-5">
+			<div class="col-lg-4 col-md-6 right_side  wow bounceInRight">
+				<div class="ml-4" id="listaRedes">
 					<div class="text-center">
-						<div class="mt-4 mb-4 tituloRedesSociales">
+						<div class="mb-4 tituloRedesSociales">
 							Redes Sociales
 						</div>
 					</div>
@@ -454,32 +454,31 @@
 					<ul id="contactoRedes">
 						<li class="mt-5 mb-4">
 							<a href="mailto:contacto@surftware.com.mx" class="linkContacto">
-								<i class="fas fa-envelope fa-3x mr-3"></i>&nbsp;contacto@surftware.com.mx
+								<i class="fas fa-envelope fa-3x mr-3 iconoCorreo"></i>&nbsp;contacto@surftware.com.mx
 							</a>
 						</li>
 						<li class="mb-4">
 							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la p&aacute;gina web de SurftwareLanding"
 								class="linkContacto" target="_blank">
-								<i class="fab fa-whatsapp-square fa-3x mr-4"></i> 55-11-89-46-21
+								<i class="fab fa-whatsapp-square fa-3x mr-4 iconoWhats"></i> 55-11-89-46-21
 							</a>
 						</li>
 						<li class="mb-4">
 							<a href="https://g.page/surftware?share" class="linkContacto" target="_blank">
-								<i class="fa fa-map-marker fa-3x mr-4"></i>&nbsp;Nte 84-A 6515. San Pedro el
-								Chico
+								<i class="fa fa-map-marker fa-3x mr-4 iconoMapa"></i>&nbsp;Nte 84-A 6515. San Pedro el Chico
 							</a>
 						</li>
 						<li class="mb-4">
 							<a href="skype:arciniegasolano@outlook.com?chat" class="linkContacto">
-								<i class="fab fa-skype fa-3x mr-3"></i>&nbsp;arciniegasolano@outlook.com
+								<i class="fab fa-skype fa-3x mr-3 iconoSkype"></i>&nbsp;arciniegasolano@outlook.com
 							</a>
 						</li>
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-4 right_side  wow bounceInRight ">
+			<div class="col-lg-4 col-md-12 right_side  wow bounceInRight ">
 				<div class="text-center">
-					<img src="images/contacto-reparacion-computadoras.webp" class="rounded" alt="">
+					<img src="images/contacto-reparacion-computadoras.webp" class="rounded" id="imagenFormulario" alt="">
 				</div>
 			</div>
 		</div>
