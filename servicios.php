@@ -18,9 +18,13 @@
 		<div class="text_3">
 			M&aacute;s de 10 años ayudando a las personas y empresas a hacer m&aacute;s productivos sus recursos tecnol&oacute;gicos.
 		</div>
-		<div class="btn__wrap__left">
-			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
-			<a href=tutoriales.php class="btn btn__large btn__white_transparent">watch video</a>
+		<!-- <div class="d-flex flex-column flex-sm-row justify-content-md-start">
+			<div class="d-flex flex-wrap justify-content-center justify-content-md-start"> 
+			<div class="btn__wrap__left">
+				  -->
+		<div class="flex-wrap justify-content-center justify-content-md-start"> 
+			<a href="servicios.php#contacts" class="btn btn__large btn__orange mb-3 mr-3">Cont&aacute;ctanos</a>
+			<a href=tutoriales.php class="btn btn__large btn__white_transparent mb-3 mr-3">watch video</a>
 		</div>
 	</div>
 </div>
