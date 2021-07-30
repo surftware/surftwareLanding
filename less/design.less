@@ -264,7 +264,7 @@ body {
 	padding: 94px 0px 100px 0px;
 
 	@media screen and (max-width: 767px) {
-		padding: 50px 0px 50px 0px;
+		padding: 80px 0px 50px 0px;
 	}
 
 	&__title {
@@ -755,6 +755,12 @@ ul li a.active
 	border-radius: 80px;
     padding: 10px 10px 10px 10px;
 }
+
+ul li a ul li:hover
+{
+	display: block;
+}
+
 
 /* about */
 .about {
@@ -2235,6 +2241,10 @@ ul li a.active
 
 	}
 
+	.lf {
+		max-width: 40%;
+	}
+
 
 
 }
@@ -2419,6 +2429,14 @@ ul li a.active
 		margin-bottom: 70px;
 		text-align: justify;
 	}
+
+
+.btn__white_transparent {
+    background: @pink;
+    color: #fff;
+    -webkit-box-shadow: inset 0px 0px 0px 2px @pink;
+    box-shadow: inset 0px 0px 0px 2px @pink;
+}
 
 }
 
