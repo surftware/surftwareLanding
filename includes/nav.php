@@ -24,11 +24,12 @@
 									Chico</span>
 							</a>
 						</li>
-					</ul>
-					<div class="">
-
-						<span id="Mexico_City_z159" style="font-size:25px;color:gray"></span>
+					
+							
 						
+					</ul>
+					<span id="Mexico_City_z159"  class="reloj"></span>
+					<div class="">
 						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>
 						</a>
