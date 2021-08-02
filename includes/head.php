@@ -2,10 +2,22 @@
 <html lang="es">
 
 <head>
-    <title>Surftware | Diseño Web  y Soporte TI</title>
+    <title>Surftware | Diseño Web y Soporte TI</title>
 
     <!--Google  -->
     <meta name="google-site-verification" content="cfO3rUZZCzaARTIqrr4qfBmnUs_SavKQJyPKXOtTeDU" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-41H6MQZP6D"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-41H6MQZP6D');
+    </script>
 
     <!--favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
@@ -43,7 +55,7 @@
     <meta property="og:image" content="https://surftware.com.mx/images/creacion-paginas-web.png" />
     <meta property="og:image" content="https://surftware.com.mx/images/welcome.png" />
     -->
-    
+
 
     <!--Twitter Meta  -->
     <meta name="twitter:card" content="summary_large_image">
@@ -66,6 +78,6 @@
     <link rel="stylesheet" href="css/owl.carousel.css" />
 
     <link rel="stylesheet" href="css/animate.css" />
-    
+
 
 </head>
