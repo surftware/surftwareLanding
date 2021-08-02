@@ -24,16 +24,20 @@
 							</a>
 						</li>
 					</ul>
+
 					<div class="">
-						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
+						<a href="https://www.facebook.com/AnDmanDo/" class="ml-2" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>
 						</a>
-						<a href="skype:arciniegasolano@outlook.com?chat" target="_blank">
+						<a href="skype:arciniegasolano@outlook.com?chat" class="ml-2" target="_blank">
 							<i class="iconSocial fab fa-skype"></i>
 						</a>
 						</a>
-						<a href="https://github.com/surftware" target="_blank">
+						<a href="https://github.com/surftware" class="ml-2" target="_blank">
 							<i class="iconSocial fab fa-github"></i>
+						</a>
+						<a href="https://www.youtube.com/channel/UCypFkhppX2lRgnSVaLux81A" class="ml-2" target="_blank">
+							<i class="iconSocial fab fa-youtube"></i>
 						</a>
 					</div>
 				</div>
@@ -62,7 +66,7 @@
 							</li>
 						</ul>
 						<div class="btn__wrap__center">
-							<a href="servicios.php#contacts" class="btn btn__medium btn__blue">Contáctanos!</a>
+							<a href="servicios.php#contacts" class="btn btn__medium btn__blue" >Contáctanos!</a>
 						</div>
 					</div>
 					<div class="menu_toggle">
@@ -79,12 +83,11 @@
 						<a href="servicios.php#">Servicios</a>
 					</li>
 					<li>
-						<a class="sub">Tutoriales</a>
+						<a class="sub"> <i class="fas fa-sort-down"></i>&nbsp;Tutoriales</a>
 						<ul>
-							<li><a href="tutoriales.php#QGIS">Tutorial QGIS 3.10</a></li>
-							<li><a href="tutoriales.php#MAC">Instalación de W10 en Mac</a></li>
-							<li><a href="tutoriales.php#LED">Construye tu lámpara LED</a></li>
-
+							<li><a href="tutoriales.php#QGIS"> <i class="fas fa-play-circle"></i>&nbsp; Tutorial QGIS 3.10</a></li>
+							<li><a href="tutoriales.php#MAC"> <i class="fas fa-play-circle"></i>&nbsp; Instalación de W10 en Mac</a></li>
+							<li><a href="tutoriales.php#LED"> <i class="fas fa-play-circle"></i>&nbsp; Construye tu lámpara LED</a></li>
 						</ul>
 					</li>
 				</ul>

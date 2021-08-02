@@ -462,7 +462,7 @@
 							</a>
 						</li>
 						<li class="mb-4">
-							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la p&aacute;gina web de SurftwareLanding"
+							<a href="https://web.whatsapp.com/send?phone=525511894621&amp;text=+Requiero+m%C3%A1s+informaci%C3%B3n+de+Surftware&amp;app_absent=0 text= Requiero más información de Surftware"
 								class="linkContacto" target="_blank">
 								<i class="fab fa-whatsapp-square fa-3x mr-4 iconoWhats"></i> 55-11-89-46-21
 							</a>
@@ -477,11 +477,9 @@
 								<i class="fab fa-skype fa-3x mr-3 iconoSkype"></i>&nbsp;arciniegasolano@outlook.com
 							</a>
 						</li>
-						<!-- borrar este boton -->
-						<li>
-							<a href="https://web.whatsapp.com/send?phone=525511894621&amp;text=+Requiero+m%C3%A1s+informaci%C3%B3n+de+Surftware&amp;app_absent=0 text= Requiero más información de Surftware" target="_blank">
-								<img class=" " src="assets/whatsapp.png">
-								<span> 55-11-89-46-21 </span>
+						<li class="mb-4">
+							<a href="https://www.youtube.com/channel/UCypFkhppX2lRgnSVaLux81A" class="linkContacto" target="_blank">
+								<i class="fab fa-youtube fa-3x mr-3 iconoyoutube"></i> YouTube
 							</a>
 						</li>
 					</ul>
