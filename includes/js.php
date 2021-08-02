@@ -1,3 +1,16 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-41H6MQZP6D"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'G-41H6MQZP6D');
+</script>
+
+
 <!-- custom script -->
 <script src="js/main.js"></script>
 
@@ -43,14 +56,25 @@
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 <!-- Script para el funcionamiento del navbar -->
-<script type="text/javascript">  
+<script type="text/javascript">
 	const currentLocation = location.href;
 	const menuItem = document.querySelectorAll('a');
 	const menuLength = menuItem.length
-	for(let i = 0; i<menuLength; i++)
-	{
-		if(menuItem[i].href ===currentLocation){
-			menuItem[i].className ='active'
+	for (let i = 0; i < menuLength; i++) {
+		if (menuItem[i].href === currentLocation) {
+			menuItem[i].className = 'active'
 		}
-	} 
+	}
+</script>
+
+<!-- Script reloj -->
+
+<script src="//widget.time.is/es.js"></script>
+<script>
+	time_is_widget.init({
+		Mexico_City_z159: {
+			template: "DATE",
+			date_format: "dayname daynum monthname year"
+		}
+	});
 </script>

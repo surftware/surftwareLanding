@@ -7,7 +7,8 @@
 					<ul class="info">
 						<li>
 							<a href="mailto:contacto@surftware.com.mx">
-								<i class="fa fa-envelope"></i><span class="text-white ml-2">contacto@surftware.com.mx</span>
+								<i class="fa fa-envelope"></i><span
+									class="text-white ml-2">contacto@surftware.com.mx</span>
 							</a>
 						</li>
 						<li>
@@ -23,8 +24,11 @@
 									Chico</span>
 							</a>
 						</li>
+					
+							
+						
 					</ul>
-
+					<!-- <span id="Mexico_City_z159"  class="reloj"></span> -->
 					<div class="">
 						<a href="https://www.facebook.com/AnDmanDo/" class="ml-2" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>
@@ -42,6 +46,14 @@
 					</div>
 				</div>
 			</div>
+
+
+
+
+
+
+
+
 			<div class="header__bottom">
 				<div class="center">
 					<a href="index.php" class="logo">
@@ -57,12 +69,15 @@
 							</li>
 							<li>
 								<a href="tutoriales.php">Tutoriales&nbsp;<i class="fas fa-sort-down"></i></a>
-									<ul>
-										<li><a href="tutoriales.php#QGIS"><i class="fas fa-play-circle"></i>&nbsp;Tutorial QGIS 3.10</a></li>
-										<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalación de W10 en Mac</a></li>
-										<li><a href="tutoriales.php#LED"><i class="fas fa-play-circle"></i>&nbsp;Construye tu lámpara LED</a></li>
-									</ul>
-								</li>
+								<ul>
+									<li><a href="tutoriales.php#QGIS"><i class="fas fa-play-circle"></i>&nbsp;Tutorial
+											QGIS 3.10</a></li>
+									<li><a href="tutoriales.php#MAC"><i class="fas fa-play-circle"></i>&nbsp;Instalación
+											de W10 en Mac</a></li>
+									<li><a href="tutoriales.php#LED"><i class="fas fa-play-circle"></i>&nbsp;Construye
+											tu lámpara LED</a></li>
+								</ul>
+							</li>
 							</li>
 						</ul>
 						<div class="btn__wrap__center">
