@@ -1,3 +1,16 @@
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-41H6MQZP6D"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'G-41H6MQZP6D');
+</script>
+
+
 <!-- custom script -->
 <script src="js/main.js"></script>
 

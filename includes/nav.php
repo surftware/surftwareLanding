@@ -28,7 +28,7 @@
 							
 						
 					</ul>
-					<span id="Mexico_City_z159"  class="reloj"></span>
+					<!-- <span id="Mexico_City_z159"  class="reloj"></span> -->
 					<div class="">
 						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>

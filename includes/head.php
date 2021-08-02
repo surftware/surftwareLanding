@@ -7,17 +7,7 @@
     <!--Google  -->
     <meta name="google-site-verification" content="cfO3rUZZCzaARTIqrr4qfBmnUs_SavKQJyPKXOtTeDU" />
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-41H6MQZP6D"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-41H6MQZP6D');
-    </script>
+   
 
     <!--favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
