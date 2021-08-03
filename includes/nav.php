@@ -25,7 +25,7 @@
 						</li>
 					</ul>
 					<div class="">
-						<a href="https://www.facebook.com/AnDmanDo/" target="_blank">
+						<a href="https://www.facebook.com/arciniegaarmando" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>
 						</a>
 						<a href="skype:arciniegasolano@outlook.com?chat" target="_blank">
