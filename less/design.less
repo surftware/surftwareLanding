@@ -175,7 +175,7 @@ body {
 		.text_3 {
 			font-size: 16px;
 			line-height: 22px;
-			margin-bottom: 30px;
+			margin-bottom: 20px;
 			font-family: 'Lato',sans-serif;
 		}
 	}
@@ -2233,10 +2233,14 @@ ul li a.active
 
 }
 
-@media (min-width: 0px) and (max-width: 425px) {
+@media (min-width: 0px) and (max-width: 375px) {
 
 	.welcome {
-		height: 600px;
+		height: 535px;
+	}
+
+	.welcome__services {
+		height: 620px;
 	}
 
 	.posicion-texto {
@@ -2254,15 +2258,40 @@ ul li a.active
 	.lf {
 		max-width: 40%;
 	}
+}
 
+@media (min-width:376px) and (max-width:424px)
+{
 
+	.welcome {
+		height: 540px;
+	}
 
+	.posicion-texto {
+		position: relative;
+		top: 4%;
+		font-family: 'Varela Round', sans-serif;
+		color: @black;
+	}
+
+	.btn_responsive {
+		text-align: center !important;
+
+	}
+
+	.lf {
+		max-width: 40%;
+	}
 }
 
 @media (min-width: 425px) and (max-width: 575px) {
 
 	.welcome {
-		height: 640px;
+		height: 565px;
+	}
+
+	.welcome__services {
+		height: 620px;
 	}
 
 	.posicion-texto {
@@ -2291,7 +2320,7 @@ ul li a.active
 	}
 
 	.welcome {
-		height: 480px;
+		height: 340px;
 	}
 
 	.posicion-texto {
@@ -2360,7 +2389,7 @@ ul li a.active
 @media (min-width: 768px) and (max-width: 900px) {
 
 	.welcome {
-		height: 520px;
+		height: 490px;
 	}
 
 	.posicion-texto {
@@ -2431,7 +2460,7 @@ ul li a.active
 	}
 	
 	.block {
-		padding: 60px 0px 50px 0px;
+		padding: 50px 0px 50px 0px;
 	}
 }
 

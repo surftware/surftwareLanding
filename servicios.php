@@ -5,7 +5,7 @@
 	  
 ?>
 
-<div class="welcome">
+<div class="welcome__services">
 	<figure class="wow fadeInLeft">
 		<img src="images/reparacion-computadoras1.webp" alt="">
 	</figure>
