@@ -3,7 +3,7 @@
 	include ("includes/head.php"); 	 
 	include ("includes/nav.php");
 	  
- ?>
+?>
 
 <div class="welcome">
 
