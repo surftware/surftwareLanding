@@ -5,7 +5,7 @@
 	  
 ?>
 
-<div class="welcome">
+<div class="welcome__services">
 	<figure class="wow fadeInLeft">
 		<img src="images/reparacion-computadoras1.webp" alt="">
 	</figure>
@@ -18,9 +18,13 @@
 		<div class="text_3">
 			M&aacute;s de 10 años ayudando a las personas y empresas a hacer m&aacute;s productivos sus recursos tecnol&oacute;gicos.
 		</div>
-		<div class="btn__wrap__left">
-			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
-			<a href=tutoriales.php class="btn btn__large btn__white_transparent">watch video</a>
+		<!-- <div class="d-flex flex-column flex-sm-row justify-content-md-start">
+			<div class="d-flex flex-wrap justify-content-center justify-content-md-start"> 
+			<div class="btn__wrap__left">
+				  -->
+		<div class="flex-wrap justify-content-center justify-content-md-start"> 
+			<a href="servicios.php#contacts" class="btn btn__large btn__orange mb-3 mr-3">Cont&aacute;ctanos</a>
+			<a href=tutoriales.php class="btn btn__large btn__white_transparent mb-3 mr-3">watch video</a>
 		</div>
 	</div>
 </div>
@@ -458,7 +462,7 @@
 							</a>
 						</li>
 						<li class="mb-4">
-							<a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, te contacto desde la p&aacute;gina web de SurftwareLanding"
+							<a href="https://web.whatsapp.com/send?phone=525511894621&amp;text=+Requiero+m%C3%A1s+informaci%C3%B3n+de+Surftware&amp;app_absent=0 text= Requiero más información de Surftware"
 								class="linkContacto" target="_blank">
 								<i class="fab fa-whatsapp-square fa-3x mr-4 iconoWhats"></i> 55-11-89-46-21
 							</a>
@@ -471,6 +475,11 @@
 						<li class="mb-4">
 							<a href="skype:arciniegasolano@outlook.com?chat" class="linkContacto">
 								<i class="fab fa-skype fa-3x mr-3 iconoSkype"></i>&nbsp;arciniegasolano@outlook.com
+							</a>
+						</li>
+						<li class="mb-4">
+							<a href="https://www.youtube.com/channel/UCypFkhppX2lRgnSVaLux81A" class="linkContacto" target="_blank">
+								<i class="fab fa-youtube fa-3x mr-3 iconoyoutube"></i> YouTube
 							</a>
 						</li>
 					</ul>

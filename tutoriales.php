@@ -19,7 +19,7 @@
 			de la Informaci&oacute;n para tu negocio y tu hogar.</br>
 			Porque la tecnolog&iacute;a debe estar al alcance de todos
 		</div>
-		<div class="btn__wrap__left">
+		<div class="d-flex justify-content-center justify-content-md-start">
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
 		</div>
 	</div>
