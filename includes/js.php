@@ -45,7 +45,7 @@
 <!-- Recaptcha V2-->
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
-<!-- Script para el funcionamiento del navbar -->
+<!-- Script para el funcionamiento del navbar-->
 <script type="text/javascript">
 	const currentLocation = location.href;
 	const menuItem = document.querySelectorAll('a');
@@ -56,6 +56,7 @@
 		}
 	}
 </script>
+ 
 
 <!-- Script reloj -->
 
