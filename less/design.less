@@ -116,7 +116,7 @@ body {
 }
 
 .welcome__services {
-	height: 900px;
+	height: 800px;
 }
 
 
@@ -169,6 +169,7 @@ body {
 		.text_1 {
 			font-family: 'Varela Round',sans-serif;
 			font-size: 40px;
+			margin-top: -7px;
 		}
 
 		.text_2 {
@@ -182,6 +183,53 @@ body {
 			margin-bottom: 20px;
 			font-family: 'Lato',sans-serif;
 		}
+	}
+
+	@media screen and (max-width:575px)
+	{
+		padding: 20px 0px 50px 0px;
+		text-align: center;
+
+		.text_1 {
+			font-family: 'Varela Round',sans-serif;
+			font-size: 40px;
+			margin-top: -20px;
+		}
+
+		.text_2 {
+			font-family: 'Varela Round',sans-serif;
+			font-size: 24px;
+		}
+
+		.text_3 {
+			font-size: 16px;
+			line-height: 22px;
+			margin-bottom: 20px;
+			font-family: 'Lato',sans-serif;
+		}
+	}
+
+	@media screen and (max-width:425px) {
+		padding: 20px 0px 50px 0px;
+		text-align: center;
+
+		.text_1 {
+			font-family: 'Varela Round',sans-serif;
+			font-size: 40px;
+		}
+
+		.text_2 {
+			font-family: 'Varela Round',sans-serif;
+			font-size: 24px;
+		}
+
+		.text_3 {
+			font-size: 16px;
+			line-height: 22px;
+			margin-bottom: 20px;
+			font-family: 'Lato',sans-serif;
+		}
+	
 	}
 
 
@@ -785,7 +833,27 @@ ul li a.active
 			.block__title {
 				text-align: left;
 
-				@media screen and (max-width: 767px) {
+				@media screen and (max-width: 903px) {
+					text-align: center;
+					margin-top: 100px;
+				}
+
+				@media screen and (max-width: 750px) {
+					text-align: center;
+					margin-top: 80px;
+				}
+
+				@media screen and (max-width: 653px) {
+					text-align: center;
+					margin-top: 28px;
+				}
+
+				@media screen and (max-width:520px) {
+					text-align: center;
+					margin-top: 20px;
+				}
+
+				@media screen and (max-width:425px) {
 					text-align: center;
 				}
 			}
@@ -2272,6 +2340,10 @@ ul li a.active
 		height: 540px;
 	}
 
+	.welcome__services {
+		height: 620px;
+	}
+
 	.posicion-texto {
 		position: relative;
 		top: 4%;
@@ -2296,17 +2368,17 @@ ul li a.active
 	}
 
 	.welcome__services {
-		height: 620px;
+		height: 590px;
 	}
 
 	.posicion-texto {
 		position: relative;
-		top: 3%;
+		top: 1%;
 		color: black;
 	}
 }
 
-@media (min-width: 576px) and (max-width: 767px) {
+@media (min-width: 576px) and (max-width: 667px) {
 	.icono {
 		width: 45px !important;
 		height: 45px;
@@ -2330,14 +2402,28 @@ ul li a.active
 
 	.welcome__services
 	{
-		height: 340px;
+		height: 370px;
 	}
 
 	.posicion-texto {
 		position: absolute;
-		top: 20%;
+		top: 35%;
 	}
 }
+
+@media (min-width: 668px) and (max-width: 768px){
+	.welcome__services
+	{
+		height: 430px;
+	}
+
+	.posicion-texto {
+		position: absolute;
+		top: 35%;
+	}
+}
+
+
 
 /*
 .redes-flotantes img {
