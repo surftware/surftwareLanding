@@ -8,7 +8,7 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/surftware.webp" alt="">
 	</figure>
-	<div class="textEncimado  wow slideInLeft posicion-texto">
+	<div class="textEncimado  wow slideInLeft posicion-texto posicion-texto-tutorial">
 		<div class="text_1">
 			Surfware
 		</div>
