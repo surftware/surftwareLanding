@@ -21,6 +21,11 @@
         gtag('config', 'G-41H6MQZP6D');
     </script>
 
+    <!--Google  AdSense-->
+
+    <script data-ad-client="ca-pub-4062963371520467" async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 
     <!--favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
