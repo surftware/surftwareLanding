@@ -9,14 +9,15 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/reparacion-computadoras1.webp" alt="">
 	</figure>
+	<div class="text-back-serv"> </div>
 	<div class="textEncimado  wow slideInLeft posicion-texto">
 		<div class="text_1">
 			Servicios
 		</div>
 		<div class="text_2">
-			Surftware provee productos y servicios profesionales de alta calidad.</div>
+			Surftware provee productos y servicios <br> profesionales de alta calidad.</div>
 		<div class="text_3">
-			M&aacute;s de 10 años ayudando a las personas y empresas a hacer m&aacute;s productivos sus recursos tecnol&oacute;gicos.
+			M&aacute;s de 10 años ayudando a las personas y empresas a hacer m&aacute;s <br> productivos sus recursos tecnol&oacute;gicos.
 		</div>
 		<!-- <div class="d-flex flex-column flex-sm-row justify-content-md-start">
 			<div class="d-flex flex-wrap justify-content-center justify-content-md-start"> 
