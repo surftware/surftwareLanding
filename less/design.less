@@ -2438,6 +2438,38 @@ ul li a.active
 	}
 }
 
+.text-back{
+	background-color:@color6;
+	height: 255px;
+	width: 657px;
+	position: absolute;
+	top: 35%;
+	left: 4%;
+	border-radius: 15px;
+}
+
+.text-back-serv{
+	background-color:@color6;
+	height: 280px;
+	width: 600px;
+	position: absolute;
+	top: 35%;
+	left: 4%;
+	border-radius: 15px;
+}
+
+
+@media (min-width:0px) and (max-width:575px){
+	
+	.text-back{
+		display: none;
+	}
+
+	.text-back-serv{
+		display: none;
+	}
+}
+
 @media (min-width: 576px) and (max-width: 680px){
 
 	.text-back{
@@ -2483,7 +2515,7 @@ ul li a.active
 	}
 }
 
-@media (min-width: 768px)
+@media (min-width: 768px) and (max-width:768px)
 {
 	.text-back{
 		background-color:@color6;
@@ -2616,7 +2648,7 @@ ul li a.active
 		left: 4%;
 		border-radius: 15px;
 	}
-}
+}	
 
 @media (min-width: 681px) and (max-width: 810px) {
 	.reloj{
