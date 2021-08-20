@@ -8,6 +8,7 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/surftware.webp" alt="">
 	</figure>
+	<div class="text-back-tutorial"></div>
 	<div class="textEncimado  wow slideInLeft posicion-texto posicion-texto-tutorial">
 		<div class="text_1">
 			Surfware
@@ -16,7 +17,7 @@
 			Servicios TI a tu medida </div>
 		<div class="text_3">
 			Ofrecemos soluciones en Tecnolog&iacute;as
-			de la Informaci&oacute;n para tu negocio y tu hogar.</br>
+			de la Informaci&oacute;n <br>para tu negocio y tu hogar.</br>
 			Porque la tecnolog&iacute;a debe estar al alcance de todos
 		</div>
 		<div class="d-flex justify-content-center justify-content-md-start">
