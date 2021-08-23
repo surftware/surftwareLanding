@@ -119,11 +119,10 @@ body {
 	height: 820px;
 }
 
-
 .textEncimado {
-	position: relative;
+	position: absolute;
 	z-index: 2;
-	bottom: 700px;
+	top: 140px;
 	margin-left: 5%;
 	color: @white;
 
@@ -2442,8 +2441,8 @@ ul li a.active
 	background-color:@color6;
 	height: 255px;
 	width: 657px;
-	position: absolute;
-	top: 35%;
+	position: relative;
+	top: -89%;
 	left: 4%;
 	border-radius: 15px;
 }
@@ -2696,10 +2695,10 @@ ul li a.active
 @media (min-width: 1251px) and (max-width: 1300px){
 	.text-back{
 		background-color:@color6;
-		height: 285px;
+		height: 255px;
 		width: 657px;
 		position: absolute;
-		top: 42%;
+		top: 35%;
 		left: 4%;
 		border-radius: 15px;
 	}
@@ -2732,7 +2731,7 @@ ul li a.active
 		height: 272px;
 		width: 657px;
 		position: absolute;
-		top: 54%;
+		top: 35%;
 		left: 4%;
 		border-radius: 15px;
 	}
@@ -2874,7 +2873,7 @@ ul li a.active
 
 	.posicion-texto {
 		position: absolute;
-		//top: 5%
+		top: 53%
 	}
 
 	.posicion-texto-tutorial {
@@ -2925,8 +2924,14 @@ ul li a.active
 
 }
 
-@media (min-width:1201px) and (max-width:1320px)
+@media (min-width:1201px) and (max-width:1370px)
 {
+
+	.posicion-texto {
+		position: absolute;
+		top: 35%
+	}
+
 	.posicion-texto-tutorial {
 		position: absolute;
 		top: 35%
