@@ -8,7 +8,6 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/surftware.webp" alt="">
 	</figure>
-	<div class="text-back-tutorial"></div>
 	<div class="textEncimado  wow slideInLeft posicion-texto posicion-texto-tutorial">
 		<div class="text_1">
 			Surfware
@@ -24,6 +23,7 @@
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
 		</div>
 	</div>
+	<div class="text-back-tutorial"></div>
 </div>
 
 <div class="">

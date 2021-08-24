@@ -9,7 +9,6 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/reparacion-computadoras1.webp" alt="">
 	</figure>
-	<div class="text-back-serv"> </div>
 	<div class="textEncimado  wow slideInLeft posicion-texto">
 		<div class="text_1">
 			Servicios
@@ -28,6 +27,7 @@
 			<a href=tutoriales.php class="btn btn__large btn__white_transparent mb-3 mr-3">watch video</a>
 		</div>
 	</div>
+	<div class="text-back-serv"> </div>
 </div>
 
 <div class="block services" id="services">
