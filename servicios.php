@@ -437,7 +437,7 @@
 						name="mensaje" class="textarea"></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 
-					<div class="g-recaptcha mt-3 d-flex justify-content-center" data-sitekey="your_site_key">
+					<div class="g-recaptcha mt-3 d-flex justify-content-center" data-sitekey="6LfwDCQcAAAAAIOPoOWO0fi_77rZgeSGTE3XeESS">
 					</div>
 					<div class="d-flex justify-content-center mt-3 mb-4"><br><br>
 						<input class="btn btn__orange btn__large font-weight-bold"
