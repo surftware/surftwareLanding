@@ -10,7 +10,7 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/welcome.webp" alt="">
 	</figure>
-	<div class="textEncimado wow slideInLeft posicion-texto">
+	<div class="textEncimado wow slideInLeft posicion-texto text-center">
 		<div class="text_1">
 			Surftware
 		</div>
