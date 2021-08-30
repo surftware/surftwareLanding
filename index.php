@@ -10,7 +10,7 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/welcome.webp" alt="">
 	</figure>
-	<div class="textEncimado wow slideInLeft posicion-texto">
+	<div class="textEncimado wow slideInLeft posicion-texto text-center">
 		<div class="text_1">
 			Surftware
 		</div>
@@ -26,7 +26,7 @@
 			<a href="servicios.php#contacts" class="btn btn__large btn__orange">Cont&aacute;ctanos</a>
 		</div>
 	</div>
-
+	<div class="text-back"> </div>
 </div>
 
 <div class="">
