@@ -29,7 +29,7 @@
 						
 					</ul>
 					<span id="Mexico_City_z159"  class="reloj"></span>
-					<div class="">
+					<div class="d-flex justify-content-end">
 						<a href="https://www.facebook.com/arciniegaarmando" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>
 						</a>
