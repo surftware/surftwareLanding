@@ -9,7 +9,7 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/reparacion-computadoras1.webp" alt="">
 	</figure>
-	<div class="textEncimado  wow slideInLeft posicion-texto text-center">
+	<div class="textEncimado  wow slideInLeft posicion-texto text-center mt-3">
 		<div class="text_1">
 			Servicios
 		</div>
