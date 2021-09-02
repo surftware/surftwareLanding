@@ -233,8 +233,10 @@
 	</div>
 </div>
 
-
 <div class="block faq" id="faq">
+	<div class="block__title--soporte wow bounceIn">
+		¿Cómo solicitar soporte?
+	</div>
 	<div class="center">
 		<div class="item__list  wow fadeInUp" data-wow-delay="0.2s">
 			<div class="item">
@@ -248,15 +250,49 @@
 									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
 						</g>
 					</svg>
-					Why do I need a marketing plan?
+					1 - Instalar Anydesk&reg;
 				</div>
 				<div class="item__descr">
 					<div class="article">
 						<div class="descr">
 							<p>
-								Is the science of adjusting a website’s code, content and structure to make it
-								visible on a search engine result page for particular keywords or combinations of
-								keywords.
+							Un software de alto rendimiento para la asistencia y el soporte remoto.
+							</p>
+							<p>
+							Conéctese a un ordenador de forma remota desde el otro extremo de la oficina o desde cualquier 
+							parte del mundo. Gracias a AnyDesk, contará con conexiones seguras y fiables de escritorio remoto 
+							para profesionales informáticos y usuarios en movimiento.
+							</p>
+							<p>
+								<a href="https://anydesk.com/es/downloads/windows" target="_blank">Descargar AnyDesk para Windows</a>
+							</p>
+							<p>
+								<a href="https://anydesk.com/es/downloads/linux" target="_blank">Descargar AnyDesk para Linux</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item">
+				<div class="item__title">
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+						x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
+						style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
+						<g>
+							<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
+									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
+									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
+						</g>
+					</svg>
+					2 - Contáctanos mediante Facebook o Whatsapp
+				</div>
+				<div class="item__descr">
+					<div class="article">
+						<div class="descr">
+							<p>
+								Puedes mandarnos mensaje directamente por 
+								<a href="https://web.whatsapp.com/send?phone=525511894621&amp;text=+Requiero+m%C3%A1s+informaci%C3%B3n+de+Surftware&amp;app_absent=0 text= Requiero más información de Surftware"
+								target="_blank"> Whatsapp </a> o bien por <a href="https://www.facebook.com/arciniegaarmando" target="_blank"> Facebook </a> y en breve te responderemos.
 							</p>
 
 						</div>
@@ -274,43 +310,12 @@
 									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
 						</g>
 					</svg>
-					Why do I need to market my business online?
+					3 - Proporcionanos tu id de Anydesk y acepta nuestro acceso
 				</div>
 				<div class="item__descr">
 					<div class="article">
 						<div class="descr">
-							<p>
-								Is the science of adjusting a website’s code, content and structure to make it
-								visible on a search engine result page for particular keywords or combinations of
-								keywords.
-							</p>
-
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="item">
-				<div class="item__title">
-					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-						x="0px" y="0px" width="451.847px" height="451.846px" viewBox="0 0 451.847 451.846"
-						style="enable-background:new 0 0 451.847 451.846;" xml:space="preserve">
-						<g>
-							<path d="M248.292,106.406l194.281,194.29c12.365,12.359,12.365,32.391,0,44.744c-12.354,12.354-32.391,12.354-44.744,0
-									L225.923,173.529L54.018,345.44c-12.36,12.354-32.395,12.354-44.748,0c-12.359-12.354-12.359-32.391,0-44.75L203.554,106.4
-									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
-						</g>
-					</svg>
-					How long does it take to see the results?
-				</div>
-				<div class="item__descr">
-					<div class="article">
-						<div class="descr">
-							<p>
-								Is the science of adjusting a website’s code, content and structure to make it
-								visible on a search engine result page for particular keywords or combinations of
-								keywords.
-							</p>
-
+							<img src="images/AnyDesk.png" class="border-img" alt="">
 						</div>
 					</div>
 				</div>
@@ -328,7 +333,7 @@
 									c6.18-6.174,14.271-9.259,22.369-9.259C234.018,97.141,242.115,100.232,248.292,106.406z" />
 						</g>
 					</svg>
-					What is PPC?
+					4 - Observa como nuestro técnico da soporte a tu equipo
 				</div>
 				<div class="item__descr">
 					<div class="article">
