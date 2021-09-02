@@ -1,0 +1,1787 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<!-- Basic -->
+		<meta charset="utf-8">
+		<title>EZY - Responsive HTML5 Template - Documentation</title>		
+		<meta name="keywords" content="HTML5 Template" />
+		<meta name="description" content="EZY - Responsive HTML5 Template - Documentation">
+		<meta name="author" content="okler.net">
+
+		<!-- Mobile Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Web Fonts  -->
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet" type="text/css">
+
+		<!-- Vendor CSS -->
+		<link rel="stylesheet" href="assets/vendor/bootstrap/bootstrap.css">
+		<link rel="stylesheet" href="assets/vendor/fontawesome/css/font-awesome.css">
+
+		<!-- Theme CSS -->
+		<link rel="stylesheet" href="assets/css/docs.css">
+
+	</head>
+	<body data-spy="scroll" data-target=".nav-docs" data-offset="50">
+
+		<header>
+			<nav class="navbar navbar-default navbar-fixed-top">
+				<div class="container-full">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<div class="top">
+							<ul>
+								<li>
+									<img class="logo" height="30" src="assets/img/logo.png" alt="EZY">
+								</li>
+								<li>
+									<span>Version: <strong class="version">@@version</strong></span>
+								</li>
+								<li class="hidden-xs">
+									<span>Created: <strong><i class="fa fa-calendar"></i> 04/13/2018</strong></span>
+								</li>
+								<li class="hidden-xs">
+									<span>Latest Update: <strong><i class="fa fa-calendar"></i> @@timestamp</strong></span>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div id="navbar" class="navbar-collapse collapse">
+						<ul class="nav navbar-nav navbar-right">
+							<li><a target="_blank" href="http://www.okler.net/forums/forums/template-ezy/faqs/">FAQ's</a></li>
+							<li><a target="_blank" href="http://www.okler.net/open-a-ticket/">Open a Ticket</a></li>
+							<li><a target="_blank" href="http://themeforest.net/user/Okler#contact">Contact Us</a></li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+			
+			<div class="jumbotron">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 col-md-offset-2 logo-main">
+							<img src="assets/img/logo-main.png" alt="EZY">
+						</div>
+						<div class="col-md-4 col-md-offset-1">
+							<h1>Documentation</h1>
+							<ul>
+								<li>
+									<span>Version: <strong class="version">@@version</strong></span>
+								</li>
+								<li>
+									<span>Created: <strong><i class="fa fa-calendar"></i> 04/13/2018</strong></span>
+								</li>
+								<li>
+									<span>Latest Update: <strong><i class="fa fa-calendar"></i> @@timestamp</strong></span>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 center">
+							<p class="lead">Thank you for purchasing EZY on ThemeForest. <br> If you have any questions that are beyond the scope of this help file, please feel free to email via our user page contact form or to our support forum at <a target="_blank" href="http://www.okler.net/">http://www.okler.net.</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<aside id="sidebar" class="sidebar">
+			<div class="nav-docs">
+				<ul class="nav nav-pills nav-stacked">
+					<li><a href="#tips">Tips</a></li>
+					<li><a href="#files_structure">Files Structure</a></li>
+					<li><a href="#javascript">Javascript</a></li>
+					<li><a href="#html_structure">HTML Structure</a></li>
+					<li><a href="#css_structure">CSS Structure</a></li>
+					<li><a href="#customization_styles">Customization &amp; Styles</a></li>
+					<li><a href="#skin">Skin</a></li>
+					<li><a href="#RTL">RTL</a></li>
+					<li><a href="#icons">Icons</a></li>
+					<li><a href="#lightbox">Lightbox</a></li>
+					<li><a href="#video_background">Video Background</a></li>
+					<li><a href="#newsletter">Newsletter</a></li>
+					<li><a href="#twitter_feed">Twitter Feed</a></li>
+					<li><a href="#instagram_feed">Instagram Feed</a></li>
+					<li><a href="#google_maps">Google Maps</a></li>
+					<li><a href="#contactform">Contact Form</a></li>
+					<li><a href="#contactformty">Contact Form - Thank you page</a></li>
+					<li><a href="#googlerecaptcha">Google Recaptcha</a></li>
+					<li><a href="#effects">Effects</a></li>
+					<li><a href="#credits">Credits</a></li>
+					<li><a href="#changelog">Changelog</a></li>
+				</ul>
+			</div>
+		</aside>
+		<div id="main" class="main">
+
+			<section id="tips">
+				<h2>Tips</h2>
+				<div class="alert alert-tip push-top" role="alert">Most of the questions are already answered in the FAQ's: <a target="_blank" href="http://www.okler.net/forums/forums/template-ezy/faqs/">http://www.okler.net/forums/forums/template-ezy/faqs/</a></div>
+				<div class="alert alert-tip" role="alert"><strong>Due to local security restrictions, some things will not work locally, especially in Chrome. But everything will work once the files have been uploaded to your website/server.</strong></div>
+				<div class="alert alert-tip" role="alert">Use Firebug or Chrome Developer Tools.</div>
+				<div class="alert alert-tip" role="alert">Do not start from scratch, use an existing page from the demo and modify it to learn how it works.</div>
+				<div class="alert alert-tip" role="alert">Getting an error message? Someone might have seen it too, try a google search for a quick fix.</div>
+				<div class="alert alert-tip" role="alert">Explore the live demo for pages ideas and sample code.</div>
+			</section>
+
+			<section id="files_structure">
+				<h2>Files Structure</h2>
+				<ul>
+					<li><code>/ajax</code> (Ajax files)</li>
+					<li>
+						<code>/css</code> (Template CSS)</li>
+						<ul>
+							<li><code>/demos</code> (Demos CSSs)</li>
+							<li><code>/fonts</code> (Font Faces)</li>
+							<li>
+								<code>/skins</code>
+								<ul>
+									<li><code>default.css</code></li>
+									<li><code>...</code> (Create your own skin)</li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><code>/img</code> (All Images)</li>
+					<li>
+						<code>/js</code> (Template JS)</li>
+						<ul>
+							<li><code>/demos</code> (JS to run in specific demos)</li>
+							<li><code>/examples</code> (JS to run specific features. I.E: Instafeed, Ajax, etc)</li>
+							<li><code>/views</code> (JS to run in specific pages. I.E: Contact Us)</li>
+						</ul>
+					</li>
+					<li><code>/master</code> (You don't need to include that folder in your project, it has only the Style Switcher functions)</li>
+					<li><code>/php</code> (PHP Helpers - I.E: Contact Us form.)</li>
+					<li><code>/vendor</code> (All external libs. We keep all of them in this folder to make updates easily.)</li>
+					<li><code>/video</code> (All Videos)</li>
+				</ul>
+			</section>
+
+			<section id="javascript">
+				<h2>Javascript</h2>
+
+				<p>It's possible to change the JS settings by extending the defaults from the template, that way is so much easier to update the theme changing only one JS file.<br>Here are a few samples on how to do that:</p><br>
+
+				<h4>Changing Settings</h4><br>
+
+				1) <strong>Changing the "scroll to top" icon:</strong>
+				(js/custom.js)
+<pre>
+$.extend(theme.PluginScrollToTop.defaults, {
+	iconClass: 'fas fa-chevron-up'
+});
+</pre>
+				<br><br>
+
+				2) <strong>Changing the "appear animation" default duration:</strong>
+				(js/custom.js)
+<pre>
+$.extend(theme.PluginAnimate.defaults, {
+	duration: '500ms'
+});
+</pre>
+				<br><br>
+
+				You can find all the defaults of the plugins and partials in the file js/theme.js as you can see here:
+				<br><img class="img-responsive" src="assets/img/20141001-3wm-114kb.jpg" />
+
+				<br><br>
+
+				<h4>Changing Plugins Options</h4><br>
+
+				The template includes a very simple way to configure the elements that are initialized automatically, such as the sliders, you just need to put the settings in the "data-plugin-options" attribute, as you can see below:
+
+<pre>
+&lt;div class=&quot;slider&quot; data-plugin-revolution-slider data-plugin-options=&quot;{&#39;disableProgressBar&#39;: &#39;off&#39;}&quot;&gt;
+</pre>
+
+				<br>It works the same way for most of the plugins included in the template: owlCarousel, Float Element, Twitter Feed, etc...
+
+				<br><br><br>
+
+				<strong>If you want to disable the auto initialization you can just add a class "manual" or remove the data-plugin-* attribute:</strong>
+
+<pre>
+&lt;div class=&quot;slider manual&quot; id=&quot;myRevolutionSlider&quot;&gt;
+</pre>
+
+				<br>So now you can initialize that using the standard JS mode:
+
+<pre>
+$(document).ready(function() {
+	$('#myRevolutionSlider').revolution({
+		delay:9000,
+		startwidth:960,
+		...
+		...
+	});
+});
+</pre>
+
+				<br><br>
+
+				<h4>Remove/Disable a Plugin or Partial</h4><br>
+
+				If you want to remove/disable a plugin or partial that has a "initialize" function completely, follow this example:
+				(js/custom.js)
+<pre>
+theme.PluginScrollToTop.initialize = function() {};
+</pre>
+
+				<br>You can find all the available plugins and partials in the file js/theme.init.js as you can see here:
+				<br><img class="img-responsive" src="assets/img/20141001-s5i-168kb.jpg" />
+
+				<br><br><br>
+
+				<h4>Manually Initializing a Plugin</h4>
+
+				Some of the plugins/elements are initialized automatically, if you want to disabled that and call the plugin via Javascript, follow these steps:
+				 
+
+				<br><br>FROM (HTML):
+
+<pre>
+&lt;div class=&quot;owl-carousel&quot; data-plugin-options=&quot;{'items': 6, 'loop': false, 'autoplay': true}&quot;&gt;
+</pre>
+
+				TO (HTML):
+
+<pre>
+&lt;div class=&quot;owl-carousel manual&quot; id=&quot;owl-example&quot;&gt;
+</pre>
+
+				(Javascript):
+<pre>
+$(document).ready(function() {
+	$("#owl-example").owlCarousel({
+		items: 6,
+		loop: false,
+		autoplay: true
+	});
+});
+</pre>
+
+			</section>
+
+			<section id="html_structure">
+				<h2>HTML Structure</h2>
+				<p>The template is based on <strong>Bootstrap 4</strong> Framework - <a href="http://getbootstrap.com">http://getbootstrap.com</a></p>
+				<p>Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases.</p>
+				<br><br>
+<pre>
+&lt;div class=&quot;row&quot;&gt;
+	&lt;div class=&quot;col-md-12&quot;&gt;
+		Level 1 column
+		&lt;div class=&quot;row&quot;&gt;
+			&lt;div class=&quot;col-md-6&quot;&gt;Level 2&lt;/div&gt;
+			&lt;div class=&quot;col-md-6&quot;&gt;Level 2&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</pre>
+<br>
+<p>If you need more information, please visit this site: <a href="https://getbootstrap.com/docs/4.1/layout/grid/">https://getbootstrap.com/docs/4.1/layout/grid/</a></p>
+
+			</section>
+
+			<section id="css_structure">
+				<h2>CSS Structure</h2>
+				<p>The organization of the CSS is one of our priorities.</p>
+				<p>These are the CSS file we're using in the template:</p><br>
+				<ul>
+					<li><code>theme.css</code> - (The basic layout structure styles)</li>
+					<li><code>theme-elements.css</code> - (Elements such as sliders, boxes, titles, etc...)</li>
+					<li><code>custom.css</code> (Add all customizations into this file)</li>
+				</ul>
+
+				<br><br>
+
+				<h3>CSS Helper Classes</h3><br>
+				<h4>Bootstrap Helpers</h4><br>
+				<p>Bootstrap 4 comes with various utilities/helper classes. Access the link below to see all possibilities:</p>
+				<a href="https://getbootstrap.com/docs/4.1/utilities/borders/">https://getbootstrap.com/docs/4.1/utilities/borders/</a>
+				<br>
+				<br>
+				<h4>Text Helpers</h4><br>
+				<table width="100%" class="table table-bordered table-striped">
+					<thead>
+						<tr>
+							<th>
+								Class</th>
+							<th>
+								Description</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								.text-0</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-1</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-2</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-3</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-4</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-5</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-6</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-7</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-8</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-9</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						<tr>
+							<td>
+								.text-10</td>
+							<td>
+								Change text font-size</td>
+						</tr>
+						
+						<tr>
+							<td>
+								.line-height-1</td>
+							<td>
+								Change text line-height</td>
+						</tr>
+						<tr>
+							<td>
+								.line-height-2</td>
+							<td>
+								Change text line-height</td>
+						</tr>
+						<tr>
+							<td>
+								.line-height-3</td>
+							<td>
+								Change text line-height</td>
+						</tr>
+						<tr>
+							<td>
+								.line-height-4</td>
+							<td>
+								Change text line-height</td>
+						</tr>
+						<tr>
+							<td>
+								.line-height-5</td>
+							<td>
+								Change text line-height</td>
+						</tr>
+
+						<tr>
+							<td>
+								.mobile-text-1</td>
+							<td>
+								Change text font-size based on window width (only for resolutions below 576px)</td>
+						</tr>
+						<tr>
+							<td>
+								.mobile-text-2</td>
+							<td>
+								Change text font-size based on window width (only for resolutions below 576px)</td>
+						</tr>
+						<tr>
+							<td>
+								.mobile-text-3</td>
+							<td>
+								Change text font-size based on window width (only for resolutions below 576px)</td>
+						</tr>
+						<tr>
+							<td>
+								.mobile-text-4</td>
+							<td>
+								Change text font-size based on window width (only for resolutions below 576px)</td>
+						</tr>
+						<tr>
+							<td>
+								.mobile-text-5</td>
+							<td>
+								Change text font-size based on window width (only for resolutions below 576px)</td>
+						</tr>
+
+						<tr>
+							<td>
+								.font-weight-thin</td>
+							<td>
+								Change text font-weight</td>
+						</tr>
+						<tr>
+							<td>
+								.font-weight-light</td>
+							<td>
+								Change text font-weight</td>
+						</tr>
+						<tr>
+							<td>
+								.font-weight-normal</td>
+							<td>
+								Change text font-weight</td>
+						</tr>
+						<tr>
+							<td>
+								.font-weight-semibold</td>
+							<td>
+								Change text font-weight</td>
+						</tr>
+						<tr>
+							<td>
+								.font-weight-bold</td>
+							<td>
+								Change text font-weight</td>
+						</tr>
+						<tr>
+							<td>
+								.font-weight-extra-bold</td>
+							<td>
+								Change text font-weight</td>
+						</tr>
+
+						<tr>
+							<td>
+								.font-style-italic</td>
+							<td>
+								Change text font-style</td>
+						</tr>
+
+						<tr>
+							<td>
+								.font-primary</td>
+							<td>
+								Change text font-family</td>
+						</tr>
+						<tr>
+							<td>
+								.font-secondary</td>
+							<td>
+								Change text font-family</td>
+						</tr>
+						<tr>
+							<td>
+								.font-tertiary</td>
+							<td>
+								Change text font-family</td>
+						</tr>
+						<tr>
+							<td>
+								.font-quaternary</td>
+							<td>
+								Change text font-family</td>
+						</tr>
+
+						<tr>
+							<td>
+								.text-uppercase</td>
+							<td>
+								Change text-transform</td>
+						</tr>
+						<tr>
+							<td>
+								.text-lowercase</td>
+							<td>
+								Change text-transform</td>
+						</tr>
+						<tr>
+							<td>
+								.text-capitalize</td>
+							<td>
+								Change text-transform</td>
+						</tr>
+
+						<tr>
+							<td>
+								.text-underline</td>
+							<td>
+								Change text-decoration</td>
+						</tr>
+						<tr>
+							<td>
+								.text-line-trough</td>
+							<td>
+								Change text-decoration</td>
+						</tr>
+
+						<tr>
+							<td>
+								.text-color-default
+							</td>
+							<td>
+								Changes text color to the default color
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.text-color-dark
+							</td>
+							<td>
+								Changes text color to the dark color
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.text-color-light
+							</td>
+							<td>
+								Changes text color to the light color
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.text-color-light-2
+							</td>
+							<td>
+								Changes text color to the light color 2
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.text-color-light-3
+							</td>
+							<td>
+								Changes text color to the light color 3
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.text-color-primary
+							</td>
+							<td>
+								Changes text color to the primary color
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.text-color-secondary
+							</td>
+							<td>
+								Changes text color to the secondary color
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.text-color-tertiary
+							</td>
+							<td>
+								Changes text color to the tertiary color
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.text-color-quaternary
+							</td>
+							<td>
+								Changes text color to the primary color
+							</td>
+						</tr>
+
+						<tr>
+							<td>
+								.link-color-dark
+							</td>
+							<td>
+								Changes link color to the dark color
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.link-color-light
+							</td>
+							<td>
+								Changes link color to the light color
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.link-color-light-2
+							</td>
+							<td>
+								Changes link color to the light color 2
+							</td>
+						</tr>
+						<tr>
+							<td>
+								.link-color-light-3
+							</td>
+							<td>
+								Changes link color to the light color 3
+							</td>
+						</tr>
+						
+					</tbody>
+				</table>
+				<br>
+				<br>
+				<h4>Others</h4>
+				<table width="100%" class="table table-bordered table-striped">
+					<thead>
+						<tr>
+							<th>
+								Class</th>
+							<th>
+								Description</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								.pointer-events-none</td>
+							<td>
+								Changes element pointer-events to none</td>
+						</tr>
+						<tr>
+							<td>
+								.scale-1</td>
+							<td>
+								Changes element transform scale</td>
+						</tr>
+						<tr>
+							<td>
+								.scale-2</td>
+							<td>
+								Changes element transform scale</td>
+						</tr>
+						<tr>
+							<td>
+								.scale-3</td>
+							<td>
+								Changes element transform scale</td>
+						</tr>
+
+						<tr>
+							<td>
+								.transform-center-x</td>
+							<td>
+								Center the element at horizontal axis (Recommended use in elements with position absolute)</td>
+						</tr>
+						<tr>
+							<td>
+								.transform-center-y</td>
+							<td>
+								Center the element at vertical axis (Recommended use in elements with position absolute)</td>
+						</tr>
+						<tr>
+							<td>
+								.transform-center-xy</td>
+							<td>
+								Center the element at horizontal and vertical axis (Recommended use in elements with position absolute)</td>
+						</tr>
+
+						<tr>
+							<td>
+								.overflow-hidden</td>
+							<td>
+								Changes element overflow</td>
+						</tr>
+						<tr>
+							<td>
+								.overflow-visible</td>
+							<td>
+								Changes element overflow</td>
+						</tr>
+						<tr>
+							<td>
+								.overflow-scroll</td>
+							<td>
+								Changes element overflow</td>
+						</tr>
+
+						<tr>
+							<td>
+								.va-middle</td>
+							<td>
+								Changes vertical-align to middle</td>
+						</tr>
+						<tr>
+							<td>
+								.ws-nowrap</td>
+							<td>
+								Changes white-space to nowrap</td>
+						</tr>
+						<tr>
+							<td>
+								.ws-normal</td>
+							<td>
+								Changes white-space to normal</td>
+						</tr>
+
+						<tr>
+							<td>
+								.z-index-0</td>
+							<td>
+								Changes z-index to 0</td>
+						</tr>
+						<tr>
+							<td>
+								.z-index-1</td>
+							<td>
+								Changes z-index to 1</td>
+						</tr>
+						<tr>
+							<td>
+								.z-index-2</td>
+							<td>
+								Changes z-index to 2</td>
+						</tr>
+						<tr>
+							<td>
+								.z-index-3</td>
+							<td>
+								Changes z-index to 3</td>
+						</tr>
+
+						<tr>
+							<td>
+								.box-shadow-none</td>
+							<td>
+								Changes box-shadow to none</td>
+						</tr>
+
+						<tr>
+							<td>
+								.no-vertical-scroll</td>
+							<td>
+								Remove vertical scroll</td>
+						</tr>
+						<tr>
+							<td>
+								.no-horizontal-scroll</td>
+							<td>
+								Remove horizontal scroll</td>
+						</tr>
+
+						<tr>
+							<td>
+								.bg-transparent</td>
+							<td>
+								Changes background color to transparent</td>
+						</tr>
+
+						<tr>
+							<td>
+								.bg-light</td>
+							<td>
+								Changes background color to light level 0</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-light-1</td>
+							<td>
+								Changes background color to light level 1</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-light-2</td>
+							<td>
+								Changes background color to light level 2</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-light-3</td>
+							<td>
+								Changes background color to light level 3</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-light-4</td>
+							<td>
+								Changes background color to light level 4</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-light-5</td>
+							<td>
+								Changes background color to light level 5</td>
+						</tr>
+
+						<tr>
+							<td>
+								.bg-dark</td>
+							<td>
+								Changes background color to dark level 0</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-dark-1</td>
+							<td>
+								Changes background color to dark level 1</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-dark-2</td>
+							<td>
+								Changes background color to dark level 2</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-dark-3</td>
+							<td>
+								Changes background color to dark level 3</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-dark-4</td>
+							<td>
+								Changes background color to dark level 4</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-dark-5</td>
+							<td>
+								Changes background color to dark level 5</td>
+						</tr>
+
+						<tr>
+							<td>
+								.bg-primary-1</td>
+							<td>
+								Changes background color to primary level 1</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-primary-2</td>
+							<td>
+								Changes background color to primary level 2</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-primary-3</td>
+							<td>
+								Changes background color to primary level 3</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-primary-4</td>
+							<td>
+								Changes background color to primary level 4</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-primary</td>
+							<td>
+								Changes background color to primary level 0</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-primary-6</td>
+							<td>
+								Changes background color to primary level 6</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-primary-7</td>
+							<td>
+								Changes background color to primary level 7</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-primary-8</td>
+							<td>
+								Changes background color to primary level 8</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-primary-9</td>
+							<td>
+								Changes background color to primary level 9</td>
+						</tr>
+
+						<tr>
+							<td>
+								.bg-secondary-1</td>
+							<td>
+								Changes background color to secondary level 1</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-secondary-2</td>
+							<td>
+								Changes background color to secondary level 2</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-secondary-3</td>
+							<td>
+								Changes background color to secondary level 3</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-secondary-4</td>
+							<td>
+								Changes background color to secondary level 4</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-secondary</td>
+							<td>
+								Changes background color to secondary level 0</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-secondary-6</td>
+							<td>
+								Changes background color to secondary level 6</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-secondary-7</td>
+							<td>
+								Changes background color to secondary level 7</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-secondary-8</td>
+							<td>
+								Changes background color to secondary level 8</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-secondary-9</td>
+							<td>
+								Changes background color to secondary level 9</td>
+						</tr>
+
+						<tr>
+							<td>
+								.bg-tertiary-1</td>
+							<td>
+								Changes background color to tertiary level 1</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-tertiary-2</td>
+							<td>
+								Changes background color to tertiary level 2</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-tertiary-3</td>
+							<td>
+								Changes background color to tertiary level 3</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-tertiary-4</td>
+							<td>
+								Changes background color to tertiary level 4</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-tertiary</td>
+							<td>
+								Changes background color to tertiary level 0</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-tertiary-6</td>
+							<td>
+								Changes background color to tertiary level 6</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-tertiary-7</td>
+							<td>
+								Changes background color to tertiary level 7</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-tertiary-8</td>
+							<td>
+								Changes background color to tertiary level 8</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-tertiary-9</td>
+							<td>
+								Changes background color to tertiary level 9</td>
+						</tr>
+
+						<tr>
+							<td>
+								.bg-quaternary-1</td>
+							<td>
+								Changes background color to quaternary level 1</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-quaternary-2</td>
+							<td>
+								Changes background color to quaternary level 2</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-quaternary-3</td>
+							<td>
+								Changes background color to quaternary level 3</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-quaternary-4</td>
+							<td>
+								Changes background color to quaternary level 4</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-quaternary</td>
+							<td>
+								Changes background color to quaternary level 0</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-quaternary-6</td>
+							<td>
+								Changes background color to quaternary level 6</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-quaternary-7</td>
+							<td>
+								Changes background color to quaternary level 7</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-quaternary-8</td>
+							<td>
+								Changes background color to quaternary level 8</td>
+						</tr>
+						<tr>
+							<td>
+								.bg-quaternary-9</td>
+							<td>
+								Changes background color to quaternary level 9</td>
+						</tr>
+
+						<tr>
+							<td>
+								.border-grey</td>
+							<td>
+								Changes border color to grey</td>
+						</tr>
+
+						<tr>
+							<td>
+								.border-light</td>
+							<td>
+								Changes border color to light level 0</td>
+						</tr>
+						<tr>
+							<td>
+								.border-light-1</td>
+							<td>
+								Changes border color to light level 1</td>
+						</tr>
+						<tr>
+							<td>
+								.border-light-2</td>
+							<td>
+								Changes border color to light level 2</td>
+						</tr>
+						<tr>
+							<td>
+								.border-light-3</td>
+							<td>
+								Changes border color to light level 3</td>
+						</tr>
+						<tr>
+							<td>
+								.border-light-4</td>
+							<td>
+								Changes border color to light level 4</td>
+						</tr>
+						<tr>
+							<td>
+								.border-light-5</td>
+							<td>
+								Changes border color to light level 5</td>
+						</tr>
+
+						<tr>
+							<td>
+								.border-dark</td>
+							<td>
+								Changes border color to dark level 0</td>
+						</tr>
+						<tr>
+							<td>
+								.border-dark-1</td>
+							<td>
+								Changes border color to dark level 1</td>
+						</tr>
+						<tr>
+							<td>
+								.border-dark-2</td>
+							<td>
+								Changes border color to dark level 2</td>
+						</tr>
+						<tr>
+							<td>
+								.border-dark-3</td>
+							<td>
+								Changes border color to dark level 3</td>
+						</tr>
+						<tr>
+							<td>
+								.border-dark-4</td>
+							<td>
+								Changes border color to dark level 4</td>
+						</tr>
+						<tr>
+							<td>
+								.border-dark-5</td>
+							<td>
+								Changes border color to dark level 5</td>
+						</tr>
+
+						<tr>
+							<td>
+								.border-color-primary</td>
+							<td>
+								Changes border color to primary</td>
+						</tr>
+						<tr>
+							<td>
+								.border-color-secondary</td>
+							<td>
+								Changes border color to secondary</td>
+						</tr>
+						<tr>
+							<td>
+								.border-color-tertiary</td>
+							<td>
+								Changes border color to tertiary</td>
+						</tr>
+						<tr>
+							<td>
+								.border-color-quaternary</td>
+							<td>
+								Changes border color to quaternary</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</section>
+
+			<section id="customization_styles">
+				<h2>Customization &amp; Styles</h2>
+				<br>
+				<h4>Colors</h4>
+				<p>
+					The style switcher was made to support unlimited skin colors, for that we use <strong>Less </strong>(<a href="http://www.lesscss.org/">http://www.lesscss.org/</a>) to process the CSS dinamically in the demo and show the color right away.
+					<br>You don't need to use LESS in your project, after you done customizing your skin you may want to grab the generated code and save it in a file in the folder:<strong> /css/skins/(skin-name).css</strong><br>
+					 &nbsp;
+					<br><a href="#skin">Learn More: How to change the Skin</a><br><br>
+				</p>
+				<h4>Layout Style (Normal/Boxed/Gap Outside)</h4>
+				<p> The template has three different layout modes, Wide, Boxed and Gap Outside. The wide one is the default option, if you want to use the Boxed or Gap Outside version, add the following classes in the &lt;html&gt;:
+				</p>
+<pre>
+&lt;html class=&quot;boxed&quot;&gt; 
+
+or 
+
+&lt;html class=&quot;gap-outside&quot;&gt;
+</pre>
+					<br>
+					 You can also customize the background color or image.<br>
+					 &nbsp;
+				</p>
+				<h4>Background Color (Light/Dark)</h4>
+				<p> The template has two different background colors, Light and Dark. The light one is the default option, if you want to use the Dark version, add the following class in the &lt;html&gt;:
+				</p>
+<pre>
+&lt;html class=&quot;dark&quot;&gt;
+</pre>
+<p>Note that if you have sections with light background classes attached, you will need change those classes for dark. For example: <code>.bg-light</code> to <code>.bg-dark</code></p>
+					 &nbsp;
+				</p>
+				<h4>Fonts</h4>
+				<p> To change the embedded font, please take a look in the head part of the website and you will find this tag:
+				</p>
+<pre>
+&lt;link href=&quot;https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,600,700,900|Open+Sans:300,400,600,700,800&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;
+</pre>
+					 To change the font, first go to <a href="https://fonts.google.com/" target="_blank">https://fonts.google.com/</a> choose a font and use the generated code.
+				</p><br>
+
+			</section>
+
+
+			<section id="skin">
+				<h2>Skin</h2>
+				<p>You can generate your own skin color:</p> <br><br> <img src="assets/img/20150729-3sj-435kb.jpg" /><br><br>
+
+				<img src="assets/img/20130227-3jo-39kb.jpg" /><br><br>
+
+				<p>Copy that and save as a css skin file (css/skins/default.css)</p>
+
+			</section>
+
+			<section id="RTL">
+				<h2>RTL</h2>
+				<p>To activate the RTL mode please follow the steps:</p><br>
+
+				1) Add the "dir" attribute in the HTML tag:
+				<br><img src="assets/img/20150102-4g7-48kb.jpg" class="img-responsive" /><br><br>
+
+				2) <strong>Copy all the files</strong> from the folder: <code>HTML/master/rtl/css</code> to the default css folder <code>HTML/css</code>.<br><br>
+
+				3) Add the "rtl-" prefix in the files:
+
+				<br><img src="assets/img/2015-05-14_14-16.jpg" class="img-responsive" /><br><br>
+
+			</section>
+
+			<section id="icons">
+				<h2>Icons</h2>
+				<p><strong>Font Awesome</strong> is a @font-face iconset that you can change size and color of the icons using CSS.<br><br>
+					If you need more information, please visit this site: <a href="http://fontawesome.io/">http://fontawesome.io/</a>
+				</p>
+<pre>
+&lt;i class=&quot;fas fa-edit&quot;&gt;&lt;/i&gt;
+&lt;i class=&quot;fas fa-search&quot;&gt;&lt;/i&gt;
+...
+</pre>
+
+				<p><br></p>
+
+				<h2>Icons - Animated</h2>
+				<p>EZY comes with a plugin to animate SVG icons.<br> Note that it's necessary identify if the SVG uses stroke or not. See the examples below:</p>
+				<p>Use the code below if the SVG icon <strong>isn't stroke based</strong>:</p>
+<pre>
+&lt;object width="42" data="vendor/linear-icons/screen.svg" type="image/svg+xml" data-icon data-plugin-options="{'color': '#2388ED', 'animated': true, 'delay': 600}"&gt;&lt;/object&gt;
+</pre>
+
+				<p>Use the code below if the SVG icon <strong>is stroke based</strong>:</p>
+<pre>
+&lt;object width="44" data="vendor/linea-icons/software/software_layers2.svg" type="image/svg+xml" data-icon data-plugin-options="{'color': '#2388ED', 'animated': true, 'delay': 600, 'strokeBased': true, 'svgStyle': 'stroke-width: 3'}"&gt;&lt;/object&gt;
+</pre><br>
+				
+				<p>* All SVG icons inside the folder <code>vendor/linear-icons/</code> aren't stroke based<br> * All SVG icons inside the folder <code>vendor/linea-icons/</code> are stroke based</p>
+
+				<p>The plugin is driven by <strong>vivus.js</strong>: <a href="https://github.com/maxwellito/vivus" target="_blank">https://github.com/maxwellito/vivus</a></p>
+
+			</section>
+
+
+
+			<section id="lightbox">
+				<h2>Lightbox</h2>
+				<p>The lightbox is driven by <strong>Magnific Popup </strong>script.</p>
+
+<br><strong>Here's an example of usage:</strong></p>
+
+<pre>
+&lt;a class=&quot;img-thumbnail lightbox&quot; title=&quot;Open Lightbox&quot; href=&quot;img/projects/project-4.jpg&quot; data-plugin-options=&#39;{&quot;type&quot;:&quot;image&quot;}&#39;&gt;
+	&lt;img class=&quot;img-responsive&quot; src=&quot;img/projects/project-4.jpg&quot;&gt;
+&lt;/a&gt;
+</pre>
+
+				<p>For more information check the <a target="_blank" href="http://dimsemenov.com/plugins/magnific-popup/documentation.html">documentation</a>.</p>
+				<p><a target="_blank" href="http://dimsemenov.com/plugins/magnific-popup/">http://dimsemenov.com/plugins/magnific-popup/</a></p>
+			</section>
+
+			<section id="video_background">
+				<h2>Video Background</h2>
+
+<p>The video background are driven by the Vide Plugin - <a target="_blank" href="https://github.com/VodkaBears/Vide">https://github.com/VodkaBears/Vide</a><br>
+<br>
+<strong>Here's an example of usage:</strong></p>
+
+<pre>
+&lt;section class=&quot;video py-5&quot; data-video-path=&quot;video/office&quot; data-plugin-video-background data-plugin-options='{&quot;posterType&quot;: &quot;jpg&quot;, &quot;position&quot;: &quot;50% 50%&quot;}'&gt;&lt;/section&gt;
+</pre>
+
+<p>
+Prepare your video in several formats like '.webm', '.mp4' for cross browser compatability, also add a poster with <code>.jpg</code>, <code>.png</code> or <code>.gif</code> extension and set in the attribute data-video-path.</p>
+
+			</section>
+
+			<section id="newsletter">
+				<h2>Newsletter</h2>
+
+				If you want to use the newsletter you need to have a MailChimp account (the funcional Newsletter works only with MailChimp - <a href="http://mailchimp.com/" rel="nofollow">http://mailchimp.com/</a>).
+
+				Once you have the MailChimp account you have to configure the subscription file with your APIKey, ListID and set the Datacenter. Open the file <code>/php/newsletter-subscribe.php</code> and change the variables:<br><br>
+
+<pre>
+$apiKey = 'your-api-key';
+</pre>
+-How get your Mailchimp API KEY - <a href="http://kb.mailchimp.com/article/where-can-i-find-my-api-key" rel="nofollow">http://kb.mailchimp.com/article/where-can-i-find-my-api-key</a>
+<br><br><br>
+<pre>
+$listId = 'your-list-id';
+</pre>
+				- How to get your Mailchimp LIST ID - <a href="http://kb.mailchimp.com/article/how-can-i-find-my-list-id" rel="nofollow">http://kb.mailchimp.com/article/how-can-i-find-my-list-id</a>
+
+			</section>
+
+			<section id="twitter_feed">
+				<h2>Twitter Feed</h2>
+				1) Open up the HTML files and put your twitter username.
+				<br><br><img class="img-responsive" src="assets/img/20141001-c40-78kb.jpg" />
+
+				<br><br>2) Go to: <strong>https://apps.twitter.com/</strong>
+
+				<br><br>3) Click on "Create new APP":
+				<br><img class="img-responsive" src="assets/img/20140416-ck6-11kb.jpg" />
+
+				<br><br>4) Enter the information about your website:
+				<br><img class="img-responsive" src="assets/img/20140416-kgh-63kb.jpg" />
+				<br><img class="img-responsive" src="assets/img/20140416-uou-100kb.jpg" />
+
+				<br><br>5) Click in the API Keys tab and in the button <strong>"Create my access token"</strong>:
+				<br><img class="img-responsive" src="assets/img/20140416-w1w-71kb.jpg" />
+
+				<strong>(Wait 1 minute and refresh the page)</strong>
+
+				<br><br>6) Get the keys and put in the file: <strong>php/twitter-feed.php</strong>:
+				<br><img class="img-responsive" src="assets/img/20140416-3g1-137kb.jpg" />
+
+			</section>
+			
+			<section id="instagram_feed">
+				<h2>Instagram Feed</h2>
+				
+				<p>
+					1) Access <code>http://www.instagram.com/developers</code>. Log in into your Instagram account and click on button "Register Your Application". <br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-1.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					1.1) If you already have a Instagram Developer account skip this item. If not fill the form to create a Instagram Developer account. <br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-1-1.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					2) Click on button "Register a New Client" <br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-2.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					3) Fill the form with your data and click on button "Register". <br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-3.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					4) Click on button "Manage"<br/><br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-4.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					5) Click on tab "Security". Uncheck the "Disable implicit OAuth" and click on button "Update Client". <br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-5.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					6) Open a browser new tab and access that URL: <code>https://www.instagram.com/oauth/authorize/?client_id=PUT_YOUR_CLIENT_ID_HERE&amp;redirect_uri=YOUR_REDIRECT_URL&amp;response_type=token</code>
+					<br><br>Change "PUT_YOUR_CLIENT_ID" by your <code>CLIENT_ID</code>. Change "YOUR_REDIRECT_URL" by your website URL. Click on button "Authorize". <br><br><img src="assets/img/tuto-insta-6.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					7) Instagram will redirect to a link with access token. <strong>Save that access token code generated.</strong><br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-7.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					8) Call/reference the Instafeed plugin on page that you want. Like this code below: <br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-8.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					9) Add the script "examples.instafeed.js" on footer of document. Like this code below: <br><br><img style="max-width: 900px;" src="assets/img/tuto-insta-9.jpg" alt=""/>
+				</p>
+				<p>
+					<br>
+				</p>
+				<p>
+					10) Choose between the four types of Instagram Feed below and add in your website: <br><br>
+					<pre>&lt;div id=&quot;instafeedBasic&quot;&gt;&lt;/div&gt;   or   &lt;div id=&quot;instafeedLightbox&quot;&gt;&lt;/div&gt;   or   &lt;div id=&quot;instafeedCarousel&quot;&gt;&lt;/div&gt;   or   &lt;div id=&quot;instafeedNoMargins&quot;&gt;&lt;/div&gt;</pre>
+				</p>
+
+			</section>
+			
+			<section id="google_maps">
+				<h2>Google Maps</h2>
+				
+				<p>Usage of the Google Maps APIs requires a key. If you are using the Google Maps API it will require a key going forward.</p>
+
+				<p>
+					<br>
+				</p>
+				
+				<p>1) Get an API key: <a target="_blank" href="https://developers.google.com/maps/documentation/javascript/get-api-key">https://developers.google.com/maps/documentation/javascript/get-api-key</a></p>
+
+				<p>
+					<br>
+				</p>
+				
+				<p>2) Add the API key in the HTML (Script)</p>
+
+				<p>
+					<br>
+				</p>
+				
+				<p><img src="http://www.okler.net/ss/20160623-9g1-30kb.jpg" /></p>
+
+				<p>
+					<br>
+				</p>
+				
+				<pre>&lt;script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"&gt;&lt;/script&gt;</pre>
+
+				<p>
+					<br>
+				</p>
+
+				<p>3) Configure the map location. For example, using as base the file <code>contact-us-1.html</code>:</p>
+				<p><strong>METHOD 1:</strong></p>
+				<p>Open the file using a text editor and go to the bottom of document. You will see the javascript code below:</p>
+
+				<p><img style="max-width: 900px;" src="assets/img/maps-tuto-1.jpg" alt=""/></p>
+
+				<p>Change the address in the markers array.</p><br><br>
+
+				<p><strong>METHOD 2:</strong></p>
+				<p>If you want to set the locations using Latitude and Longitude:</p>
+				<p>Replace the JS script in the HTML to this one:</p>
+
+<pre>
+	// Map Markers
+	var mapMarkers = [{
+		latitude: 30.44792,
+		longitude: -86.72963,
+		html: &quot;&lt;strong&gt;Alabama Office&lt;/strong&gt;&lt;br&gt;217 Summit Boulevard, Birmingham, AL 35243&quot;,
+		icon: {
+			image: "img/pin.png",
+			iconsize: [26, 46],
+			iconanchor: [12, 46]
+		}
+	},{
+		latitude: 31.44792,
+		longitude: -86.72963,
+		html: &quot;&lt;strong&gt;California Office&lt;/strong&gt;&lt;br&gt;645 E. Shaw Avenue, Fresno, CA 93710&quot;,
+		icon: {
+			image: "img/pin.png",
+			iconsize: [26, 46],
+			iconanchor: [12, 46]
+		}
+	},{
+		latitude: 33.44792,
+		longitude: -86.72963,
+		html: &quot;&lt;strong&gt;New York Office&lt;/strong&gt;&lt;br&gt;New York, NY 10017&quot;,
+		icon: {
+			image: "img/pin.png",
+			iconsize: [26, 46],
+			iconanchor: [12, 46]
+		}
+	}];
+
+	// Map Initial Location
+	var initLatitude = 40.75198;
+	var initLongitude = -73.96978;
+</pre>
+
+				<p>Here’s a good website to find the coordinates of your address: <a href="http://universimmedia.pagesperso-orange.fr/geo/loc.htm" target="_blank">http://universimmedia.pagesperso-orange.fr/geo/loc.htm</a></p>
+
+				<p>
+					<br>
+				</p>
+
+			</section>
+
+			<section id="contactform">
+				<h2>Contact Form</h2>
+				<p>1) HTML:</p>
+<pre>
+	&lt;form class=&quot;contact-form form-style-2&quot; action=&quot;php/contact-form.php&quot; method=&quot;POST&quot;&gt;
+		&lt;div class=&quot;contact-form-success alert alert-success d-none&quot;&gt;
+			&lt;strong&gt;Success!&lt;/strong&gt; Your message has been sent to us.
+		&lt;/div&gt;
+		&lt;div class=&quot;contact-form-error alert alert-danger d-none&quot;&gt;
+			&lt;strong&gt;Error!&lt;/strong&gt; There was an error sending your message.
+			&lt;span class=&quot;mail-error-message d-block&quot;&gt;&lt;/span&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;form-row&quot;&gt;
+			&lt;div class=&quot;form-group col-md-6&quot;&gt;
+				&lt;input type=&quot;text&quot; value=&quot;&quot; data-msg-required=&quot;Please enter your name.&quot; maxlength=&quot;100&quot; class=&quot;form-control&quot; name=&quot;name&quot; id=&quot;name&quot; placeholder=&quot;Name&quot; required&gt;
+			&lt;/div&gt;
+			&lt;div class=&quot;form-group col-md-6&quot;&gt;
+				&lt;input type=&quot;email&quot; value=&quot;&quot; data-msg-required=&quot;Please enter your email address.&quot; data-msg-email=&quot;Please enter a valid email address.&quot; maxlength=&quot;100&quot; class=&quot;form-control&quot; name=&quot;email&quot; id=&quot;email&quot; placeholder=&quot;E-mail&quot; required&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;form-row&quot;&gt;
+			&lt;div class=&quot;form-group col&quot;&gt;
+				&lt;input type=&quot;text&quot; value=&quot;&quot; data-msg-required=&quot;Please enter the subject.&quot; maxlength=&quot;100&quot; class=&quot;form-control&quot; name=&quot;subject&quot; id=&quot;subject&quot; placeholder=&quot;Subject&quot; required&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;form-row&quot;&gt;
+			&lt;div class=&quot;form-group col&quot;&gt;
+				&lt;textarea maxlength=&quot;5000&quot; data-msg-required=&quot;Please enter your message.&quot; rows=&quot;5&quot; class=&quot;form-control&quot; name=&quot;message&quot; id=&quot;message&quot; placeholder=&quot;Message&quot; required&gt;&lt;/textarea&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;form-row mt-2&quot;&gt;
+			&lt;div class=&quot;col&quot;&gt;
+				&lt;input type=&quot;submit&quot; value=&quot;SEND MESSAGE&quot; class=&quot;btn btn-primary btn-rounded btn-4 font-weight-semibold text-0&quot; data-loading-text=&quot;Loading...&quot;&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/form&gt;
+</pre>
+
+				<p><br></p>
+
+				<p>2) Make sure that you have the jQuery Validate plugin included on document:</p>
+				<p><img style="max-width: 900px;" src="assets/img/contact-form-tuto-2.jpg" alt=""/></p><br><br>
+
+				<p>3) Add the script "view.contact.js" on footer of document. Like the image below:</p>
+				<p><img style="max-width: 900px;" src="assets/img/contact-form-tuto-1.jpg" alt=""/></p><br><br>
+
+				<p>4) In <code>php/contact-form.php</code> change the value of variable <code>$email</code> to your email (the email that will receive contacts)</p>
+				<p><img style="max-width: 900px;" src="assets/img/contact-form-tuto-3.jpg" alt=""/></p><br><br>
+
+				<p>4.1) <strong>OPTIONAL:</strong> You can easily change the label text of each field. For example, to change "Email" for "Email Address" just uncomment the code like on image below:</p>
+				<p><img style="max-width: 900px;" src="assets/img/contact-form-tuto-4.jpg" alt=""/></p><br><br>
+
+				<p><strong>Contact form is not working ?</strong></p>
+				<p>Try the solution on this link: <a href="http://www.okler.net/forums/topic/important-contact-form-is-not-working/" target="_blank">http://www.okler.net/forums/topic/important-contact-form-is-not-working/</a></p><br>
+
+				<p><strong>Contact Form receiving blank emails / {"response":"success"}</strong></p>
+				<p>Make sure that you made the step 3 of tutorial above.</p><br><br>
+
+			</section>
+
+			<section id="contactformty">
+				<h2>Contact Form - Thank you page</h2>
+				<p>To redirect for a "Thank You" page when contact form is sent, just uncomment the code below at <code>js/views/view.contact.js</code>:</p>
+				<p><img style="max-width: 900px;" src="assets/img/ty-page.jpg" alt=""/></p><br><br>
+			</section>
+
+			<section id="googlerecaptcha">
+				<h2>Google Recaptcha</h2>
+				<p>1) For adding reCAPTCHA to your site, you need to register your site and get reCAPTCHA API keys.<br> Register your site at Google from here – <a href="https://www.google.com/recaptcha/admin" target="_blank">https://www.google.com/recaptcha/admin</a></p>
+				<p><img style="max-width: 900px;" src="assets/img/recaptcha-1.jpg" alt=""/></p><br><br>
+
+				<p>2) Get your Site Key.<br>Site key is used to display the reCAPTCHA widget.<br>The code is in the pattern of the image below</p>
+				<p><img style="max-width: 900px;" src="assets/img/recaptcha-2.jpg" alt=""/></p><br><br>
+
+				<p>3) Get your Secret Key.<br>Secret key helps authorizes communication between your site and the reCAPTCHA server.<br>The code is in the pattern of the image below</p>
+				<p><img style="max-width: 900px;" src="assets/img/recaptcha-3.jpg" alt=""/></p><br><br>
+
+				<p>4) HTML:<br>Change "YOUR_RECAPTCHA_SITE_KEY" by your generated Google Recaptcha site key.</p>
+<pre>
+&lt;form class="contact-form" action="php/contact-form-recaptcha.php" method="POST"&gt;
+	&lt;div class="contact-form-success alert alert-success d-none"&gt;
+		&lt;strong&gt;Success!&lt;/strong&gt; Your message has been sent to us.
+	&lt;/div&gt;
+	&lt;div class="contact-form-error alert alert-danger d-none"&gt;
+		&lt;strong&gt;Error!&lt;/strong&gt; There was an error sending your message.
+		&lt;span class="mail-error-message d-block"&gt;&lt;/span&gt;
+	&lt;/div&gt;
+	&lt;div class="form-row"&gt;
+		&lt;div class="form-group col-md-6"&gt;
+			&lt;input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" placeholder="Name" required&gt;
+		&lt;/div&gt;
+		&lt;div class="form-group col-md-6"&gt;
+			&lt;input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" placeholder="E-mail" required&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="form-row"&gt;
+		&lt;div class="form-group col"&gt;
+			&lt;input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject" placeholder="Subject" required&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="form-row"&gt;
+		&lt;div class="form-group col"&gt;
+			&lt;textarea maxlength="5000" data-msg-required="Please enter your message." rows="5" class="form-control" name="message" id="message" placeholder="Message" required&gt;&lt;/textarea&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="form-row mt-2"&gt;
+		&lt;div class="form-group col"&gt;
+			&lt;div class="g-recaptcha" data-sitekey="YOUR_RECAPTCHA_SITE_KEY"&gt;&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="form-row mt-2"&gt;
+		&lt;div class="form-group col"&gt;
+			&lt;input type="submit" value="SEND MESSAGE" class="btn btn-primary btn-rounded btn-4 font-weight-semibold text-0" data-loading-text="Loading..."&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/form&gt;
+</pre>
+
+				<p><br></p>
+
+				<p>5) Make sure that you have the jQuery Validate plugin included on document:</p>
+				<p><img style="max-width: 900px;" src="assets/img/contact-form-tuto-2.jpg" alt=""/></p><br><br>
+
+				<p>6) Add the script "view.contact.js" on footer of document. Like the image below:</p>
+				<p><img style="max-width: 900px;" src="assets/img/contact-form-tuto-1.jpg" alt=""/></p><br><br>
+
+				<p>7) Add the script of Google Recaptcha on footer of document. Like the image below:</p>
+				<p><img style="max-width: 900px;" src="assets/img/recaptcha-4.jpg" alt=""/></p><br><br>
+
+				<p>8) In <code>php/contact-form-recaptcha.php</code> change the value of variable <code>$secret</code> to your generated Google Recaptcha Secret Key</p>
+				<p><img style="max-width: 900px;" src="assets/img/recaptcha-5.jpg" alt=""/></p><br><br>
+
+				<p>9) In <code>php/contact-form-recaptcha.php</code> change the value of variable <code>$email</code> to your email (the email that will receive contacts)</p>
+				<p><img style="max-width: 900px;" src="assets/img/recaptcha-6.jpg" alt=""/></p><br><br>
+
+			</section>
+
+			<section id="effects">
+				<h2>Effects</h2>
+				<p>You can add some Animations / Transitions to the elements which fires when an element scrolls into view, it's pretty simple to use and you can add it in any element.</p>
+				<p>EZY comes with "animate.css" library. So you can use all animations listed here: <a href="https://daneden.github.io/animate.css/" target="_blank">https://daneden.github.io/animate.css/</a><br>For example the fadeIn effect:</p>
+<pre>
+&lt;div data-appear-animation=&quot;fadeIn&quot; data-appear-animation-delay=&quot;200&quot;&gt;
+...
+&lt;/div&gt;
+</pre>
+				<p>Heads up: The Attribute <strong>data-appear-animation-delay</strong> is <strong>Optional </strong>and is set in <strong>Miliseconds</strong>.</p>
+				<p>We also created custom animations for EZY:</p>
+				<ul>
+					<li>maskUp</li>
+					<li>maskRight</li>
+					<li>maskDown</li>
+					<li>maskLeft</li>
+					<li>fadeInUpShorter</li>
+					<li>fadeInLeftShorter</li>
+					<li>fadeInRightShorter</li>
+					<li>fadeInDownShorter</li>
+					<li>expandIn</li>
+					<li>blurIn</li>
+				</ul>
+			</section>
+
+			<section id="credits">
+				<h2>Credits</h2>
+				<ul>
+					<li>animate.css (<a href="https://daneden.github.io/animate.css/" target="_blank">https://daneden.github.io/animate.css/</a>)</li>
+					<li>Animated Headlines (<a href="https://codyhouse.co/demo/animated-headlines/index.html" target="_blank">https://codyhouse.co/demo/animated-headlines/index.html</a>)</li>
+					<li>Bootpag (<a href="http://botmonster.com/jquery-bootpag/" target="_blank">http://botmonster.com/jquery-bootpag/</a>)</li>
+					<li>Bootstrap (<a href="https://getbootstrap.com" target="_blank">https://getbootstrap.com</a>)</li>
+					<li>Bootstrap Datepicker (<a href="https://github.com/uxsolutions/bootstrap-datepicker" target="_blank">https://github.com/uxsolutions/bootstrap-datepicker</a>)</li>
+					<li>Count To (<a href="https://github.com/mhuggins/jquery-countTo" target="_blank">https://github.com/mhuggins/jquery-countTo</a>)</li>
+					<li>Easy Pie Chart (<a href="https://github.com/rendro/easy-pie-chart" target="_blank">https://github.com/rendro/easy-pie-chart</a>)</li>
+					<li>Font Awesome (<a href="https://fontawesome.com/" target="_blank">https://fontawesome.com/</a>)</li>
+					<li>Instafeed (<a href="http://instafeedjs.com/" target="_blank">http://instafeedjs.com/</a>)</li>
+					<li>Isotope (<a href="https://isotope.metafizzy.co" target="_blank">https://isotope.metafizzy.co</a>)</li>
+					<li>jQuery (<a href="http://jquery.com/" target="_blank">http://jquery.com/</a>)</li>
+					<li>jQuery Appear (<a href="https://github.com/bas2k/jquery.appear/" target="_blank">https://github.com/bas2k/jquery.appear/</a>)</li>
+					<li>jQuery Browser Mobile (<a href="http://detectmobilebrowser.com/" target="_blank">http://detectmobilebrowser.com/</a>)</li>
+					<li>jQuery Cookie (<a href="https://github.com/carhartl/jquery-cookie" target="_blank">https://github.com/carhartl/jquery-cookie</a>)</li>
+					<li>jQuery Countdown (<a href="http://hilios.github.io/jQuery.countdown/" target="_blank">http://hilios.github.io/jQuery.countdown/</a>)</li>
+					<li>jQuery Easing (<a href="http://gsgd.co.uk/sandbox/jquery/easing/" target="_blank">http://gsgd.co.uk/sandbox/jquery/easing/</a>)</li>
+					<li>jQuery gMap (<a href="http://github.com/marioestrada/jQuery-gMap" target="_blank">http://github.com/marioestrada/jQuery-gMap</a>)</li>
+					<li>jQuery Hover3d (<a href="http://github.com/ariona/hover3d" target="_blank">http://github.com/ariona/hover3d</a>)</li>
+					<li>jQuery Lazy Load (<a href="http://www.appelsiini.net/projects/lazyload" target="_blank">http://www.appelsiini.net/projects/lazyload</a>)</li>
+					<li>jQuery Validation (<a href="https://jqueryvalidation.org/" target="_blank">https://jqueryvalidation.org/</a>)</li>
+					<li>Linea Icons (<a href="http://linea.io/" target="_blank">http://linea.io/</a>)</li>
+					<li>Linear Icons (<a href="https://linearicons.com/" target="_blank">https://linearicons.com/</a>)</li>
+					<li>Magnific Popup (<a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">http://dimsemenov.com/plugins/magnific-popup/</a>)</li>
+					<li>Modernizr (<a href="https://modernizr.com" target="_blank">https://modernizr.com</a>)</li>
+					<li>Nano Scroller (<a href="http://jamesflorentino.github.com/nanoScrollerJS/" target="_blank">http://jamesflorentino.github.com/nanoScrollerJS/</a>)</li>
+					<li>noUiSlider (<a href="https://refreshless.com/nouislider/" target="_blank">https://refreshless.com/nouislider/</a>)</li>
+					<li>Owl Carousel (<a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank">https://owlcarousel2.github.io/OwlCarousel2/</a>)</li>
+					<li>Revolution Slider jQuery (<a href="https://revolution.themepunch.com/jquery/" target="_blank">https://revolution.themepunch.com/jquery/</a>)</li>
+					<li>Simple Line Icons (<a href="http://simplelineicons.com/" target="_blank">http://simplelineicons.com/</a>)</li>
+					<li>Vide (<a href="http://vodkabears.github.io/vide/" target="_blank">http://vodkabears.github.io/vide/</a>)</li>
+					<li>Vivus (<a href="https://github.com/maxwellito/vivus" target="_blank">https://github.com/maxwellito/vivus</a>)</li>
+					<li>Visible (<a href="https://github.com/customd/jquery-visible/blob/master/jquery.visible.js" target="_blank">https://github.com/customd/jquery-visible/blob/master/jquery.visible.js</a>)</li>
+					<li>AfterResize (<a href="https://github.com/mcshaman/afterResize.js" target="_blank">https://github.com/mcshaman/afterResize.js</a>)</li>
+					<li>WaitForImages (<a href="https://github.com/alexanderdickson/waitForImages" target="_blank">https://github.com/alexanderdickson/waitForImages</a>)</li>
+					<li>Sticky-kit (<a href="http://leafo.net/sticky-kit/" target="_blank">http://leafo.net/sticky-kit/</a>)</li>
+				</ul>
+			</section>
+
+			<section id="changelog">
+				<h2>Changelog</h2>
+				<a target="_blank" href="http://www.okler.net/forums/topic/ezy-changelog/">View Changelog</a>
+			</section>
+		</div>
+
+		<!-- Vendor -->
+		<script src="assets/vendor/jquery/jquery.js"></script>
+		<script src="assets/vendor/bootstrap/bootstrap.js"></script>
+		<script src="assets/js/docs.js"></script>
+
+	</body>
+</html>
