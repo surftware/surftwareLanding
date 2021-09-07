@@ -421,7 +421,7 @@
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
-				<form action="" id="mailForm" method="post" enctype="multipart/form-data">
+				<form method="post" action="" id="mailForm"  enctype="multipart/form-data">
 
 					<input type="text" class="form-control bordesInputContacto" placeholder="*Nombre completo"
 						name="nombre">
@@ -445,9 +445,10 @@
 					<div class="g-recaptcha mt-3 d-flex justify-content-center" data-sitekey="6LfwDCQcAAAAAIOPoOWO0fi_77rZgeSGTE3XeESS">
 					</div>
 					<div class="d-flex justify-content-center mt-3 mb-4"><br><br>
-						<input class="btn btn__orange btn__large font-weight-bold"
-							data-action='submit'
-							type="button" value="enviar" id="post">
+						<button class="btn btn__orange btn__large font-weight-bold"
+						type="submit" name="submit"
+							data-action='submit' value="enviar" id="post"> Enviar
+						</button>
 					</div>
 				</form>
 			</div>
