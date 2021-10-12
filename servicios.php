@@ -9,14 +9,14 @@
 	<figure class="wow fadeInLeft">
 		<img src="images/reparacion-computadoras1.webp" alt="">
 	</figure>
-	<div class="textEncimado  wow slideInLeft posicion-texto">
+	<div class="textEncimado  wow slideInLeft posicion-texto text-center mt-3">
 		<div class="text_1">
 			Servicios
 		</div>
 		<div class="text_2">
-			Surftware provee productos y servicios profesionales de alta calidad.</div>
+			Surftware provee productos y servicios <br> profesionales de alta calidad.</div>
 		<div class="text_3">
-			M&aacute;s de 10 años ayudando a las personas y empresas a hacer m&aacute;s productivos sus recursos tecnol&oacute;gicos.
+			M&aacute;s de 10 años ayudando a las personas y empresas a hacer m&aacute;s <br> productivos sus recursos tecnol&oacute;gicos.
 		</div>
 		<!-- <div class="d-flex flex-column flex-sm-row justify-content-md-start">
 			<div class="d-flex flex-wrap justify-content-center justify-content-md-start"> 
@@ -27,6 +27,7 @@
 			<a href=tutoriales.php class="btn btn__large btn__white_transparent mb-3 mr-3">watch video</a>
 		</div>
 	</div>
+	<div class="text-back-serv"> </div>
 </div>
 
 <div class="block services" id="services">
@@ -436,7 +437,7 @@
 						name="mensaje" class="textarea"></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 
-					<div class="g-recaptcha mt-3 d-flex justify-content-center" data-sitekey="your_site_key">
+					<div class="g-recaptcha mt-3 d-flex justify-content-center" data-sitekey="6LfwDCQcAAAAAIOPoOWO0fi_77rZgeSGTE3XeESS">
 					</div>
 					<div class="d-flex justify-content-center mt-3 mb-4"><br><br>
 						<input class="btn btn__orange btn__large font-weight-bold"
