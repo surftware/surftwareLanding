@@ -100,6 +100,13 @@
 				</div>
 
 				<div>
+					<a href="https://ecosdemexico.com.mx/" target="_blank"><img
+							src="images/clientes/cliente-creacion-sitio-web-7.webp" alt="">
+						<p class="mt-3">Ecos de M&eacute;xico</p>
+					</a>
+				</div>
+
+				<div>
 					<a href="https://www.speaklikeamexican.com.mx/" target="_blank"><img
 							src="images/clientes/Logo_002.webp" alt="">
 						<p>Speak Like a Mexican</p>
@@ -110,14 +117,6 @@
 					<a href="https://vmyasc.com.mx" target="_blank"><img
 							src="images/clientes/cliente-creacion-sitio-web-4.webp" alt="">
 						<p class="mt-3">V&iacute;ctor Montes y Asociados</p>
-					</a>
-				</div>
-
-
-				<div>
-					<a href="https://ecosdemexico.com.mx/" target="_blank"><img
-							src="images/clientes/cliente-creacion-sitio-web-7.webp" alt="">
-						<p class="mt-3">Ecos de M&eacute;xico</p>
 					</a>
 				</div>
 
