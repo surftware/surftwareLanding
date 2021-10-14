@@ -3,21 +3,6 @@
 
 //  -José Armando Moreno Tolentino.
 
-if (isset($_POST['submit'])) {
-    $secret = "6LfwDCQcAAAAAGnsq0pbWe-dI3jl4C58DPcbn6Lh";
-    $response = $_POST['g-recaptcha-response'];
-    $remoteip = $_SERVER['REMOTE_ADDR'];
-    $url = "https://www.google.com/recaptcha/api/siteverify?secret=$secret&response=$response&remoteip=$remoteip";
-    $data = file_get_contents($url);
-    $row = json_decode($data, true);
-  
-    if ($row['success'] == "true") {
-      echo "<script>alert('Wow you are not a robot');</script>";
-    } else {
-      echo "<script>alert('Oops you are a robot');</script>";
-    }
-  }
-
 $acceso = "";   
 $mensaje ="";
 
@@ -27,6 +12,30 @@ $alertCorreo;
 $alertTexto;
 
 $tipoAlerta="";
+
+  //Recapcha
+  //Si la variable esta definida y no es nula
+  if (isset($_POST['submit'])) 
+  {
+    //Se guarda dentro de una variable nuestra llave secreta
+    $secret = "6LfwDCQcAAAAAGnsq0pbWe-dI3jl4C58DPcbn6Lh";
+
+    $response = $_POST['g-recaptcha-response'];
+    //Validacion de la ip de usuario
+    $remoteip = $_SERVER['REMOTE_ADDR'];
+    //Validacion
+    $url = "https://www.google.com/recaptcha/api/siteverify?secret=$secret&response=$response&remoteip=$remoteip";
+    $data = file_get_contents($url);
+    $row = json_decode($data, true);
+    if ($row['success'] == "true") 
+    {
+      echo "<script>alert('Se han enviado el mensaje exitosamente'); </script>";
+    } else 
+    {
+      echo "<script>alert('Error!! Resolver el Recaptcha');</script>";
+    }
+  }
+
 
 // $captcha=$_POST['captcha'];
 $captcha="prueba modo local";

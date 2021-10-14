@@ -421,32 +421,33 @@
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
-				<form method="post" action="" id="mailForm"  enctype="multipart/form-data">
+				<form action="php/captcha.php" method="post" id="mailForm"  enctype="multipart/form-data">
 
 					<input type="text" class="form-control bordesInputContacto" placeholder="*Nombre completo"
-						name="nombre">
+						name="nombre" id="nombre" required>
 					<div class="text-danger" id="alertNombre"></div>
 
 					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Tel. contacto"
-						name="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
+						name="telefono" maxlength="10" onkeypress='return validaNumericos(event)' id="telefono" required>
 					<div class="text-danger" id="alertTelefono"></div>
 
-					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Email" name="correo">
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Email" name="correo" id="correo" required>
 					<div class="text-danger" id="alertCorreo"></div>
 
-					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Direcci&oacute;n"
-						name="direccion">
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Direcci&oacute;n" 
+						name="direccion" id="direccion" required>
 					<div class="text-danger" id="alertDirección"></div>
 
 					<textarea class="form-control bordesInputContacto mt-3" placeholder="*Deje su mensaje adicional"
-						name="mensaje" class="textarea"></textarea>
+						name="mensaje" class="textarea" id="mensaje" required></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 
-					<div class="g-recaptcha mt-3 d-flex justify-content-center" data-sitekey="6LfwDCQcAAAAAIOPoOWO0fi_77rZgeSGTE3XeESS">
+					<div class="g-recaptcha mt-3 d-flex justify-content-center" 
+						data-sitekey="6LfwDCQcAAAAAIOPoOWO0fi_77rZgeSGTE3XeESS">
 					</div>
 					<div class="d-flex justify-content-center mt-3 mb-4"><br><br>
 						<button class="btn btn__orange btn__large font-weight-bold"
-						type="submit" name="submit"
+							type="submit" name="submit" 
 							data-action='submit' value="enviar" id="post"> Enviar
 						</button>
 					</div>
