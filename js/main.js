@@ -7,7 +7,7 @@ $( "#post" ).click(function() {
     var formData = new FormData(form);
     //formData.append('captcha',grecaptcha.getResponse());
     $.ajax({
-        url: "php/validacines.php",
+        url: "php/captcha.php",
         type: "POST",
         data: formData,
         contentType: false,

@@ -2,7 +2,7 @@
 
 
 <!-- custom script -->
-<script defer src="js/main.js"></script>
+<script async src="js/main.js"></script>
 
 <!-- jquery -->
 <script defer src="js/jquery.min.js"></script>
@@ -22,6 +22,8 @@
 <!-- wow -->
 <script src="js/wow.min.js"></script>
 
+
+<!--SweetAlert-->
 <script src="js/sweetalert2.js"></script>
 
 <script>
