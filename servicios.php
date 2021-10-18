@@ -423,19 +423,19 @@
 				<form action="php/captcha.php" method="post" id="myForm" enctype="multipart/form-data">
 
 					<input type="text" class="form-control bordesInputContacto" placeholder="*Nombre completo"
-						name="nombre" id="nombre" required >
+						name="nombre" id="nombre" required>
 					<div class="text-danger" id="alertNombre"></div>
 
 					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Tel. contacto"
-						name="telefono" maxlength="10" onkeypress='return validaNumericos(event)' id="telefono">
+						name="telefono" maxlength="10" onkeypress='return validaNumericos(event)' id="telefono" required>
 					<div class="text-danger" id="alertTelefono"></div>
 
-					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Email" name="correo" id="correo">
+					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="*Email" name="correo" id="correo" required>
 					<div class="text-danger" id="alertCorreo"></div>
 
 					<input type="text" class="form-control bordesInputContacto mt-3" placeholder="Direcci&oacute;n" 
-						name="direccion" id="direccion">
-					<div class="text-danger" id="alertDirección"></div>
+						name="direccion" id="direccion" required>
+					<div class="text-danger" id="alertDireccion"></div>
 
 					<textarea class="form-control bordesInputContacto mt-3" placeholder="*Deje su mensaje adicional"
 						name="mensaje" class="textarea" id="mensaje"></textarea>

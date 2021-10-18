@@ -6,6 +6,7 @@
     $alertnombre;
     $alertTelefono;
     $alertCorreo;
+    $alertDireccion;
     $alertTexto;
     $tipoAlerta="";
 
@@ -19,12 +20,13 @@
     $correo             = $_POST["correo"];
     $archivo;
         if (!empty($captcha)) {
-            if ($nombre == "" || $telefono== "" || $correo == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
+            if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
                 $acceso= "Error!";
                 $tipoAlerta="warning";
                 $mensaje = "<b>Faltan o llene correctamente los datos indicados</b></br>";
                 $mensaje .= "<b>Estas son las causas que impiden el correcto llenado del formulario:</b></br>";
+                
                 if ($nombre == "") 
                 {
                     $mensaje .="-Falta llenar <b>Nombre</b>.</br>";
@@ -43,6 +45,7 @@
                         $alertTelefono="Falta llenar Telefono.";
                     }
                 }
+
                 if ($correo == "" || is_valid_email($correo) != true) 
                 {
                     if (is_valid_email($correo) != true) 
@@ -56,11 +59,19 @@
                         $alertCorreo="Falta llenar Correo.";
                     }
                 }
+
+                if ($direccion == "" || $direccion == null) 
+                {
+                    $mensaje .="-Falta llenar <b>Dirección</b>.</br>";
+                    $alertDireccion="Falta llenar Dirección.";
+                }
+
                 if ($texto == "" || $texto == null) 
                 {
                     $mensaje .="-Falta llenar <b>Mensaje</b>.</br>";
                     $alertTexto="Falta llenar Mensaje.";
                 }
+
             }
             else
             {
@@ -69,7 +80,7 @@
                 $mensaje = "Mensaje enviado exitosamente";
                 $tipoAlerta="success";
             }     
-            $mensaje = "Llene correctamente los datos."; 
+            $mensaje = "Datos en blanco. Por favor ingrese sus datos"; 
         }
         else
         {
@@ -92,6 +103,7 @@ $return_arr = array(
                     "alertnombre" => $alertnombre,
                     "alertTelefono" => $alertTelefono,
                     "alertCorreo" => $alertCorreo,
+                    "alertDireccion" => $alertDireccion,
                     "alertTexto" => $alertTexto,
 
                     "tipoAlerta" => $tipoAlerta
