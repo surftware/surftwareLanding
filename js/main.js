@@ -28,6 +28,7 @@ $( "#post" ).click(function() {
                 $("#alertCorreo").text("");
                 $("#alertDireccion").text(""); 
                 $("#alertTexto").text(""); 
+                $("#alertRecaptcha").text(""); 
             }
             if (alerta['tipoAlerta'] !== "success") {
                 if (alerta['alertnombre'] !== null || alerta['alertnombre'] !== "") {
@@ -101,6 +102,26 @@ $( "#post" ).click(function() {
                     $("#alertTexto").addClass("text-success");
 
                     $("#alertTexto").text("Mensaje llenado con exito.");  
+                }
+
+                if (alerta['alertRecaptcha'] !== null || alerta['alertRecaptcha'] !== "") {
+                    $("#alertRecaptcha").removeClass("text-success");
+                    $("#alertRecaptcha").removeClass("text-danger");
+                    $("#alertRecaptcha").addClass("text-danger");
+
+                    $("#alertRecaptcha").text(alerta['alertRecaptcha']);                    
+                }
+
+                if (grecaptcha.getResponse().length === 0) {
+                    Swal.showValidationMessage(`Por favor resuelva el captcha`)
+                  }
+
+                if (alerta['alertRecaptcha'] === null || alerta['alertRecaptcha'] === "") {
+                    $("#alertRecaptcha").removeClass("text-success");
+                    $("#alertRecaptcha").removeClass("text-danger");
+                    $("#alertRecaptcha").addClass("text-success");
+
+                    $("#alertRecaptcha").text("Recaptcha llenado con exito.");  
                 }
                 
             }

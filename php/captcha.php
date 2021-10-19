@@ -8,6 +8,7 @@
     $alertCorreo;
     $alertDireccion;
     $alertTexto;
+    $alertRecaptcha;
     $tipoAlerta="";
 
   //Enviar a correo electronico
@@ -18,9 +19,11 @@
     $direccion          = $_POST["direccion"];
     $texto              = $_POST["mensaje"];
     $correo             = $_POST["correo"];
+    $recaptcha          = $_POST["recaptcha"];
     $archivo;
+
         if (!empty($captcha)) {
-            if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
+            if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || $recaptcha == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
                 $acceso= "Error!";
                 $tipoAlerta="warning";
@@ -70,6 +73,12 @@
                 {
                     $mensaje .="-Falta llenar <b>Mensaje</b>.</br>";
                     $alertTexto="Falta llenar Mensaje.";
+                }
+
+                if ($recaptcha == "" || $recaptcha == null) 
+                {
+                    $mensaje .="-Falta llenar <b>Recaptcha</b>.</br>";
+                    $alertRecaptcha="Falta llenar Recaptcha.";
                 }
 
             }
