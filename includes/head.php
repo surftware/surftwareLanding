@@ -27,6 +27,9 @@
         src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
+
+
+
     <!--favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">

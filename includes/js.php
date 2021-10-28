@@ -2,26 +2,28 @@
 
 
 <!-- custom script -->
-<script src="js/main.js"></script>
+<script async src="js/main.js"></script>
 
 <!-- jquery -->
-<script src="js/jquery.min.js"></script>
+<script defer src="js/jquery.min.js"></script>
 
 <!-- bootstrap js-->
-<script src="bootstrap/js/bootstrap.min.js"></script>
+<script async src="bootstrap/js/bootstrap.min.js"></script>
 
 <!-- fontawesome js-->
-<script src="fontawesome/js/all.min.js"></script>
+<script async src="fontawesome/js/all.min.js"></script>
 
 <!-- custom script -->
-<script src="js/myscript.js"></script>
+<script async src="js/myscript.js"></script>
 
 <!-- owl carousel -->
-<script src="js/owl.carousel.min.js"></script>
+<script async src="js/owl.carousel.min.js"></script>
 
 <!-- wow -->
 <script src="js/wow.min.js"></script>
 
+
+<!--SweetAlert-->
 <script src="js/sweetalert2.js"></script>
 
 <script>
@@ -43,7 +45,7 @@
 -->
 
 <!-- Recaptcha V2-->
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script async defer src="https://www.google.com/recaptcha/api.js"></script>
 
 <!-- Script para el funcionamiento del navbar-->
 <script type="text/javascript">
@@ -59,7 +61,6 @@
  
 
 <!-- Script reloj -->
-
 <script src="//widget.time.is/es.js"></script>
 <script>
 	time_is_widget.init({
