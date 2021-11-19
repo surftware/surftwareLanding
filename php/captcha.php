@@ -11,6 +11,25 @@
     $alertRecaptcha;
     $tipoAlerta="";
 
+	$destinatario = 'contacto@surftware.com.mx'; // en esta línea va el mail del destinatario.
+	$asunto = 'Consulta para Surftware'; // acá se puede modificar el asunto del mail
+    $nombre = $_POST["nombre"];
+    $telefono = $_POST["telefono"];
+    $correo = $_POST["correo"];
+    $direccion = $_POST["direccion"];
+    $mensaje = $_POST["mensaje"];
+    $cuerpo = "Nombre: " . $nombre . "\n Telefono: " . $telefono . "\n Correo: " . $correo . "\n Direccion: " . $direccion . "\nMensaje: " . $mensaje;
+    
+    $headers  = "MIME-Version: 1.0\n";
+    $headers .= "Content-type: text/plain; charset=utf-8\n";
+    $headers .= "X-Priority: 3\n";
+    $headers .= "X-MSMail-Priority: Normal\n";
+    $headers .= "X-Mailer: php\n";
+    $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
+
+    mail($destinatario, $asunto, $cuerpo, $headers);
+
+
   //Enviar a correo electronico
   $captcha="pruebaModoLocal";
   if (!empty($_POST)) {
@@ -23,7 +42,7 @@
     $archivo;
 
         if (!empty($captcha)) {
-            if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || $recaptcha == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
+            if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
                 $acceso= "Error!";
                 $tipoAlerta="warning";
@@ -73,12 +92,6 @@
                 {
                     $mensaje .="-Falta llenar <b>Mensaje</b>.</br>";
                     $alertTexto="Falta llenar Mensaje.";
-                }
-
-                if ($recaptcha == "" || $recaptcha == null) 
-                {
-                    $mensaje .="-Falta llenar <b>Recaptcha</b>.</br>";
-                    $alertRecaptcha="Falta llenar Recaptcha.";
                 }
 
             }
@@ -141,6 +154,7 @@ function enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto){
 			mail($destinatario, $asunto, $cuerpo, $headers);
 		}
 }
+
 function is_valid_email($str)
 {
   return (false !== strpos($str, "@") && false !== strpos($str, "."));
