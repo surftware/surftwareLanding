@@ -100,7 +100,7 @@
 						<a href="servicios.php#">Servicios</a>
 					</li>
 					<li>
-						<a class="sub"> <i class="fas fa-sort-down"></i>&nbsp;Tutoriales</a>
+						<a class="sub"> <i class="fas fa-sort-down"></i>&nbsp;Tutos</a>
 						<ul>
 							<li><a href="tutoriales.php#QGIS"> <i class="fas fa-play-circle"></i>&nbsp; Tutorial QGIS
 									3.10</a></li>
