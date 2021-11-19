@@ -79,7 +79,7 @@
 								</ul>
 							</li>
 							<li>
-								<a href="https://www.surftware.com.mx/shop/">Shop</a>
+								<a href="https://www.surftware.com.mx/shop/">Tienda</a>
 							</li>
 						</ul>
 						<div class="btn__wrap__center">
