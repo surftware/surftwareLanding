@@ -2,7 +2,7 @@
 
 
 <!-- custom script -->
-<script async src="js/main.js"></script>
+<script async defer src="js/main.js"></script>
 
 <!-- jquery -->
 <script defer src="js/jquery.min.js"></script>
@@ -14,7 +14,7 @@
 <script async src="fontawesome/js/all.min.js"></script>
 
 <!-- custom script -->
-<script async src="js/myscript.js"></script>
+<script async defer src="js/myscript.js"></script>
 
 <!-- owl carousel -->
 <script async src="js/owl.carousel.min.js"></script>
@@ -24,7 +24,7 @@
 
 
 <!--SweetAlert-->
-<script src="js/sweetalert2.js"></script>
+<script async defer src="js/sweetalert2.js"></script>
 
 <script>
 	function myFunction() {

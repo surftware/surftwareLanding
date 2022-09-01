@@ -420,7 +420,7 @@
 				<div class="mb-4 tituloRedesSociales text-center">
 					Solicitar servicio
 				</div>
-				<form action="php/captcha.php" method="post" id="myForm" enctype="multipart/form-data">
+				<form action="php/captcha.php" method="post" id="myForm" enctype="multipart/form-data" target="_blank">
 
 					<input type="text" class="form-control bordesInputContacto" placeholder="*Nombre completo"
 						name="nombre" id="nombre" required>
@@ -438,7 +438,7 @@
 					<div class="text-danger" id="alertDireccion"></div>
 
 					<textarea class="form-control bordesInputContacto mt-3" placeholder="*Deje su mensaje adicional"
-						name="mensaje" class="textarea" id="mensaje"></textarea>
+						name="mensaje" class="textarea" id="mensaje" required></textarea>
 					<div class="text-danger" id="alertTexto"></div>
 
 					<div class="g-recaptcha mt-3 d-flex justify-content-center"
@@ -448,7 +448,7 @@
 
 					<div class="d-flex justify-content-center mt-3 mb-4"><br><br>
 						<button class="btn btn__orange btn__large font-weight-bold"
-							type="submit" name="submit" onclick="myFunction()"
+							type="submit" name="submit" onclick="form()"
 							data-action='submit' value="enviar" id="post"> Enviar
 						</button>
 					</div>
