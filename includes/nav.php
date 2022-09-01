@@ -24,11 +24,11 @@
 									Chico</span>
 							</a>
 						</li>
-					
-							
-						
+
+
+
 					</ul>
-					<span id="Mexico_City_z159"  class="reloj"></span>
+					<span id="Mexico_City_z159" class="reloj"></span>
 					<div class="d-flex justify-content-end">
 						<a href="https://www.facebook.com/arciniegaarmando" target="_blank">
 							<i class="iconSocial fab fa-facebook"></i>
@@ -78,10 +78,12 @@
 											tu lámpara LED</a></li>
 								</ul>
 							</li>
+							<li>
+								<a href="https://www.surftware.com.mx/shop/">Tienda</a>
 							</li>
 						</ul>
 						<div class="btn__wrap__center">
-							<a href="servicios.php#contacts" class="btn btn__medium btn__blue" >Contáctanos!</a>
+							<a href="servicios.php#contacts" class="btn btn__medium btn__blue">Contáctanos!</a>
 						</div>
 					</div>
 					<div class="menu_toggle">
@@ -100,9 +102,12 @@
 					<li>
 						<a class="sub"> <i class="fas fa-sort-down"></i>&nbsp;Tutoriales</a>
 						<ul>
-							<li><a href="tutoriales.php#QGIS"> <i class="fas fa-play-circle"></i>&nbsp; Tutorial QGIS 3.10</a></li>
-							<li><a href="tutoriales.php#MAC"> <i class="fas fa-play-circle"></i>&nbsp; Instalación de W10 en Mac</a></li>
-							<li><a href="tutoriales.php#LED"> <i class="fas fa-play-circle"></i>&nbsp; Construye tu lámpara LED</a></li>
+							<li><a href="tutoriales.php#QGIS"> <i class="fas fa-play-circle"></i>&nbsp; Tutorial QGIS
+									3.10</a></li>
+							<li><a href="tutoriales.php#MAC"> <i class="fas fa-play-circle"></i>&nbsp; Instalación de
+									W10 en Mac</a></li>
+							<li><a href="tutoriales.php#LED"> <i class="fas fa-play-circle"></i>&nbsp; Construye tu
+									lámpara LED</a></li>
 						</ul>
 					</li>
 				</ul>

@@ -7,7 +7,7 @@ $( "#post" ).click(function() {
     var formData = new FormData(form);
     //formData.append('captcha',grecaptcha.getResponse());
     $.ajax({
-        url: "php/validacines.php",
+        url: "php/captcha.php",
         type: "POST",
         data: formData,
         contentType: false,
@@ -26,7 +26,9 @@ $( "#post" ).click(function() {
                 $("#alertNombre").text("");
                 $("#alertTelefono").text("");
                 $("#alertCorreo").text("");
-                $("#alertTexto").text("");  
+                $("#alertDireccion").text(""); 
+                $("#alertTexto").text(""); 
+                $("#alertRecaptcha").text(""); 
             }
             if (alerta['tipoAlerta'] !== "success") {
                 if (alerta['alertnombre'] !== null || alerta['alertnombre'] !== "") {
@@ -71,6 +73,22 @@ $( "#post" ).click(function() {
 
                     $("#alertCorreo").text("Correo llenado con exito.");     
                 }
+
+                if (alerta['alertDireccion'] !== null || alerta['alertDireccion'] !== "") {
+                    $("#alertDireccion").removeClass("text-success");
+                    $("#alertDireccion").removeClass("text-danger");
+                    $("#alertDireccion").addClass("text-danger");
+
+                    $("#alertDireccion").text(alerta['alertDireccion']);                    
+                }
+                if (alerta['alertDireccion'] === null || alerta['alertDireccion'] === "") {
+                    $("#alertDireccion").removeClass("text-success");
+                    $("#alertDireccion").removeClass("text-danger");
+                    $("#alertDireccion").addClass("text-success");
+
+                    $("#alertDireccion").text("Mensaje llenado con exito.");  
+                }
+
                 if (alerta['alertTexto'] !== null || alerta['alertTexto'] !== "") {
                     $("#alertTexto").removeClass("text-success");
                     $("#alertTexto").removeClass("text-danger");
@@ -85,6 +103,27 @@ $( "#post" ).click(function() {
 
                     $("#alertTexto").text("Mensaje llenado con exito.");  
                 }
+
+                if (alerta['alertRecaptcha'] !== null || alerta['alertRecaptcha'] !== "") {
+                    $("#alertRecaptcha").removeClass("text-success");
+                    $("#alertRecaptcha").removeClass("text-danger");
+                    $("#alertRecaptcha").addClass("text-danger");
+
+                    $("#alertRecaptcha").text(alerta['alertRecaptcha']);                    
+                }
+
+                if (grecaptcha.getResponse().length === 0) {
+                    Swal.showValidationMessage(`Por favor resuelva el captcha`)
+                  }
+
+                if (alerta['alertRecaptcha'] === null || alerta['alertRecaptcha'] === "") {
+                    $("#alertRecaptcha").removeClass("text-success");
+                    $("#alertRecaptcha").removeClass("text-danger");
+                    $("#alertRecaptcha").addClass("text-success");
+
+                    $("#alertRecaptcha").text("Recaptcha llenado con exito.");  
+                }
+                
             }
             $submitButton = document.getElementById("post").value;
         }
